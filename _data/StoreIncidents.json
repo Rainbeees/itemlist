@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -327,7 +332,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
@@ -504,7 +509,92 @@
 		"abr": "fungalhuskwandersin",
 		"price": 600,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "iceage",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "globalwarming",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "psychicrain",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "longnight",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "psychicbloom",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "veemeteoriteshower",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "animalpodcrash",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "spacebattle",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "earthquake",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cargopodsweapons",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "cargopodsapparel",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "caravananimals",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "battleanimals",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "wildmen",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 101
+	"total": 119
 }

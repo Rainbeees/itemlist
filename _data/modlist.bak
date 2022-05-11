@@ -30,6 +30,12 @@
     "version": null
   },
   {
+    "author": "RimWorld Multiplayer Team",
+    "name": "Multiplayer",
+    "steamId": "2606448745",
+    "version": "0.3"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -114,6 +120,48 @@
     "version": "1.3.0.3"
   },
   {
+    "author": "Mlie",
+    "name": "Rats!",
+    "steamId": "2496563418",
+    "version": "1.3.5"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer\"ish\":Dryad",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Universal Fermenter",
+    "steamId": "2073225100",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.3.4.6"
+  },
+  {
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cosmic Horrors",
     "steamId": "765890823",
@@ -134,14 +182,20 @@
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded",
-    "steamId": "2134308519",
-    "version": "1.3.7862.41411"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson and  Oskar Potocki",
@@ -261,7 +315,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.3"
+    "version": "6.2.0.5"
   },
   {
     "author": "saschahi",
@@ -286,12 +340,6 @@
     "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
@@ -324,12 +372,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Benji // Steam: Cute Twink",
     "name": "Moonjelly Race",
     "steamId": null,
@@ -346,12 +388,6 @@
     "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and  XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.6.0"
   },
   {
     "author": "Benji // Steam: Cute Twink",
@@ -376,6 +412,12 @@
     "name": "RimConnect",
     "steamId": "1880784338",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded (Dev)",
+    "steamId": "2195733555",
+    "version": "1.4.0.1"
   },
   {
     "author": "Avius and  Hazzer",
@@ -558,12 +600,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sarg",
     "name": "Alpha Biomes",
     "steamId": "1841354677",
@@ -586,12 +622,6 @@
     "name": "Rim of Madness - Bones",
     "steamId": "1180573408",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Rats!",
-    "steamId": "2496563418",
-    "version": "1.3.5"
   },
   {
     "author": "Mlie",
@@ -772,5 +802,479 @@
     "name": "[KV] Trading Spot",
     "steamId": "1180719658",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Magos Xenobiologis",
+    "steamId": "1541499916",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Orkoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Aeldari",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheSleeplessSorclock and  Haecriver",
+    "name": "Age Morphosis Cells (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Caulaflower and  ShakestheSpear",
+    "name": "Amogus Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam and  ILuvSilicon",
+    "name": "Angel Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti",
+    "name": "Anima Dryads",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7969.5967"
+  },
+  {
+    "author": "R-MK",
+    "name": "Anthro Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Avoid Friendly Fire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.5"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Blueberries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spanky_H",
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zamnath",
+    "name": "Black Widows (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Clone Bay",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Crystal race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Thrumkin",
+    "steamId": "2017359567",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Naga",
+    "steamId": "1539971494",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harpy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Crossover",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Engi race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rocka / hauvega",
+    "name": "Equiums",
+    "steamId": "1211945995",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Essentials: Stone",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Turnovus",
+    "name": "Extended Bioengineering for VFE Insectoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "NanoCE",
+    "name": "Glass+Lights",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield",
+    "steamId": "1461790308",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xenofell",
+    "name": "Ladies Can Flirt Too!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Lanius race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Dwarves",
+    "steamId": "1400238872",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Dwarves (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Elves (Continued)",
+    "steamId": "2244183992",
+    "version": "1.0.13.0"
+  },
+  {
+    "author": "Saebbi and Napon",
+    "name": "Lord of the Rims - Ents (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Hobbits (Continued)",
+    "steamId": "2244226597",
+    "version": "1.0.8.0"
+  },
+  {
+    "author": "erdelf and Jecrell",
+    "name": "Lord of the Rims - The Third Age (Continued)",
+    "steamId": "2242416385",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Mantis race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Prosthetic Table",
+    "steamId": "1473332565",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kage",
+    "name": "Resource Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fox with a Shotgun",
+    "name": "Revia Race",
+    "steamId": "2020041005",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "RimRaces - Caerulean Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "RimRaces - Cruttun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "RimRaces - Grodan Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "RimRaces - Xotan Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0"
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Robots!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Smart Medicine",
+    "steamId": "1309994319",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Slug race",
+    "steamId": "2071728181",
+    "version": "1.0.7927.38256"
+  },
+  {
+    "author": "Sarg Bjornson and  Ben Lubar",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Daemonettes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Fimir",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Gor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Skaven",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Zhthy'hl",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Zoltan race",
+    "steamId": "2032477436",
+    "version": "0.15.1.0"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer:Freeguild",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.4"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.6.5"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Drones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "VinaLx",
+    "name": "ResearchPal - Forked",
+    "steamId": "2351393394",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.7364"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
   }
 ]
