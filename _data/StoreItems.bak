@@ -3766,49 +3766,49 @@
       "abr": "arcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes",
-      "price": -6
+      "price": 650
     },
     {
       "abr": "arcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder",
-      "price": -6
+      "price": 4417
     },
     {
       "abr": "arcanehood",
@@ -3820,7 +3820,7 @@
       "abr": "arcanescript:???",
       "category": "Skill books",
       "defname": "BookOfQuestion",
-      "price": -6
+      "price": 2500
     },
     {
       "abr": "arcanespell:gateway",
@@ -3832,121 +3832,121 @@
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:chaosmage",
       "category": "Skill books",
       "defname": "BookOfChaos",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:chronomancer",
       "category": "Skill books",
       "defname": "BookOfChronomancer",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:demonology",
       "category": "Skill books",
       "defname": "BookOfDemons",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:earth",
       "category": "Skill books",
       "defname": "BookOfEarth",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:enchanter",
       "category": "Skill books",
       "defname": "BookOfEnchanter",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:fire",
       "category": "Skill books",
       "defname": "BookOfInnerFire",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:golemancer",
       "category": "Skill books",
       "defname": "BookOfGolemancy",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:hemomancy",
       "category": "Skill books",
       "defname": "BookOfHemomancy",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:ice",
       "category": "Skill books",
       "defname": "BookOfHeartOfFrost",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:lightning",
       "category": "Skill books",
       "defname": "BookOfStormBorn",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:necromancer",
       "category": "Skill books",
       "defname": "BookOfNecromancer",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:power",
       "category": "Skill books",
       "defname": "BookOfArcanist",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:shadow",
       "category": "Skill books",
       "defname": "BookOfShadow",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:shaman",
       "category": "Skill books",
       "defname": "BookOfShamanism",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:summoning",
       "category": "Skill books",
       "defname": "BookOfSummoner",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "arcanetome:technomancy",
       "category": "Skill books",
       "defname": "BookOfMagitech",
-      "price": -6
+      "price": 5500
     },
     {
       "abr": "archotechviolencegenerator",
@@ -6970,49 +6970,49 @@
       "abr": "minorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes_minor",
-      "price": -6
+      "price": 283
     },
     {
       "abr": "minorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_minor",
-      "price": -6
+      "price": 1983
     },
     {
       "abr": "mintcoffee",
@@ -7468,7 +7468,7 @@
       "abr": "potatoidvessel",
       "category": "Manufactured",
       "defname": "PotatoidVessel",
-      "price": -6
+      "price": 3000
     },
     {
       "abr": "powershower",
@@ -23590,1273 +23590,1273 @@
       "abr": "saltedaberrantmeat",
       "category": "Salted meat",
       "defname": "Meat_GR_AberrantFleshbeastSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedaerofleetmeat",
       "category": "Salted meat",
       "defname": "AA_AerofleetMeatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedalligatormeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_AlligatorSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedalpacameat",
       "category": "Salted meat",
       "defname": "Meat_AlpacaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedalphabeavermeat",
       "category": "Salted meat",
       "defname": "Meat_AlphabeaverSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedambullmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Xenos_AmbullSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedamogusmeat",
       "category": "Salted meat",
       "defname": "Meat_AmogusRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedandroidmeat",
       "category": "Salted meat",
       "defname": "Meat_ChjAndroidSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedangelracemeat",
       "category": "Salted meat",
       "defname": "Meat_AngelRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedanthromeat",
       "category": "Salted meat",
       "defname": "Meat_AnthroSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedarcturanskyeelmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_SkyeelSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedatispecmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_AtispecSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbadgermeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_BadgerSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbaphometmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_BaphometSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbeanosmeat",
       "category": "Salted meat",
       "defname": "Meat_DabeanSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedbearmeat",
       "category": "Salted meat",
       "defname": "Meat_Bear_GrizzlySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbeef",
       "category": "Salted meat",
       "defname": "Meat_CowSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbirdmeat",
       "category": "Salted meat",
       "defname": "Meat_CassowarySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbisonmeat",
       "category": "Salted meat",
       "defname": "Meat_BisonSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedblackwidowmeat",
       "category": "Salted meat",
       "defname": "Meat_Races_BlackWidowSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbloodbouquet",
       "category": "Salted meat",
       "defname": "AB_RawBloodBouquetSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedboomalopemeat",
       "category": "Salted meat",
       "defname": "Meat_BoomalopeSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedboomratmeat",
       "category": "Salted meat",
       "defname": "Meat_BoomratSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedbun-dogmeat",
       "category": "Salted meat",
       "defname": "Meat_CynobunSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcactoidmeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_CactoidSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcaeruleanmeat",
       "category": "Salted meat",
       "defname": "Meat_CaeruleanRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedcapybarameat",
       "category": "Salted meat",
       "defname": "Meat_CapybaraSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcariboumeat",
       "category": "Salted meat",
       "defname": "Meat_CaribouSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcatmeat",
       "category": "Salted meat",
       "defname": "Meat_CatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcatgirlmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_CatgirlSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcentaurmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_CentaurSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcheetahmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_CheetahSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedchickenmeat",
       "category": "Salted meat",
       "defname": "Meat_ChickenSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedchinchillameat",
       "category": "Salted meat",
       "defname": "Meat_ChinchillaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedchromandermeat",
       "category": "Salted meat",
       "defname": "Meat_LTF_Lanius_NeonGecko_ThingDefSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedclawedfiendmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Xenos_ClawedFiendSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcobrameat",
       "category": "Salted meat",
       "defname": "Meat_CobraSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcougarmeat",
       "category": "Salted meat",
       "defname": "Meat_CougarSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcowgirlmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_CowgirlSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcrabmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_BoulderMitSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcrispymeat",
       "category": "Salted meat",
       "defname": "GR_TastyMeatSalted",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "saltedcrocodilemeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_CrocodileSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedcruttunmeat",
       "category": "Salted meat",
       "defname": "Meat_CruttunRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "salteddaemonettemeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_DaemonetteSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddarkeldarmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_DarkEldarSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddarkmarbledsteak",
       "category": "Salted meat",
       "defname": "Meat_AA_NightMuleSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddeathangelracemeat",
       "category": "Salted meat",
       "defname": "Meat_DeathAngelRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "salteddemonflesh",
       "category": "Salted meat",
       "defname": "Meat_TM_DemonRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddemonflesh",
       "category": "Salted meat",
       "defname": "Meat_TM_LesserDemonRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddevilsheepmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_DevilSheepSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddogmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_BeagleSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddonkeymeat",
       "category": "Salted meat",
       "defname": "Meat_DonkeySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddragon(fire-drake)meat",
       "category": "Salted meat",
       "defname": "Meat_LotRD_DragonFireDrakeRaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddragonmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_DragonSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddromedarymeat",
       "category": "Salted meat",
       "defname": "Meat_DromedarySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddryadmeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_DryadSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedduckmeat",
       "category": "Salted meat",
       "defname": "Meat_DuckSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "salteddwarfmeat",
       "category": "Salted meat",
       "defname": "Meat_LotRD_DwarfStandardRaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedeatinsquigmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Squig_EatinSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedeldarmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_EldarSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_LesserEarth_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_Earth_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_GreaterEarth_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_LesserFire_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_Fire_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_GreaterFire_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_LesserWater_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_Water_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_GreaterWater_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_LesserWind_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_Wind_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelementaldust",
       "category": "Salted meat",
       "defname": "Meat_TM_GreaterWind_ElementalRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelephantmeat",
       "category": "Salted meat",
       "defname": "Meat_ElephantSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelfmeat",
       "category": "Salted meat",
       "defname": "Meat_LotRE_ElfStandardRaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedelkmeat",
       "category": "Salted meat",
       "defname": "Meat_ElkSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedentmeat",
       "category": "Salted meat",
       "defname": "Meat_Ent_RaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedequiummeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_EquiumSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedequiummeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_KEquiumSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedequiummeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_SMaleEquiumSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedfenrirmeat",
       "category": "Salted meat",
       "defname": "Meat_VFEV_FenrirSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedfiendmeat",
       "category": "Salted meat",
       "defname": "Meat_FiendSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedfiendmeat",
       "category": "Salted meat",
       "defname": "Meat_FiendCovBaseSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedfimirmeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_FimmSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedforestfairymeat",
       "category": "Salted meat",
       "defname": "Meat_MG_ForestFairySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedfoxmeat",
       "category": "Salted meat",
       "defname": "Meat_Fox_FennecSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedfoxgirlmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_FoxgirlSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedfrostlingmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_FrostlingSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgallatrossmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_GallatrossSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgazellemeat",
       "category": "Salted meat",
       "defname": "Meat_GazelleSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgiantskeletonmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_GiantSkeletonRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgigantelopemeat",
       "category": "Salted meat",
       "defname": "Meat_AA_GigantelopeSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgiraffemeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_GiraffeSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgoatmeat",
       "category": "Salted meat",
       "defname": "Meat_GoatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgormeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_GorSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgrodanmeat",
       "category": "Salted meat",
       "defname": "Meat_GrodanRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedgrotmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_GrotSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgroundrunnermeat",
       "category": "Salted meat",
       "defname": "Meat_AA_GroundrunnerSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedguineapigmeat",
       "category": "Salted meat",
       "defname": "Meat_GuineaPigSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedgyrinxmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_GyrinxSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhalf-elfmeat",
       "category": "Salted meat",
       "defname": "Meat_LotRE_ElfStandardRaceHalfSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedharemeat",
       "category": "Salted meat",
       "defname": "Meat_HareSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedharpymeat",
       "category": "Salted meat",
       "defname": "Meat_HarpySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedharpymeat",
       "category": "Salted meat",
       "defname": "Meat_MG_HarpySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhedgehogmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_HedgehogSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhippopotamusmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_HippopotamusSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhobbitmeat",
       "category": "Salted meat",
       "defname": "Meat_LotRH_HobbitStandardRaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhollowgolemmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_HollowGolemSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhorsemeat",
       "category": "Salted meat",
       "defname": "Meat_HorseSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhorsemeat",
       "category": "Salted meat",
       "defname": "Meat_LotR_HorseRaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhumanmeat",
       "category": "Salted meat",
       "defname": "Meat_HumanSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedhuornmeat",
       "category": "Salted meat",
       "defname": "Meat_HuornSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhuskymeat",
       "category": "Salted meat",
       "defname": "Meat_HuskySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedhyenameat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_HyenaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedibexmeat",
       "category": "Salted meat",
       "defname": "Meat_IbexSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedicefairymeat",
       "category": "Salted meat",
       "defname": "Meat_MG_IceFairySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltediguanameat",
       "category": "Salted meat",
       "defname": "Meat_IguanaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedimmaturedryadmeat",
       "category": "Salted meat",
       "defname": "Meat_Dryad_BasicSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedinsectmeat",
       "category": "Salted meat",
       "defname": "Meat_MegaspiderSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedjaguarmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_JaguarSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedkangaroomeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_KangarooSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedknarlocmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_KnarlocSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedkoalameat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_KoalaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedkrapkenmeat",
       "category": "Salted meat",
       "defname": "Meat_LTF_KrapkenSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedkrootmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_KrootSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedkrootoxmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_KrootOxSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedkroothoundmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_KroothoundSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlabradorretrievermeat",
       "category": "Salted meat",
       "defname": "Meat_LabradorRetrieverSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlarvalshadowmeat",
       "category": "Salted meat",
       "defname": "Meat_BWShadowWormSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlionmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_ArcticLionSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlionmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_LionSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlizardmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_RoughPlatedMonitorSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlórienvenison",
       "category": "Salted meat",
       "defname": "Meat_LotRE_DeerMallornSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlothurrmeat",
       "category": "Salted meat",
       "defname": "Meat_VFEV_LothurrSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedlynxmeat",
       "category": "Salted meat",
       "defname": "Meat_LynxSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmeadowavemeat",
       "category": "Salted meat",
       "defname": "Meat_AA_MeadowAveSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_SpiritWolfRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmegaslothmeat",
       "category": "Salted meat",
       "defname": "Meat_MegaslothSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmegawolverinemeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_MegaWolverineSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmonkeymeat",
       "category": "Salted meat",
       "defname": "Meat_MonkeySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmoosemeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_MooseSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmoyomeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_MoyoSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedmuffalomeat",
       "category": "Salted meat",
       "defname": "Meat_MuffaloSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmuskoxmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_MuskoxSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmysterymeat",
       "category": "Salted meat",
       "defname": "Meat_TM_MinionRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedmysterymeat",
       "category": "Salted meat",
       "defname": "Meat_TM_GreaterMinionRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltednagameat",
       "category": "Salted meat",
       "defname": "Meat_NagaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltednightlingmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_NightlingSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltednjorunmeat",
       "category": "Salted meat",
       "defname": "Meat_VFEV_NjorunSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedocularjellymeat",
       "category": "Salted meat",
       "defname": "AA_OcularJellyMeatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedoilysquigmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Squig_OilySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedorkmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_OrkSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedottermeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_OtterSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedovergrowncolossusmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_OvergrownColossusSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedpanthermeat",
       "category": "Salted meat",
       "defname": "Meat_PantherSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedpinnipedmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_SealSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedplatypusmeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_PlatypusSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedponymeat",
       "category": "Salted meat",
       "defname": "Meat_LotR_PonyRaceSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedpoppimeat",
       "category": "Salted meat",
       "defname": "Meat_TM_PoppiSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedporcupinemeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_PorcupineSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedpork",
       "category": "Salted meat",
       "defname": "Meat_PigSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedpot",
       "category": "Furniture",
       "defname": "LotR_SaltBarrel",
-      "price": 64
+      "price": 106
     },
     {
       "abr": "saltedprimatemeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_GorillaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedprimitiveequiummeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_PEquiumSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedraccoonmeat",
       "category": "Salted meat",
       "defname": "Meat_RaccoonSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedraptorshrimpflesh",
       "category": "Salted meat",
       "defname": "Meat_AA_RaptorShrimpSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedratmeat",
       "category": "Salted meat",
       "defname": "Meat_RatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedrawfish",
       "category": "Salted meat",
       "defname": "AEXP_RawFishSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedrazorjackmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_RazorjackSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedredpandameat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_RedPandaSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedreviameat",
       "category": "Salted meat",
       "defname": "Meat_ReviaRaceAlienSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedrhinocerosmeat",
       "category": "Salted meat",
       "defname": "Meat_RhinocerosSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedripperhoundmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_RipperHoundSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedshaggybun-dogmeat",
       "category": "Salted meat",
       "defname": "Meat_CynobunHirsutusSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsheepmeat",
       "category": "Salted meat",
       "defname": "Meat_SheepSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedskavenmeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_SkavenSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedskeletonlichmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_SkeletonLichRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedskeletonmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_SkeletonRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedskrixmeat",
       "category": "Salted meat",
       "defname": "Skrix_Custom_MeatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedslimemeat",
       "category": "Salted meat",
       "defname": "Meat_MG_SlimeSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedslugmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_HelixienSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsmokedmeat",
       "category": "Salted meat",
       "defname": "VFEM_SmokedMeatSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsnotlingmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Ork_SnotlingSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsnotlingmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_SnotlingSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedspiritbearmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_SpiritBearRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedspiritcrowmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_SpiritCrowRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedspiritmongoosemeat",
       "category": "Salted meat",
       "defname": "Meat_TM_SpiritMongooseRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsquidmeat",
       "category": "Salted meat",
       "defname": "Meat_AA_SandSquidSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsquigmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_SquigSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsquirrelmeat",
       "category": "Salted meat",
       "defname": "Meat_SquirrelSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsteedmeat",
       "category": "Salted meat",
       "defname": "Meat_SteedSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedsteedmeat",
       "category": "Salted meat",
       "defname": "Meat_SteedCovBaseSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedstone",
       "category": "Salted meat",
       "defname": "Meat_TM_Lesser_SentinelRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedstone",
       "category": "Salted meat",
       "defname": "Meat_TM_SentinelRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedstone",
       "category": "Salted meat",
       "defname": "Meat_TM_Greater_SentinelRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedtaumeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_TauSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedthrumbomeat",
       "category": "Salted meat",
       "defname": "Meat_ThrumboSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedthrumbogirlmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_ThrumbogirlSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedtigermeat",
       "category": "Salted meat",
       "defname": "Meat_AEXP_TigerSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedtortoisemeat",
       "category": "Salted meat",
       "defname": "Meat_TortoiseSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedturkeymeat",
       "category": "Salted meat",
       "defname": "Meat_TurkeySalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedvenison",
       "category": "Salted meat",
       "defname": "Meat_DeerSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedvespidmeat",
       "category": "Salted meat",
       "defname": "Meat_OG_Alien_VespidSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedwargmeat",
       "category": "Salted meat",
       "defname": "Meat_WargSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedwolfmeat",
       "category": "Salted meat",
       "defname": "Meat_Wolf_TimberSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedwolfgirlmeat",
       "category": "Salted meat",
       "defname": "Meat_MG_WolfgirlSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedwolfhoundmeat",
       "category": "Salted meat",
       "defname": "Meat_VFEV_WolfhoundSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedwolfmeat",
       "category": "Salted meat",
       "defname": "Meat_TM_Dire_WolfRSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedwurmimwartenmothmeat",
       "category": "Salted meat",
       "defname": "Meat_BWFlooferMothSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedxotanmeat",
       "category": "Salted meat",
       "defname": "Meat_XotanRaceSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "saltedyakbeef",
       "category": "Salted meat",
       "defname": "Meat_YakSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedyorkshireterriermeat",
       "category": "Salted meat",
       "defname": "Meat_YorkshireTerrierSalted",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "saltedzhthy'hlmeat",
       "category": "Salted meat",
       "defname": "Meat_Alien_ZhthyhlSalted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "samuraiskill:bladeparry",
@@ -27857,7 +27857,193 @@
       "category": "Mortar shells",
       "defname": "AB_Shell_Tar",
       "price": 56
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestpilfurbed",
+      "category": "Furniture",
+      "defname": "PILFURBedGuest",
+      "price": 70
+    },
+    {
+      "abr": "guestsnoreggsinglebed",
+      "category": "Furniture",
+      "defname": "SNOREGGSingleGuest",
+      "price": 276
+    },
+    {
+      "abr": "guestsnoreggdoublebed",
+      "category": "Furniture",
+      "defname": "SNOREGGDoubleGuest",
+      "price": 517
+    },
+    {
+      "abr": "guestkrudneppsinglebed",
+      "category": "Furniture",
+      "defname": "KRUDNEPPSingleGuest",
+      "price": 172
+    },
+    {
+      "abr": "guestslabneppdoublebed",
+      "category": "Furniture",
+      "defname": "SLABNEPPDoubleGuest",
+      "price": 342
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": 833
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": 1483
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBedGuest",
+      "price": 171
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": 350
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "OGO_BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestwidowsilkbed",
+      "category": "Furniture",
+      "defname": "WidowBedGuest",
+      "price": 1017
+    },
+    {
+      "abr": "guestelvenloungebed",
+      "category": "Furniture",
+      "defname": "LotRE_ElvenBedGuest",
+      "price": 105
+    },
+    {
+      "abr": "guestelvenroyalbed",
+      "category": "Furniture",
+      "defname": "LotRE_ElvenRoyalBedGuest",
+      "price": 1225
+    },
+    {
+      "abr": "guestpillowpile",
+      "category": "Furniture",
+      "defname": "SlaaDoublePillowBedGuest",
+      "price": 342
+    },
+    {
+      "abr": "guestchaiselongue",
+      "category": "Furniture",
+      "defname": "ChaiseLongueGuest",
+      "price": 178
     }
   ],
-  "total": 4643
+  "total": 4674
 }
