@@ -1,6 +1,6 @@
 # Metadata
 title: "Rainbees' Purchase List!"
-favicon: itemlist/assets/favibee.png
+favicon: assets/img/favibee.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
