@@ -78,36 +78,6 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": "1217001091",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg",
-    "name": "Giddy-Up! Add-on: Animal Saddles",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
@@ -864,12 +834,6 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Avoid Friendly Fire",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "lbmaian",
     "name": "Begone, Message!",
     "steamId": "1951637504",
@@ -1246,12 +1210,6 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.7364"
   },
   {
     "author": "FrozenSnowFox",

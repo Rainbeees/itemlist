@@ -361,6 +361,24 @@
   },
   {
     "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Ability level",
+    "usage": "!abilitylevel",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbilityLevel"
+  },
+  {
+    "data": {
       "isShortcut": true,
       "isBuy": false,
       "isBalance": false,
@@ -1132,6 +1150,42 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "UnstickMe"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Marriage",
+    "usage": "!marry",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Marriage"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Divorce",
+    "usage": "!divorce",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Divorce"
   },
   {
     "data": {
