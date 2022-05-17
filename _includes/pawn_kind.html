@@ -27,6 +27,20 @@
         {%- if site.store.kinds.description -%}
             {{- include.kinds.description -}}
         {%- endif -%}
+
+        {%- if site.store.kinds.stats and include.trait.data.stats.size > 0 -%}
+            <br/>
+            <span class="metadata">
+                {{- site.data.language.stats -}}
+
+                <ul>
+                    {% for stat in include.kind.data.stats -%}
+                        <li>{{- stat -}}</li>
+                    {%- endfor -%}
+                </ul>
+            </span>
+        {%- endif -%}
+
     </td>
 
     <td>
