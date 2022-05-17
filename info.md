@@ -91,6 +91,20 @@ are the `!mypawn` commands, which allow you see various information about your p
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
+## Current Interactive setup
+
+All commands must be whisper to Rainbees. 
+- Pawns revivable/spawnable and !joinqueue is on
+- No research lock
+- 5 silver/2min rimconnect and 50 TTK points/2min 
+- Subscribing and being active in chat will get you more points
+- 8 trait limit, classes and sexual orientations don't count
+- Kure's Magic and Rimworld of Magic are on and classes are changeable
+- (yes chaos stream is over ... for now)
+
+## Join the Rainbees Community!
+[Discord](https://discord.gg/7NFANYWSHr)
+
 
 {%- if puppeteer -%}
 <br/>
