@@ -41,16 +41,19 @@ store:
     karma: true
     quantity: true
     mod: true
+    description: true
     usage: true
   events:
     usage: true
     mod: true
+    description: true
   animals:
     usage: true
     mod: true
     weight: true
     quantity: true
     karma: true
+    description: true
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
