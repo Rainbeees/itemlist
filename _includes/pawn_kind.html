@@ -22,6 +22,12 @@
             {%- endfor -%}
         {%- endif -%}
     </td>
+    
+    <td class="description">
+        {%- if site.store.kinds.description -%}
+            {{- include.kinds.description -}}
+        {%- endif -%}
+    </td>
 
     <td>
         {{- include.kind.price -}}
