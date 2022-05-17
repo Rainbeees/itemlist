@@ -33,6 +33,7 @@ store:
   kinds:
     mod: true
     karma: true
+    description: true
     usage: true
   items:
     category: true
