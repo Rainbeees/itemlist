@@ -43066,8 +43066,8 @@
       "name": "casteshearl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 750,
-      "removePrice": 750,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -43096,8 +43096,8 @@
       "name": "castefimm",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 750,
-      "removePrice": 750,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -43126,8 +43126,8 @@
       "name": "castedirach",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 750,
-      "removePrice": 750,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -43156,8 +43156,8 @@
       "name": "castemeargh",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 750,
-      "removePrice": 750,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -43186,8 +43186,56 @@
       "name": "hotblooded",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 750,
-      "removePrice": 750,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a rare male Apini, who narrowly escaped death by snoo-snoo.\nDrones have special eyes for spotting queens.",
+      "stats": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "+6 intellectual",
+        "+4 social",
+        "-10% aiming time",
+        "+1.0 shooting accuracy",
+        "+12% mental break threshold",
+        "-50% plant work speed",
+        "-20% trap spring chance",
+        "+10.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Apini Playable Race, Continued!",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "+6 intellectual",
+          "+4 social",
+          "-10% aiming time",
+          "+1.0 shooting accuracy",
+          "+12% mental break threshold",
+          "-50% plant work speed",
+          "-20% trap spring chance",
+          "+10.00% social impact"
+        ]
+      },
+      "defName": "ApiniDrone",
+      "name": "drone",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     }
   ],
@@ -44008,63 +44056,6 @@
       "data": {
         "stats": [
           "+60.00 Mass",
-          "+0% Flammability",
-          "+$1750 Market value",
-          "+0% Toxic sensitivity",
-          "+1.70 Move speed",
-          "-900.0C Minimum comfortable temperature",
-          "+900.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+100% Incoming damage multiplier",
-          "+50% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+10.0% Armor - Blunt",
-          "+10.0% Armor - Sharp",
-          "+500% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "When the impostor is sus",
-      "defName": "AmogusRace",
-      "enabled": true,
-      "name": "amogus",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$1750 Market value",
-          "+12.70 Move speed",
-          "-90.0C Minimum comfortable temperature",
-          "+90.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+6 Honor value",
-          "+25% Incoming damage multiplier",
-          "+50% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+170.0% Armor - Blunt",
-          "+150.0% Armor - Sharp",
-          "+500% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Beanos",
-      "defName": "Dabean",
-      "enabled": true,
-      "name": "beanos",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
@@ -44250,32 +44241,6 @@
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+50% Flammability",
-          "+100% Psychic sensitivity",
-          "+80% Toxic sensitivity",
-          "-15.0C Minimum comfortable temperature",
-          "+150.0C Maximum comfortable temperature",
-          "+50 Meat amount",
-          "+35 Leather amount",
-          "+$2000 Market value",
-          "+4.20 Move speed",
-          "+10.0% Armor - Blunt",
-          "+30.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Descended from a splinter group of Rockmen who rejected their species' violent ways long ago, the Crystalmen are almost completely unknown in the galaxy, having hidden from all other sentient life.\n\n+ Lockdown ability : Enclose your enemies or protect yourself. \n+ Thanks to their crystalline epidermis, their toxic sensitivity is reduced by 20% human-wise.\n+ Their travels through space emptiness and thousand millenniums has strengthened their body by 25% compared to a weak human.\n- Resistance comes with a -10% burden movement speed.\n- Crystalmen have appetite! As they say in the homeworlds, 4 Crystalmen will eat like 5.\n\nLockdown ability :\n- Lockdown is only usable when your Crystalline is drafted.\n- Indoors : Lockdown will spawn crystals blocks to shut doors.\n- Outdoors : Lockdown will spawn an age dependant radius circle of crystal blocks. 50 tiles radius Lockdowns can be easily achieved by thousand years elders.\n- Crystallines under 20, wont be able to lockdown outdoors.\n- Lockdown blocks will wear off after 20 seconds. They can also be attacked, deconstructed or mined. \n- Lockdown ability has a 1 minute cooldown.\n- Lockdown blocks wont spawn on pawns, mature trees, buildings, nor walls.\n- /!\\ Watch out where the blocks spawn. Any of the following will end up destroyed : food, plant matters, drugs, organs, stone/wood weapons, rotten bodies.\n- In their chest, Crystalmen have a heart. It will trigger Lockdown when harvested, then used.",
-      "defName": "Alien_Crystal",
-      "enabled": true,
-      "name": "crystal",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
           "+80.00 Mass",
           "+50% Flammability",
           "+$2500 Market value",
@@ -44375,37 +44340,6 @@
       "enabled": true,
       "name": "harpy",
       "price": 2083
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+70% Flammability",
-          "-25.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+$1700 Market value",
-          "+4.61 Move speed",
-          "+0 Leather amount",
-          "+20 Meat amount",
-          "+90.00% Social impact",
-          "+90.00% Negotiation ability",
-          "+125% Construction speed",
-          "+125% Construct success chance",
-          "+125% Drug cooking speed",
-          "+125% General labor speed",
-          "+120% Immunity gain speed",
-          "-0.2 Shooting accuracy",
-          "-0.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Though their current home planetary systems are well documented, the true origins of the emotionless Engi are a mystery; it is known that the majority of their bodies are made from trillions of nanomachines, which give the illusion of a silvery 'skin' with a metallic sheen, and that they can adopt different shapes to better cope with their environment, although they generally maintain a humanoid form, which most other races are habitually more comfortable with.\nThe Engi also wield powerful knowledge of machinery, and are generally natural mechanics - especially when they're only expected to service and repair comparatively primitive human technology. While the Engi are extremely intelligent, their primarily robotic body composition is very fragile. The delicate and very technical inner workings of an Engi are not nearly as rugged as regular organic material, like that found in humans. As a result, Engi usually make poor fighters; however, their immaculate knowledge of mechanics coupled with their immunity to most diseases as a result of their cybernetic bodies can make them excellent allies. The Engi still require oxygen to survive despite their mostly robotic makeup, however. The many scientific anomalies of the Engi have been points of contention between human scientists for years; they argue incessantly over whether the Engi are organic lifeforms by definition, or rather sentient machines. Most accept the notion, though, that they're simply a bridge between the two.\n\n- 85% shooting accuracy / 80% melee hit chance\n- 125% construction / drug / smithing / smefting / sculpting\n- 90% social\n\n- 120% Immunity gain speed\n- 4x sockets(1x core + 1x rom); 8 slots to customize your engi efficiency",
-      "defName": "Alien_Engi",
-      "enabled": true,
-      "name": "engi",
-      "price": 2833
     },
     {
       "data": {
@@ -44550,139 +44484,6 @@
     {
       "data": {
         "stats": [
-          "+80.00 Mass",
-          "+70% Flammability",
-          "-80.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+$2000 Market value",
-          "+4.40 Move speed",
-          "+50 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The Lanius are described as a metallic scavenger race prone to aggression, whose biological composition somehow drains oxygen from the rooms they occupy, making them potentially deadly adversaries.\n\nThe Lanius are scavengers – metallic lifeforms that rely on the absorption of minerals to sustain themselves. Their society ebbs and flows in hibernation cycles; they may lie dormant for many years, even while hurtling through space. As soon as they become aware of significant metal deposits they reawaken. Usually this occurs in the dying stages of a galactic civilization or in the wake of intergalactic war.\n\nReports of reawakened Lanius have appeared in many of the war-torn and abandoned sectors of Federation Space. Their arrival has created panic as they indiscriminately seek out sources of metal – although more diplomatic individuals have suggested that they can be reasoned with.\n\n+/- Drains oxygen from rooms. Non lanius, breathing creatures will faint, have brain injury and eventually die if they stay for too long in the room. Mechanoids are immune to Asphyxia.\n+ Fires in oxygen drained rooms will get extinguished.\n- Movement speed reduced by 5%.\n+ Resists to extreme temperature thresholds and to space void.",
-      "defName": "Alien_Lanius",
-      "enabled": true,
-      "name": "lanius",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.",
-      "defName": "LotRD_DwarfStandardRace",
-      "enabled": true,
-      "name": "dwarf",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Immune to disease. Wise and immortal.",
-      "defName": "LotRE_ElfStandardRace",
-      "enabled": true,
-      "name": "elf",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1250 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Those born between the world of immortality and mortality.",
-      "defName": "LotRE_ElfStandardRaceHalf",
-      "enabled": true,
-      "name": "half-elf",
-      "price": 2083
-    },
-    {
-      "data": {
-        "stats": [
-          "+320.00 Mass",
-          "+200% Flammability",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+800 Carrying capacity",
-          "+2.00 Move speed",
-          "-80.0C Minimum comfortable temperature",
-          "+85.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+50% Psychic sensitivity",
-          "+150% Plant work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Ent, a mystical guardian of the Forest.",
-      "defName": "Ent_Race",
-      "enabled": true,
-      "name": "ent",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+42.00 Mass",
-          "+100% Flammability",
-          "+45 Carrying capacity",
-          "+$1750 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.",
-      "defName": "LotRH_HobbitStandardRace",
-      "enabled": true,
-      "name": "hobbit",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
           "+70.00 Mass",
           "+70% Flammability",
           "-15.0C Minimum comfortable temperature",
@@ -44711,418 +44512,6 @@
       "enabled": true,
       "name": "mantis",
       "price": 3167
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-10.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+20.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.5 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Catgirl",
-      "enabled": true,
-      "name": "catgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.10 Move speed",
-          "-20.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+25.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.3 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Wolfgirl",
-      "enabled": true,
-      "name": "wolfgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-40.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+20.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.3 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Foxgirl",
-      "enabled": true,
-      "name": "foxgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.00 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+60 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Cowgirl that has developed a semblance of intelligence.",
-      "defName": "MG_Cowgirl",
-      "enabled": true,
-      "name": "cowgirl",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+90% Flammability",
-          "+$1600 Market value",
-          "+4.80 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+45 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Harpy that has developed a semblance of intelligence.",
-      "defName": "MG_Harpy",
-      "enabled": true,
-      "name": "harpy",
-      "price": 2667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$1800 Market value",
-          "+4.00 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+60.0C Maximum comfortable temperature",
-          "+200% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+25.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
-      "defName": "MG_Slime",
-      "enabled": true,
-      "name": "slime",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+70% Flammability",
-          "+$1850 Market value",
-          "+4.60 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+10% Toxic sensitivity",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+120.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Baphomet that has developed a semblance of intelligence.",
-      "defName": "MG_Baphomet",
-      "enabled": true,
-      "name": "baphomet",
-      "price": 3083
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+6.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+7.5% Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+75 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+75% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Centaur that has developed a semblance of intelligence.",
-      "defName": "MG_Centaur",
-      "enabled": true,
-      "name": "centaur",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+80% Flammability",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+500% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+500% Toxic sensitivity",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
-      "defName": "MG_ForestFairy",
-      "enabled": true,
-      "name": "forestfairy",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+50% Flammability",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "-300.0C Minimum comfortable temperature",
-          "+0.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+120% Toxic sensitivity",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
-      "defName": "MG_IceFairy",
-      "enabled": true,
-      "name": "icefairy",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+5% Flammability",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-20.0C Minimum comfortable temperature",
-          "+100.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+40.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
-      "defName": "MG_Dragon",
-      "enabled": true,
-      "name": "dragon",
-      "price": 3667
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+120% Flammability",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-55.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+120 Carrying capacity",
-          "+15.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+10.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Thrumbogirl",
-      "enabled": true,
-      "name": "thrumbogirl",
-      "price": 3667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$3500 Market value",
-          "+5.25 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+3 Honor value",
-          "+90% Research speed",
-          "+125% Mining speed",
-          "+95.00% Social impact",
-          "+1.3 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A bloodthirsty vulpine near-human.",
-      "defName": "ReviaRaceAlien",
-      "enabled": true,
-      "name": "revia",
-      "price": 5833
     },
     {
       "data": {
@@ -45336,6 +44725,781 @@
     {
       "data": {
         "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "-20.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+$1800 Market value",
+          "+4.61 Move speed",
+          "+25 Meat amount",
+          "+0 Leather amount",
+          "+105% Research speed",
+          "+115.00% Social impact",
+          "+115.00% Negotiation ability",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "With the majority of their bodies composed of pure, harnessable energy, the Zoltan are ambivalent towards the Galactic Federation. Whilst a deeply officious and obtuse people, they generally favour diplomacy over acts of aggression and are known for being fair and just in their dealings with others. Due to their alliance with the Engi, Zoltans often appear in Engi Homeworlds or the various Engi-Controlled Sectors of space, although they inhabit their own home systems as well.\n\nBeing ingenious experts of technology, the Zoltan race pioneered a unique ship-based shielding technology which can be found on nearly every Zoltan vessel. These shields are very difficult to breach, however they cannot regenerate during a battle - unless a Shield Overcharger drone is deployed. Therefore, once they are impacted by enemy fire enough to deactivate them, Zoltan vessels must rely on conventional shielding systems. They and the Engi control many sectors, but they themselves are rarely seen outside them.\n\n- Suppply power to batteries that are close enough\n- 105% Research\n- 115% Recruit prisoner chance\n- 90% Health \n- Explodes upon death\n\nOlder zoltans are best to supply power to batteries.",
+      "defName": "Alien_Zoltan",
+      "enabled": true,
+      "name": "zoltan",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-50.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+20% Toxic sensitivity",
+          "+135% Immunity gain speed",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+300.0C Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+500.0C Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "-0.4 Melee dodge chance",
+          "+100.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "battledroid",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1750 Market value",
+          "+0% Toxic sensitivity",
+          "+1.70 Move speed",
+          "-900.0C Minimum comfortable temperature",
+          "+900.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+100% Incoming damage multiplier",
+          "+50% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+500% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "When the impostor is sus",
+      "defName": "AmogusRace",
+      "enabled": true,
+      "name": "amogus",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1750 Market value",
+          "+12.70 Move speed",
+          "-90.0C Minimum comfortable temperature",
+          "+90.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+6 Honor value",
+          "+25% Incoming damage multiplier",
+          "+50% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+170.0% Armor - Blunt",
+          "+150.0% Armor - Sharp",
+          "+500% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Beanos",
+      "defName": "Dabean",
+      "enabled": true,
+      "name": "Beanos",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+100% Psychic sensitivity",
+          "+80% Toxic sensitivity",
+          "-15.0C Minimum comfortable temperature",
+          "+150.0C Maximum comfortable temperature",
+          "+50 Meat amount",
+          "+35 Leather amount",
+          "+$2000 Market value",
+          "+4.20 Move speed",
+          "+10.0% Armor - Blunt",
+          "+30.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Descended from a splinter group of Rockmen who rejected their species' violent ways long ago, the Crystalmen are almost completely unknown in the galaxy, having hidden from all other sentient life.\n\n+ Lockdown ability : Enclose your enemies or protect yourself. \n+ Thanks to their crystalline epidermis, their toxic sensitivity is reduced by 20% human-wise.\n+ Their travels through space emptiness and thousand millenniums has strengthened their body by 25% compared to a weak human.\n- Resistance comes with a -10% burden movement speed.\n- Crystalmen have appetite! As they say in the homeworlds, 4 Crystalmen will eat like 5.\n\nLockdown ability :\n- Lockdown is only usable when your Crystalline is drafted.\n- Indoors : Lockdown will spawn crystals blocks to shut doors.\n- Outdoors : Lockdown will spawn an age dependant radius circle of crystal blocks. 50 tiles radius Lockdowns can be easily achieved by thousand years elders.\n- Crystallines under 20, wont be able to lockdown outdoors.\n- Lockdown blocks will wear off after 20 seconds. They can also be attacked, deconstructed or mined. \n- Lockdown ability has a 1 minute cooldown.\n- Lockdown blocks wont spawn on pawns, mature trees, buildings, nor walls.\n- /!\\ Watch out where the blocks spawn. Any of the following will end up destroyed : food, plant matters, drugs, organs, stone/wood weapons, rotten bodies.\n- In their chest, Crystalmen have a heart. It will trigger Lockdown when harvested, then used.",
+      "defName": "Alien_Crystal",
+      "enabled": true,
+      "name": "Crystal",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "-25.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+$1700 Market value",
+          "+4.61 Move speed",
+          "+0 Leather amount",
+          "+20 Meat amount",
+          "+90.00% Social impact",
+          "+90.00% Negotiation ability",
+          "+125% Construction speed",
+          "+125% Construct success chance",
+          "+125% Drug cooking speed",
+          "+125% General labor speed",
+          "+120% Immunity gain speed",
+          "-0.2 Shooting accuracy",
+          "-0.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Though their current home planetary systems are well documented, the true origins of the emotionless Engi are a mystery; it is known that the majority of their bodies are made from trillions of nanomachines, which give the illusion of a silvery 'skin' with a metallic sheen, and that they can adopt different shapes to better cope with their environment, although they generally maintain a humanoid form, which most other races are habitually more comfortable with.\nThe Engi also wield powerful knowledge of machinery, and are generally natural mechanics - especially when they're only expected to service and repair comparatively primitive human technology. While the Engi are extremely intelligent, their primarily robotic body composition is very fragile. The delicate and very technical inner workings of an Engi are not nearly as rugged as regular organic material, like that found in humans. As a result, Engi usually make poor fighters; however, their immaculate knowledge of mechanics coupled with their immunity to most diseases as a result of their cybernetic bodies can make them excellent allies. The Engi still require oxygen to survive despite their mostly robotic makeup, however. The many scientific anomalies of the Engi have been points of contention between human scientists for years; they argue incessantly over whether the Engi are organic lifeforms by definition, or rather sentient machines. Most accept the notion, though, that they're simply a bridge between the two.\n\n- 85% shooting accuracy / 80% melee hit chance\n- 125% construction / drug / smithing / smefting / sculpting\n- 90% social\n\n- 120% Immunity gain speed\n- 4x sockets(1x core + 1x rom); 8 slots to customize your engi efficiency",
+      "defName": "Alien_Engi",
+      "enabled": true,
+      "name": "Engi",
+      "price": 2833
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+70% Flammability",
+          "-80.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+4.40 Move speed",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Lanius are described as a metallic scavenger race prone to aggression, whose biological composition somehow drains oxygen from the rooms they occupy, making them potentially deadly adversaries.\n\nThe Lanius are scavengers – metallic lifeforms that rely on the absorption of minerals to sustain themselves. Their society ebbs and flows in hibernation cycles; they may lie dormant for many years, even while hurtling through space. As soon as they become aware of significant metal deposits they reawaken. Usually this occurs in the dying stages of a galactic civilization or in the wake of intergalactic war.\n\nReports of reawakened Lanius have appeared in many of the war-torn and abandoned sectors of Federation Space. Their arrival has created panic as they indiscriminately seek out sources of metal – although more diplomatic individuals have suggested that they can be reasoned with.\n\n+/- Drains oxygen from rooms. Non lanius, breathing creatures will faint, have brain injury and eventually die if they stay for too long in the room. Mechanoids are immune to Asphyxia.\n+ Fires in oxygen drained rooms will get extinguished.\n- Movement speed reduced by 5%.\n+ Resists to extreme temperature thresholds and to space void.",
+      "defName": "Alien_Lanius",
+      "enabled": true,
+      "name": "Lanius",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.",
+      "defName": "LotRD_DwarfStandardRace",
+      "enabled": true,
+      "name": "dwarf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Wise and immortal.",
+      "defName": "LotRE_ElfStandardRace",
+      "enabled": true,
+      "name": "elf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1250 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Those born between the world of immortality and mortality.",
+      "defName": "LotRE_ElfStandardRaceHalf",
+      "enabled": true,
+      "name": "half-elf",
+      "price": 2083
+    },
+    {
+      "data": {
+        "stats": [
+          "+320.00 Mass",
+          "+200% Flammability",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+800 Carrying capacity",
+          "+2.00 Move speed",
+          "-80.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+50% Psychic sensitivity",
+          "+150% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Ent, a mystical guardian of the Forest.",
+      "defName": "Ent_Race",
+      "enabled": true,
+      "name": "Ent",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+42.00 Mass",
+          "+100% Flammability",
+          "+45 Carrying capacity",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.",
+      "defName": "LotRH_HobbitStandardRace",
+      "enabled": true,
+      "name": "hobbit",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 2667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+10% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": true,
+      "name": "Baphomet",
+      "price": 3083
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+500% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-300.0C Minimum comfortable temperature",
+          "+0.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-55.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+5.25 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+3 Honor value",
+          "+90% Research speed",
+          "+125% Mining speed",
+          "+95.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A bloodthirsty vulpine near-human.",
+      "defName": "ReviaRaceAlien",
+      "enabled": true,
+      "name": "Revia",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
           "+70.00 Mass",
           "+70% Flammability",
           "+50% Psychic sensitivity",
@@ -45358,7 +45522,7 @@
       "description": "The xenophobic, leisurely Slugs are the third rarest race in the galaxy, behind the mythical Crystal and Lanius. Their home sectors are all engulfed in enormous nebulae, which lead to them evolving unique psychic abilities in order to overcome the general lack of visibility.\n\nAs a result, Slug ships aren't built with sensors; the psychic powers of the crew are just as effective, if not more so, than any electronic system. This leaves them at a distinct disadvantage outside nebulae however, so that even within their sectors they are almost never seen outside the concealing clouds.\n\nWhile not as aggressive as the Rockmen or the Mantis, Slugs are both greedy and deceitful. They prey upon ships that wander into their home systems, often leading them into traps, as well as resort to piracy in other systems.\n\n- Psychic resistant : 50% psychic sensivity\n- Toxic resistant : 90% toxic sensivity\n- Socially awkward : 90% Social, 90% Negotiation\n- Droolers : they will generate slug dew from time to time.\n- Xenophobic trait : bad social relations with non slug beings",
       "defName": "Alien_Slug",
       "enabled": true,
-      "name": "slug",
+      "name": "Slug",
       "price": 3000
     },
     {
@@ -45425,7 +45589,7 @@
       "description": "A human lured to the dark embrace of Slaanesh. They tend to be a bit colder personality wise but they are still human, mostly. Mutations can vary.",
       "defName": "Alien_Slaaneshi",
       "enabled": true,
-      "name": "slaaneshihuman",
+      "name": "slaaneshi human",
       "price": 2917
     },
     {
@@ -45459,7 +45623,7 @@
       "description": "As perverse as any other follower of Slaanesh, these Daemon Princes are twisted into a form more pleasing to their master. These Daemon Princes are lither and far more graceful in their actions than Daemon Princes that serve the other ruinous powers. Their current form my restrict their ability to wear some apparel.",
       "defName": "Alien_SlaaPrince",
       "enabled": true,
-      "name": "slaaneshprince",
+      "name": "slaanesh prince",
       "price": 4000
     },
     {
@@ -45494,7 +45658,7 @@
       "description": "Dirach or the Demon-Fiends, are most frequently seen among Fimir raiding parties. The Dirachs are feared even among the clans, occupying the high positions as advisor for the Meargh while mostly keeping away from the rest.",
       "defName": "Alien_Dirach",
       "enabled": true,
-      "name": "dirach",
+      "name": "Dirach",
       "price": 3333
     },
     {
@@ -45529,7 +45693,7 @@
       "description": "These warriors are the forefront of the Fimir raids and the stalwart defenders of their strongholds. The true backbone of all Fimir broods, the hulking one-eyed monsters that men recon as true Fimir.",
       "defName": "Alien_Fimm",
       "enabled": true,
-      "name": "fimm",
+      "name": "Fimm",
       "price": 3167
     },
     {
@@ -45564,7 +45728,7 @@
       "description": "Meargh or Witch-Hags are the revered females of the Fimir. They rule the Clans as matrons competing against the other mearghs. Selfish and cruel creatures that see themself as the absolute ruler and those that dare challenge a Meargh will find themself crippled from their blows.",
       "defName": "Alien_Meargh",
       "enabled": true,
-      "name": "meargh",
+      "name": "Meargh",
       "price": 3333
     },
     {
@@ -45599,7 +45763,7 @@
       "description": "Shearl are the lowest caste of the Fimir society. With their smaller and weaker stature they acts as the clans servants and labourers. Those that manage to stand over the rest perform their arts in the workshops, forging armour and weapons off the highest quality. But on the battlefield the lowests of them acts as meat shields.",
       "defName": "Alien_Shearl",
       "enabled": true,
-      "name": "shearl",
+      "name": "Shearl",
       "price": 2917
     },
     {
@@ -45774,7 +45938,7 @@
       "description": "A large skaven, born stronger than the rest. They are bigger and stonger than the normal clanrats that lives across the skaven holds. They are aggressive by nature and are given to overt displays of prowess in order to intimidate those around them.",
       "defName": "Alien_SkavenStorm",
       "enabled": true,
-      "name": "vermin",
+      "name": "Vermin",
       "price": 2617
     },
     {
@@ -45809,7 +45973,7 @@
       "description": "A skaven with horns are blessed by the horned rat. They stand atop of the hierarchy, leading the councils with visions and advise.",
       "defName": "Alien_HornedSkaven",
       "enabled": true,
-      "name": "hornedskaven",
+      "name": "horned skaven",
       "price": 4167
     },
     {
@@ -45844,7 +46008,7 @@
       "description": "Skaven of clan Moulder, often of senior-rank. Rat-men with vile knowledge of clan Moulder secrets, scarred and mutated form their practice in the laboratories deep under the surface.",
       "defName": "Alien_SkavenMoulder",
       "enabled": true,
-      "name": "moulderskaven",
+      "name": "Moulder skaven",
       "price": 4167
     },
     {
@@ -45879,124 +46043,110 @@
       "description": "Zhthy'hl a lesser daemon. They have a skeletal frame with blackened skin drawn tightly to it's bones. Despite their frail apparence, they are quite strong.",
       "defName": "Alien_Zhthyhl",
       "enabled": true,
-      "name": "zhthy'hl",
+      "name": "Zhthy'hl",
       "price": 2917
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "-20.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+$1800 Market value",
-          "+4.61 Move speed",
-          "+25 Meat amount",
-          "+0 Leather amount",
-          "+105% Research speed",
-          "+115.00% Social impact",
-          "+115.00% Negotiation ability",
-          "+4 Honor value"
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+150% Psychic sensitivity",
+          "+80% Toxic sensitivity",
+          "-5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.90 Move speed",
+          "+480 Carrying capacity",
+          "+15% Mental break threshold",
+          "+50% Research speed",
+          "+50% Mining speed",
+          "+75.00% Social impact",
+          "+200% Plant work speed",
+          "+150% Plant harvest yield",
+          "+55% General labor speed",
+          "+150% Construction speed",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "With the majority of their bodies composed of pure, harnessable energy, the Zoltan are ambivalent towards the Galactic Federation. Whilst a deeply officious and obtuse people, they generally favour diplomacy over acts of aggression and are known for being fair and just in their dealings with others. Due to their alliance with the Engi, Zoltans often appear in Engi Homeworlds or the various Engi-Controlled Sectors of space, although they inhabit their own home systems as well.\n\nBeing ingenious experts of technology, the Zoltan race pioneered a unique ship-based shielding technology which can be found on nearly every Zoltan vessel. These shields are very difficult to breach, however they cannot regenerate during a battle - unless a Shield Overcharger drone is deployed. Therefore, once they are impacted by enemy fire enough to deactivate them, Zoltan vessels must rely on conventional shielding systems. They and the Engi control many sectors, but they themselves are rarely seen outside them.\n\n- Suppply power to batteries that are close enough\n- 105% Research\n- 115% Recruit prisoner chance\n- 90% Health \n- Explodes upon death\n\nOlder zoltans are best to supply power to batteries.",
-      "defName": "Alien_Zoltan",
+      "description": "Genetically modified giant sentient bee-ings. Originally created by humans as a terraforming bio-tool for the proliferation of angiosperms, these flightless bees are found on countless terraformed rimworlds.\n Apini are often wiped out by the point a planet reaches urbworld status. \n They possess some mamalian DNA, such as complex lung structure. Apini will also happily intergrate themselves into human \"hives\" if they feel like they have purpose.",
+      "defName": "Apini",
       "enabled": true,
-      "name": "zoltan",
-      "price": 3000
+      "name": "apini",
+      "price": 1667
     },
     {
       "data": {
         "stats": [
-          "+75.00 Mass",
+          "+60.00 Mass",
           "+100% Flammability",
-          "+$1500 Market value",
-          "+4.61 Move speed",
-          "-50.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
+          "+200% Psychic sensitivity",
           "+20% Toxic sensitivity",
-          "+135% Immunity gain speed",
-          "+25 Leather amount"
+          "+5.0C Minimum comfortable temperature",
+          "+55.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+$1500 Market value",
+          "+6.00 Move speed",
+          "+200 Carrying capacity",
+          "+12% Mental break threshold",
+          "+25% Research speed",
+          "+150% Mining speed",
+          "+25.00% Social impact",
+          "+50% Plant work speed",
+          "+75% Plant harvest yield",
+          "+125% General labor speed",
+          "+150% Construction speed",
+          "+40.0% Armor - Blunt",
+          "+40.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
-      "defName": "ChjAndroid",
+      "description": "An azure offshoot of the Apini, Azuri are simple-minded ravenous insectoids with a swarm like structure. They propagate by laying their eggs in hapless Apini, eventually killing the host bee in the process.\nNoone knows where the Azuri originated from, but it is well known how they spread across the rim. Many an urbworld (with a government based on a basic set of ethics) have reached a level of development where the primitive Apini are an obstruction. However removing them would be considered genocide of sapient beings. To circumvent ethical laws, some leaders will stealthily import live Azuri eggs. \nThe Azuri are like wildfire; they will destroy all Apini hives they come across, hunting down any stragglers. Unfortunately, they do not prepare like Apini, often dying of starvation and cold (usually after they run out of to kill).\n\n“No, that's the beautiful part. When wintertime rolls around, the Azuri simply freeze to death”",
+      "defName": "Azuri",
       "enabled": true,
-      "name": "android",
+      "name": "azuri",
       "price": 2500
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$850 Market value",
-          "+5.21 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+300.0C Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+75 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "droid",
-      "price": 1417
-    },
-    {
-      "data": {
-        "stats": [
           "+55.00 Mass",
-          "+0% Flammability",
-          "+$1900 Market value",
-          "+4.00 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+500.0C Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "-0.4 Melee dodge chance",
-          "+100.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
+          "+100% Flammability",
+          "+4.50 Move speed",
+          "+500 Carrying capacity",
+          "+150% Plant work speed",
+          "+130% Plant harvest yield",
+          "+60% General labor speed",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+150% Psychic sensitivity",
+          "+80% Toxic sensitivity",
+          "-5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+15% Mental break threshold",
+          "+50% Research speed",
+          "+50% Mining speed",
+          "+75.00% Social impact",
+          "+150% Construction speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
-      "defName": "ChjBattleDroid",
+      "description": "What happens if you want to terraform a planet that has very poor or even no soil? What if there are hostile flora and fauna? The Apini terraform and survive by planting and harvesting flowers. You would need to create a race that was better at fighting and able to use an alternate food source.A more hearty alternative for planets where the Apini can't survive long enough to terraform the planet.And so with a slight change to the Apini DNA, splicing in Vulture/Carrior bee genes, the Necropini were born. Stronger and more resistant than normal Apini, and with the ability to make “meat honey”;the Necropini (or Death Bees) were created to terraform worlds that normal Apini would not survive on.",
+      "defName": "Necropini",
       "enabled": true,
-      "name": "battledroid",
-      "price": 3167
+      "name": "necropini",
+      "price": 1667
     }
   ]
 }
