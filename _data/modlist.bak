@@ -117,7 +117,7 @@
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
-    "version": "1.0.6.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Jecrell",
@@ -1214,6 +1214,12 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jack7D1",
+    "name": "Apini Playable Race, Continued!",
     "steamId": null,
     "version": null
   }

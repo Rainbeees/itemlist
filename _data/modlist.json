@@ -96,12 +96,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kompadt",
-    "name": "Warhammer\"ish\":Dryad",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg Bjornson and  AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -117,7 +111,7 @@
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
-    "version": "1.0.6.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Jecrell",
@@ -348,18 +342,6 @@
     "version": null
   },
   {
-    "author": "Benji // Steam: Cute Twink",
-    "name": "Folia Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lilscoot + Bustedbunny",
-    "name": "Wheelchairs",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Eagle0600",
     "name": "Dress Patients",
     "steamId": null,
@@ -394,12 +376,6 @@
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.7875.31864"
-  },
-  {
-    "author": "Nemonian",
-    "name": "Moyo-From the depth",
-    "steamId": "2182305386",
-    "version": "1.3.2"
   },
   {
     "author": "Razar1",
@@ -466,12 +442,6 @@
     "name": "Startup impact",
     "steamId": "1684944322",
     "version": "1.1.7867.20184"
-  },
-  {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.3.3136.1"
   },
   {
     "author": "Smash Phil",
@@ -570,22 +540,10 @@
     "version": null
   },
   {
-    "author": "Benji // Steam: Cute Twink",
-    "name": "Quartzian Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sihv",
     "name": "Rim of Madness - Bones",
     "steamId": "1180573408",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Cactaceae (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -768,56 +726,8 @@
     "version": null
   },
   {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Armoury",
-    "steamId": "1541438614",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Magos Xenobiologis",
-    "steamId": "1541499916",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Orkoids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Aeldari",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "TheSleeplessSorclock and  Haecriver",
     "name": "Age Morphosis Cells (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Caulaflower and  ShakestheSpear",
-    "name": "Amogus Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogam and  ILuvSilicon",
-    "name": "Angel Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Seti",
-    "name": "Anima Dryads",
     "steamId": null,
     "version": null
   },
@@ -826,12 +736,6 @@
     "name": "Animals Logic",
     "steamId": "1098354593",
     "version": "1.0.7969.5967"
-  },
-  {
-    "author": "R-MK",
-    "name": "Anthro Race",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "lbmaian",
@@ -852,12 +756,6 @@
     "version": null
   },
   {
-    "author": "Spanky_H",
-    "name": "Bun Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Zamnath",
     "name": "Black Widows (Continued)",
     "steamId": null,
@@ -866,36 +764,6 @@
   {
     "author": "Gouda quiche",
     "name": "Clone Bay",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "Crystal race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Thrumkin",
-    "steamId": "2017359567",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Naga",
-    "steamId": "1539971494",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Harpy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Crossover",
     "steamId": null,
     "version": null
   },
@@ -916,18 +784,6 @@
     "name": "Dubs Skylights",
     "steamId": "833899765",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "Engi race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rocka / hauvega",
-    "name": "Equiums",
-    "steamId": "1211945995",
-    "version": "0.0.0.0"
   },
   {
     "author": "Syrchalis",
@@ -978,12 +834,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Xenofell",
     "name": "Ladies Can Flirt Too!",
     "steamId": null,
@@ -991,55 +841,7 @@
   },
   {
     "author": "Gouda quiche",
-    "name": "Lanius race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Lord of the Rims - Dwarves",
-    "steamId": "1400238872",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Lord of the Rims - Dwarves (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Lord of the Rims - Elves (Continued)",
-    "steamId": "2244183992",
-    "version": "1.0.13.0"
-  },
-  {
-    "author": "Saebbi and Napon",
-    "name": "Lord of the Rims - Ents (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Lord of the Rims - Hobbits (Continued)",
-    "steamId": "2244226597",
-    "version": "1.0.8.0"
-  },
-  {
-    "author": "erdelf and Jecrell",
-    "name": "Lord of the Rims - The Third Age (Continued)",
-    "steamId": "2242416385",
-    "version": "1.3.4"
-  },
-  {
-    "author": "Gouda quiche",
     "name": "Mantis race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
     "steamId": null,
     "version": null
   },
@@ -1056,52 +858,10 @@
     "version": null
   },
   {
-    "author": "Kage",
-    "name": "Resource Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fox with a Shotgun",
-    "name": "Revia Race",
-    "steamId": "2020041005",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ILuvSilicon",
-    "name": "RimRaces - Caerulean Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ILuvSilicon",
-    "name": "RimRaces - Cruttun Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ILuvSilicon",
-    "name": "RimRaces - Grodan Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ILuvSilicon",
-    "name": "RimRaces - Xotan Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Neronix17",
     "name": "[O21] Toolbox",
     "steamId": "1660622094",
     "version": "1.0.0"
-  },
-  {
-    "author": "VexedTrees",
-    "name": "Rim-Robots!",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Uuugggg",
@@ -1116,6 +876,18 @@
     "version": "1.0.7927.38256"
   },
   {
+    "author": "Jack7D1",
+    "name": "Apini Playable Race, Continued!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  Ben Lubar",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
@@ -1126,48 +898,6 @@
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Daemonettes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Fimir",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Gor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Skaven",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Zhthy'hl",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "Zoltan race",
-    "steamId": "2032477436",
-    "version": "0.15.1.0"
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer:Freeguild",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Epicguru (James B)",
@@ -1194,12 +924,6 @@
     "version": null
   },
   {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1541064015",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -1214,12 +938,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jack7D1",
-    "name": "Apini Playable Race, Continued!",
     "steamId": null,
     "version": null
   }
