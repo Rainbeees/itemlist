@@ -34,8 +34,8 @@ permalink: /info
         {%- continue -%}
     {%- endif -%}
 {%- endfor -%}
-[Welcome](welcome)|[What is TTK?](whatis)|[What are coins?](coins)|[What is Karma](karma)|[How to use TTK](howto)|[Current Setup](setup)|[Socials](socials)
-###Welcome
+[Welcome](#welcome)|[What is TTK?](#whatis)|[What are coins?](#coins)|[What is Karma](#karma)|[How to use TTK](#howto)|[Current Setup](#setup)|[Socials](#socials)
+### welcome
 # Welcome
 
 Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
@@ -44,7 +44,7 @@ This stream uses the mod
 interactive experience. There's a lot to the mod that may seem complicated to even more experienced
 users, but this short guide will help you get the hang of things.
 
-###whatis
+### whatis
 ## What is Twitch Toolkit?
 
 Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
@@ -53,7 +53,7 @@ things the streamer curated. Depending on the purchase, these things appear in-g
 game in some way. Another way viewers can interact with the game is through the mod's polls. The
 choices in these polls depend heavily on what's enabled in the mod.
 
-###coins
+### coins
 ## What Are Coins?
 
 Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
@@ -79,7 +79,7 @@ You'll always get a new lootbox everyday.
 
 <br/>
 
-###karma
+### karma
 ## What is Karma?
 
 Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
@@ -87,7 +87,7 @@ one time. This system works by directly modifying that amount of coins viewers g
 awards coins. This means that the lower you karma is, the lower your coin gain is. The hope is that
 negative events get spread out more so the colony can recover.
 
-###Howto
+### howto
 ## How Do I Use Twitch Toolkit?
 
 You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
@@ -97,7 +97,7 @@ are the `!mypawn` commands, which allow you see various information about your p
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
-###setup
+### setup
 ## Current Interactive setup
 
 All commands must be whisper to Rainbees. 
@@ -109,9 +109,9 @@ All commands must be whisper to Rainbees.
 - Rimworld of Magic is on and classes are changeable, no Kure's
 - (yes chaos stream is over ... for now)
 
-###socials
+### socials
 ## Join the Rainbees Community!
-[Discord](https://discord.gg/7NFANYWSHr)
+[Discord](https://discord.gg/7NFANYWSHr) | |[Youtube]{https://www.youtube.com/channel/UC3em2iVYoDFT8C9HsuFhgpg/featured) | [Redbubble](https://www.redbubble.com/people/McSparkle/shop?asc=u) | [Twitter](https://twitter.com/RosieTeet)
 
 
 {%- if puppeteer -%}
