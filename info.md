@@ -106,7 +106,7 @@ All commands must be whisper to Rainbees.
 
 ## Socials
 ### Join the Rainbees Community!
-[Discord](https://discord.gg/7NFANYWSHr) | |[Youtube](https://www.youtube.com/channel/UC3em2iVYoDFT8C9HsuFhgpg/featured) | [Redbubble](https://www.redbubble.com/people/McSparkle/shop?asc=u) | [Twitter](https://twitter.com/RosieTeet)
+<pre>[Discord](https://discord.gg/7NFANYWSHr) | |[Youtube](https://www.youtube.com/channel/UC3em2iVYoDFT8C9HsuFhgpg/featured) | [Redbubble](https://www.redbubble.com/people/McSparkle/shop?asc=u) | [Twitter](https://twitter.com/RosieTeet)</pre>
 
 
 {%- if puppeteer -%}
