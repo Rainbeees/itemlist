@@ -111,11 +111,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -134,11 +129,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 3500,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -168,11 +158,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -306,11 +291,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -433,7 +413,7 @@
 	{
 		"abr": "smite",
 		"price": 2500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sanctuary",
@@ -596,5 +576,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 119
+	"total": 115
 }
