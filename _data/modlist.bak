@@ -261,7 +261,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.2"
+    "version": "2.5.7.3"
   },
   {
     "author": "SirRandoo",
@@ -584,8 +584,8 @@
   {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson,  Chowder and  Trahspanda",
@@ -938,6 +938,12 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Luciferium Expansion",
     "steamId": null,
     "version": null
   }

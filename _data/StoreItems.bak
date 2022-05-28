@@ -19909,6 +19909,90 @@
       "price": -10
     },
     {
+      "abr": "advancedscarletcollector",
+      "category": "Production",
+      "defname": "AdvancedLuciferiumCollector",
+      "price": 1917
+    },
+    {
+      "abr": "compressedscarletsludge",
+      "category": "Manufactured",
+      "defname": "LuciferiumDrops",
+      "price": 1
+    },
+    {
+      "abr": "last-wish",
+      "category": "Drugs",
+      "defname": "USH_LastWish",
+      "price": 275
+    },
+    {
+      "abr": "lifter",
+      "category": "Drugs",
+      "defname": "USH_Lifter",
+      "price": 87
+    },
+    {
+      "abr": "mechasuppressors",
+      "category": "Drugs",
+      "defname": "USH_MechaSuppressors",
+      "price": 217
+    },
+    {
+      "abr": "redflicker",
+      "category": "Drugs",
+      "defname": "USH_RedFlicker",
+      "price": 153
+    },
+    {
+      "abr": "scarletarch",
+      "category": "Production",
+      "defname": "LuciferiumCollectorBoosterB",
+      "price": 1250
+    },
+    {
+      "abr": "scarletcollector",
+      "category": "Production",
+      "defname": "LuciferiumCollector",
+      "price": 850
+    },
+    {
+      "abr": "scarleteye",
+      "category": "Drugs",
+      "defname": "USH_ScarletEye",
+      "price": 123
+    },
+    {
+      "abr": "scarletflatmagnetnet",
+      "category": "Production",
+      "defname": "LuciferiumCollectorBoosterC",
+      "price": 2900
+    },
+    {
+      "abr": "scarletmagnet",
+      "category": "Production",
+      "defname": "LuciferiumCollectorBoosterA",
+      "price": 433
+    },
+    {
+      "abr": "scarletmechanites",
+      "category": "Manufactured",
+      "defname": "LuciferiumCrystals",
+      "price": 5
+    },
+    {
+      "abr": "scarletrefinery",
+      "category": "Production",
+      "defname": "ScarlettRefinery",
+      "price": 1683
+    },
+    {
+      "abr": "scarletsmellingsalts",
+      "category": "Drugs",
+      "defname": "USH_ScarlettSmellingSalts",
+      "price": 53
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -19936,7 +20020,7 @@
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 675
+      "price": 667
     },
     {
       "abr": "guestbedroll",
@@ -20026,13 +20110,13 @@
       "abr": "guestadvancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBedGuest",
-      "price": 825
+      "price": 833
     },
     {
       "abr": "guestadvanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1467
+      "price": 1483
     },
     {
       "abr": "guestoperatingtable",
@@ -20044,38 +20128,38 @@
       "abr": "guestcryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
-      "price": 725
+      "price": 733
     },
     {
       "abr": "guestfurbed",
       "category": "Furniture",
       "defname": "VFEV_FurBedGuest",
-      "price": 176
+      "price": 171
     },
     {
       "abr": "guestdoublefurbed",
       "category": "Furniture",
       "defname": "VFEV_DoubleFurBedGuest",
-      "price": 358
+      "price": 350
     },
     {
       "abr": "guestwidowsilkbed",
       "category": "Furniture",
       "defname": "WidowBedGuest",
-      "price": 1125
+      "price": 1017
     },
     {
       "abr": "guesthoneycombbed",
       "category": "Furniture",
       "defname": "ApiniHoneycombBed_SGuest",
-      "price": 758
+      "price": 775
     },
     {
       "abr": "guesthoneycombdoublebed",
       "category": "Furniture",
       "defname": "ApiniHoneycombBed_LGuest",
-      "price": 1217
+      "price": 1242
     }
   ],
-  "total": 3346
+  "total": 3360
 }

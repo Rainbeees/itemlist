@@ -10,7 +10,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Updates the current list of active viewers.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Updates the current list of active viewers.",
     "name": "Refresh viewers",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
@@ -28,7 +28,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Awards all active viewers coins.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Awards all active viewers coins.",
     "name": "Karma round",
     "usage": "!karmaround",
     "userLevel": "Moderator",
@@ -46,7 +46,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives eveyrone coins.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Gives eveyrone coins.",
     "name": "Give all coins",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
@@ -64,7 +64,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer coins.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Gives a viewer coins.",
     "name": "Give coins",
     "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
@@ -82,7 +82,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows the balance of a given user.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Shows the balance of a given user.",
     "name": "Check user",
     "usage": "!checkuser <viewer>",
     "userLevel": "Moderator",
@@ -100,7 +100,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Sets the current karma for a given user.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Sets the current karma for a given user.",
     "name": "Set karma",
     "usage": "!setkarma <viewer> <karma>",
     "userLevel": "Moderator",
@@ -118,7 +118,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Toggles coin generation.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Toggles coin generation.",
     "name": "Toggle coins",
     "usage": "!togglecoins",
     "userLevel": "Moderator",
@@ -136,7 +136,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
     "name": "Check balance",
     "usage": "!bal",
     "userLevel": "Anyone",
@@ -190,7 +190,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Gives a viewer some of your coins.",
     "name": "Gift coins",
     "usage": "!giftcoins <viewer> <amount>",
     "userLevel": "Anyone",
@@ -262,7 +262,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Lets you wager coins to level up a skill of your choosing.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
+    "description": "Lets you wager coins to level up a skill of your choosing.",
     "name": "Level skill",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
@@ -332,14 +332,50 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "Twitch Toolkit"
+      "mod": "ToolkitUtils"
     },
-    "description": "Shows you the complete list of installed mods.\n\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>",
-    "name": "Installed mods",
-    "usage": "!installedmods",
+    "description": null,
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "InstalledMods"
+    "defName": "MyPawnClass"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
+    "name": "Set favorite color",
+    "usage": "!setfavoritecolor <color>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "SetFavoriteColor"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Sets the user's pawn's favourite colour to the colour specified. The colour can be a name or a hex code.",
+    "name": "Set favourite colour",
+    "usage": "!setfavouritecolour <color>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "SetFavouriteColour"
   },
   {
     "data": {
@@ -353,11 +389,11 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
+    "name": "Dye apparel",
+    "usage": "!dye",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "MyPawnClass"
+    "defName": "DyeApparel"
   },
   {
     "data": {
@@ -442,7 +478,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
@@ -460,7 +496,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Purchases the part specified and queues it for surgery on your pawn.",
     "name": "Surgery",
     "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
@@ -550,7 +586,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
@@ -568,7 +604,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "It's like buy item, but it gets added to your inventory if possible.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "It's like buy item, but it gets added to your inventory if possible.",
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
@@ -586,7 +622,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Downgrades a skill's passion... sometimes.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Downgrades a skill's passion... sometimes.",
     "name": "Remove passion",
     "usage": "!removepassion <skill>",
     "userLevel": "Anyone",
@@ -604,7 +640,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Upgrades a skill's passion... sometimes.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
     "usage": "!passion <skill>",
     "userLevel": "Anyone",
@@ -676,7 +712,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
     "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
@@ -694,7 +730,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
     "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
@@ -730,7 +766,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
@@ -754,24 +790,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnBody"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Shows your pawn's work priorities.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
-    "name": "Viewer work",
-    "usage": "!mypawnwork [worktype=priority] [...]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnWork"
   },
   {
     "data": {
@@ -856,7 +874,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn leave the colony.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Makes your pawn leave the colony.",
     "name": "Abandon pawn",
     "usage": "!leave",
     "userLevel": "Anyone",
@@ -874,7 +892,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
@@ -910,7 +928,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
     "name": "Research",
     "usage": "!research [project/item]",
     "userLevel": "Anyone",
@@ -928,7 +946,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
     "name": "Lookup",
     "usage": "!lookup <item/category> [query]",
     "userLevel": "Anyone",
@@ -946,7 +964,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Similar to the lookup command, except it'll show the price for the first valid match.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
     "name": "Price check",
     "usage": "!price <item/category> [query]",
     "userLevel": "Anyone",
@@ -1000,7 +1018,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
     "name": "Insult",
     "usage": "!insult [target]",
     "userLevel": "Anyone",
@@ -1018,7 +1036,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
     "name": "Chat",
     "usage": "!chat [target]",
     "userLevel": "Anyone",
@@ -1036,7 +1054,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
     "name": "Flirt",
     "usage": "!flirt [target]",
     "userLevel": "Anyone",
@@ -1054,7 +1072,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
     "name": "Deep chat",
     "usage": "!deepchat [target]",
     "userLevel": "Anyone",
@@ -1108,7 +1126,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Provides some information about supported things. Supported categories are: 'weapons'\n\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "description": "Provides some information about supported things. Supported categories are: 'weapons'",
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
     "userLevel": "Anyone",
