@@ -12719,9 +12719,48 @@
       "degree": 0
     },
     {
-      "description": "Timmy has made an unbreakable contract. he will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
+      "description": "Timmy ate bugs as a regular part of his diet and learned to love them. he forages for bugs while moving, slowing walking speed but reducing hunger and providing a single variety of food. he can eat insect meat without a mood penalty.",
       "stats": [
 
+      ],
+      "conflicts": [
+        "gourmand"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Entomophagy",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "gourmand"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Entomophagous",
+      "name": "entomophagous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 750,
+      "removePrice": 750,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a rare male Apini, who narrowly escaped death by snoo-snoo.\nDrones have special eyes for spotting queens.",
+      "stats": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "+6 intellectual",
+        "+4 social",
+        "-10% aiming time",
+        "+1.0 shooting accuracy",
+        "+12% mental break threshold",
+        "-50% plant work speed",
+        "-20% trap spring chance",
+        "+10.00% social impact"
       ],
       "conflicts": [
 
@@ -12731,17 +12770,26 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
+        "mod": "Apini Playable Race, Continued!",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "+6 intellectual",
+          "+4 social",
+          "-10% aiming time",
+          "+1.0 shooting accuracy",
+          "+12% mental break threshold",
+          "-50% plant work speed",
+          "-20% trap spring chance",
+          "+10.00% social impact"
         ]
       },
-      "defName": "Cults_OathtakerHastur",
-      "name": "oathtaker",
+      "defName": "ApiniDrone",
+      "name": "drone",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12749,9 +12797,13 @@
       "degree": 0
     },
     {
-      "description": "Timmy has risen from the dead to serve once again.",
+      "description": "Timmy's brood mind, a vast neural tangle of mutualist sentient mycelium embedded in the core of her womb, enables her predatory reproductive method and psionically amplifies her intellect and charm, but, in repayment, encourages her most violent tendencies and fills her with an insaciable desire for the sentient flesh the mycellium crave.",
       "stats": [
-
+        "+2 social",
+        "+2 intellectual",
+        "+50% psychic sensitivity",
+        "-15% mental break threshold",
+        "+15.00% social impact"
       ],
       "conflicts": [
 
@@ -12761,17 +12813,21 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
+        "mod": "Black Widows (Continued)",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-
+          "+2 social",
+          "+2 intellectual",
+          "+50% psychic sensitivity",
+          "-15% mental break threshold",
+          "+15.00% social impact"
         ]
       },
-      "defName": "Cults_OathtakerHastur2",
-      "name": "reanimated",
+      "defName": "WombMind",
+      "name": "broodmind",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12779,171 +12835,7 @@
       "degree": 0
     },
     {
-      "description": "In a dream Timmy was greeted by the god of the Sixth House. Ever since then the bells of the Sixth House quitely ring in his ears.",
-      "stats": [
-        "+40% psychic sensitivity"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "MorrowRim - The Sixth House",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+40% psychic sensitivity"
-        ]
-      },
-      "defName": "MorrowRim_TouchedByDagothUr",
-      "name": "touchedbydagothur",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy hates the sight of the human body. he will be extremely unhappy when naked, more displeased than usual in tattered or worn-out clothing, and dislike the sight of other naked people.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "nudist",
-        "lecher",
-        "polyamorous",
-        "open-minded"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "nudist",
-          "lecher",
-          "polyamorous",
-          "open-minded"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Prude",
-      "name": "prude",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "heavysleeper"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "heavysleeper"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Insomniac",
-      "name": "insomniac",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a big heart and gets very emotional. he loves helping people, and abhors violence and injustice. he is more affected by these things than others.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "psychopath",
-        "bloodlust",
-        "cannibal",
-        "desensitized"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "psychopath",
-          "bloodlust",
-          "cannibal",
-          "desensitized"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "BleedingHeart",
-      "name": "bleedingheart",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is always a critic when it comes to food. he expects to be fed well and will complain if his meals aren't up to par.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "cannibal",
-        "ascetic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "cannibal",
-          "ascetic"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Gourmet",
-      "name": "gourmet",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is more prone to random mood swings, which can be more severe than normal for others.",
+      "description": "Timmy's core mind, the normal brain one would find in any other sapient creature's skull cavity.",
       "stats": [
 
       ],
@@ -12955,7 +12847,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
+        "mod": "Black Widows (Continued)",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -12964,458 +12856,8 @@
 
         ]
       },
-      "defName": "Unstable",
-      "name": "unstable",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is unabashedly lecherous and a thoughtless heartbreaker. he will hit on anyone he desires with no regard for the consequences.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "codependent",
-        "prude",
-        "open-minded"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "codependent",
-          "prude",
-          "open-minded"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Lecher",
-      "name": "lecher",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is romantically needy and won't be happy unless in a relationship. he will be devastated by infidelity and breakups.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "lecher",
-        "polyamorous"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "lecher",
-          "polyamorous"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Codependent",
-      "name": "codependent",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves to be outside. he gets a mood bonus when there is no roof over his head.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "undergrounder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "undergrounder"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Outdoorsy",
-      "name": "outdoorsy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy likes the rain. he gets a mood bonus when it's pouring outside, especially if he gets to go out in it.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Pluviophile",
-      "name": "pluviophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has eyes, either through gene modding or random mutation, that are extremely light-sensitive. he finds bright light extremely painful and indoor lighting bothersome, and will be happiest in the dark.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Photosensitive",
-      "name": "photosensitive",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy loves to party! his mere presence inspires more parties in the colony, because everyone enjoys partying with him.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Socialite",
-      "name": "socialite",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has seen enough violence and death that it no longer shocks him like it used to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bleedingheart",
-        "psychopath",
-        "bloodlust"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bleedingheart",
-          "psychopath",
-          "bloodlust"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Desensitized",
-      "name": "desensitized",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy sleeps like a rock, never bothered by adverse sleeping conditions, but is difficult to wake up.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "insomniac",
-        "neurotic",
-        "veryneurotic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "insomniac",
-          "neurotic",
-          "veryneurotic"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "HeavySleeper",
-      "name": "heavysleeper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy doesn't see any problem with having multiple partners. he doesn't mind if his partner romances other people, but will be less happy in a restraining, monogamous relationship.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "prude",
-        "codependent"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "prude",
-          "codependent"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Polygamous",
-      "name": "polyamorous",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy sees people for what they are on the inside, not the outside. he doesn't judge others for their appearances.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "prude",
-        "lecher",
-        "misandrist",
-        "misogynist",
-        "bodypurist",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "prude",
-          "lecher",
-          "misandrist",
-          "misogynist",
-          "bodypurist",
-          "psychopath"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "OpenMinded",
-      "name": "open-minded",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy isn't a very active person. he isn't very physically fit, but he enjoys sitting around all day working on things.",
-      "stats": [
-        "-0.15 move speed"
-      ],
-      "conflicts": [
-        "slowpoke",
-        "fastwalker",
-        "jogger"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "slowpoke",
-          "fastwalker",
-          "jogger"
-        ],
-        "stats": [
-          "-0.15 move speed"
-        ]
-      },
-      "defName": "Sedentary",
-      "name": "sedentary",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy just talks and talks and talks... and talks. he tends to have longer conversations than most, because he can't seem to end them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial) v1.1-1.3",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Chatty",
-      "name": "chatty",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "VME_Elder",
-      "name": "elder",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is crude with violent impulses and bad at socializing, with tendency of getting into fights.",
-      "stats": [
-        "-10% global work speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Warhammer: Zhthy'hl",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-10% global work speed"
-        ]
-      },
-      "defName": "ZhthyhlRace",
-      "name": "hotblooded",
+      "defName": "CoreMind",
+      "name": "coremind",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -13449,209 +12891,388 @@
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+80% Incoming damage multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Angels. Members of the heavenly host, Beings of pure holy might, servitors of a mighty god. They come in many horrific shapes and sizes.  From abominations with countless eyes and wings, to beautiful winged people. why they've begun to show themselves among mortals, and even join them in some cases is a mystery. They all refuse to elaborate.",
-      "defName": "AngelRace",
-      "enabled": true,
-      "name": "angel race",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+80% Incoming damage multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A member of a heavenly host, either fallen or sent here for divine purpose, Most will refuse to clarify any further. Inhuman in everyway, from beauty to precision. Having one of these in your colony is a boon beyond boons.",
-      "defName": "DeathAngelRace",
-      "enabled": true,
-      "name": "death angel race",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$0 Market value",
-          "+3.50 Move speed",
-          "+0% Psychic sensitivity",
-          "-10.0% Armor - Blunt",
-          "-15.0% Armor - Sharp",
-          "-100.0C Minimum comfortable temperature",
-          "+100.0C Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+0 Meat amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
-      "defName": "ReanimatedCorpse",
-      "enabled": true,
-      "name": "reanimated corpse",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+50% Flammability",
-          "+200% Psychic sensitivity",
-          "+125% Pain shock threshold",
-          "+125% Immunity gain speed",
-          "+75% Global learning factor",
-          "+50% Toxic sensitivity",
+          "+30.00 Mass",
+          "+200% Flammability",
+          "+18.0C Minimum comfortable temperature",
+          "+25.0C Maximum comfortable temperature",
           "+$2000 Market value",
-          "+5.20 Move speed",
-          "-30.0C Minimum comfortable temperature",
-          "+70.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+100% Smoothing speed",
-          "+75% Construction speed",
-          "+75% Research speed",
-          "+90% Mining speed",
-          "+120.00% Social impact",
-          "+1.2 Melee dodge chance",
-          "+10.0% Armor - Blunt",
-          "+10.0% Armor - Sharp",
-          "+20.0% Armor - Heat"
+          "+60% Hunger rate multiplier",
+          "+7.00 Move speed",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+10 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+300% Immunity gain speed",
+          "+500% Eating speed",
+          "+130% Incoming damage multiplier",
+          "+400% Medical tend speed",
+          "+300% Medical tend quality",
+          "+200% Medical operation speed",
+          "+300% Medical surgery success chance"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A demon hailing from the realm of Slaanesh. They are quick and agile fighters that dances around the battlefiel with grace and speed. They make excellent fighters but they tend to have cruel streaks and lack in the handy department.",
-      "defName": "Alien_Daemonette",
+      "description": "A small friendly gelatinous being.\nMoonjellies are quick and nimble, and exceptionally skilled with medicine.\nBut be warned, their delicate bodies make them poor combatants and very vulnerable to danger.",
+      "defName": "Moonjelly_Race",
       "enabled": true,
-      "name": "daemonette",
-      "price": 3333
+      "name": "moonjelly",
+      "price": 1407
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Pain shock threshold",
-          "+100% Immunity gain speed",
-          "+100% Global learning factor",
-          "+100% Toxic sensitivity",
-          "+$1750 Market value",
+          "+70.00 Mass",
+          "+60% Flammability",
+          "+$2000 Market value",
           "+4.60 Move speed",
-          "+5.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+100% Smoothing speed",
-          "+100% Construction speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+1.0 Melee dodge chance"
+          "+150% Mining speed",
+          "+150% General labor speed",
+          "+150% Smoothing speed",
+          "+150% Animal gather speed",
+          "+150% Construction speed",
+          "+150% Medical tend speed",
+          "+150% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+3 Honor value",
+          "+10.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+50% Toxic sensitivity",
+          "+200% Eating speed",
+          "+72 Meat amount",
+          "+40 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix",
+      "enabled": true,
+      "name": "skrix(worker)",
+      "price": 1407
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+60% Flammability",
+          "+$1800 Market value",
+          "+5.60 Move speed",
+          "+125% Mining speed",
+          "+125% General labor speed",
+          "+125% Smoothing speed",
+          "+125% Animal gather speed",
+          "+125% Construction speed",
+          "+125% Medical tend speed",
+          "+125% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+50 Carrying capacity",
+          "+5 Honor value",
+          "+15.0% Armor - Sharp",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+50% Toxic sensitivity",
+          "+200% Eating speed",
+          "+60 Meat amount",
+          "+33 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+90% Aiming time",
+          "+125.00% Negotiation ability",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Noble",
+      "enabled": true,
+      "name": "skrix(noble)",
+      "price": 1266
+    },
+    {
+      "data": {
+        "stats": [
+          "+100.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+125% Mining speed",
+          "+125% General labor speed",
+          "+125% Smoothing speed",
+          "+125% Animal gather speed",
+          "+125% Construction speed",
+          "+125% Medical tend speed",
+          "+125% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+4 Honor value",
+          "+40.0% Armor - Sharp",
+          "+35.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+25% Toxic sensitivity",
+          "+200% Eating speed",
+          "+65 Meat amount",
+          "+35 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Soldier",
+      "enabled": true,
+      "name": "skrix(soldier)",
+      "price": 1759
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+5.60 Move speed",
+          "+150% Mining speed",
+          "+150% General labor speed",
+          "+150% Smoothing speed",
+          "+150% Animal gather speed",
+          "+150% Construction speed",
+          "+150% Medical tend speed",
+          "+150% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+7 Honor value",
+          "+40.0% Armor - Sharp",
+          "+35.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+25% Toxic sensitivity",
+          "+200% Eating speed",
+          "+45 Meat amount",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+90% Aiming time",
+          "+150.00% Negotiation ability",
+          "+150.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Royal",
+      "enabled": true,
+      "name": "skrix(royal)",
+      "price": 2100
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+150% Psychic sensitivity",
+          "+80% Toxic sensitivity",
+          "-5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.90 Move speed",
+          "+480 Carrying capacity",
+          "+15% Mental break threshold",
+          "+50% Research speed",
+          "+50% Mining speed",
+          "+75.00% Social impact",
+          "+200% Plant work speed",
+          "+150% Plant harvest yield",
+          "+55% General labor speed",
+          "+150% Construction speed",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A human lured to the dark embrace of Slaanesh. They tend to be a bit colder personality wise but they are still human, mostly. Mutations can vary.",
-      "defName": "Alien_Slaaneshi",
+      "description": "Genetically modified giant sentient bee-ings. Originally created by humans as a terraforming bio-tool for the proliferation of angiosperms, these flightless bees are found on countless terraformed rimworlds.\n Apini are often wiped out by the point a planet reaches urbworld status. \n They possess some mamalian DNA, such as complex lung structure. Apini will also happily intergrate themselves into human \"hives\" if they feel like they have purpose.",
+      "defName": "Apini",
       "enabled": true,
-      "name": "slaaneshi human",
-      "price": 2917
+      "name": "apini",
+      "price": 705
     },
     {
       "data": {
         "stats": [
           "+60.00 Mass",
           "+100% Flammability",
-          "+120% Psychic sensitivity",
-          "+150% Pain shock threshold",
-          "+140% Immunity gain speed",
-          "+100% Global learning factor",
-          "+50% Toxic sensitivity",
-          "+$2400 Market value",
-          "+5.00 Move speed",
-          "-50.0C Minimum comfortable temperature",
-          "+80.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+70% Smoothing speed",
-          "+100% Construction speed",
-          "+125% Research speed",
-          "+40% Mining speed",
-          "+150.00% Social impact",
-          "+1.5 Melee dodge chance",
-          "+38.0% Armor - Blunt",
-          "+48.0% Armor - Sharp"
+          "+200% Psychic sensitivity",
+          "+20% Toxic sensitivity",
+          "+5.0C Minimum comfortable temperature",
+          "+55.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+$1500 Market value",
+          "+6.00 Move speed",
+          "+200 Carrying capacity",
+          "+12% Mental break threshold",
+          "+25% Research speed",
+          "+150% Mining speed",
+          "+25.00% Social impact",
+          "+50% Plant work speed",
+          "+75% Plant harvest yield",
+          "+125% General labor speed",
+          "+150% Construction speed",
+          "+40.0% Armor - Blunt",
+          "+40.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "As perverse as any other follower of Slaanesh, these Daemon Princes are twisted into a form more pleasing to their master. These Daemon Princes are lither and far more graceful in their actions than Daemon Princes that serve the other ruinous powers. Their current form my restrict their ability to wear some apparel.",
-      "defName": "Alien_SlaaPrince",
+      "description": "An azure offshoot of the Apini, Azuri are simple-minded ravenous insectoids with a swarm like structure. They propagate by laying their eggs in hapless Apini, eventually killing the host bee in the process.\nNoone knows where the Azuri originated from, but it is well known how they spread across the rim. Many an urbworld (with a government based on a basic set of ethics) have reached a level of development where the primitive Apini are an obstruction. However removing them would be considered genocide of sapient beings. To circumvent ethical laws, some leaders will stealthily import live Azuri eggs. \nThe Azuri are like wildfire; they will destroy all Apini hives they come across, hunting down any stragglers. Unfortunately, they do not prepare like Apini, often dying of starvation and cold (usually after they run out of to kill).\n\n“No, that's the beautiful part. When wintertime rolls around, the Azuri simply freeze to death”",
+      "defName": "Azuri",
       "enabled": true,
-      "name": "slaanesh prince",
-      "price": 4000
+      "name": "azuri",
+      "price": 1056
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+25% Flammability",
-          "+110% Psychic sensitivity",
-          "+100% Pain shock threshold",
-          "+110% Immunity gain speed",
-          "+50% Global learning factor",
-          "+80% Toxic sensitivity",
-          "+$1750 Market value",
-          "+4.80 Move speed",
-          "+5.0C Minimum comfortable temperature",
-          "+37.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+70% Smoothing speed",
-          "+70% Construction speed",
-          "+30% Research speed",
-          "+100% Mining speed",
-          "+60.00% Social impact",
-          "+1.0 Melee dodge chance",
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+4.50 Move speed",
+          "+500 Carrying capacity",
+          "+150% Plant work speed",
+          "+130% Plant harvest yield",
+          "+60% General labor speed",
           "+20.0% Armor - Blunt",
           "+20.0% Armor - Sharp",
-          "+40.0% Armor - Heat"
+          "+150% Psychic sensitivity",
+          "+80% Toxic sensitivity",
+          "-5.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+15% Mental break threshold",
+          "+50% Research speed",
+          "+50% Mining speed",
+          "+75.00% Social impact",
+          "+150% Construction speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Zhthy'hl a lesser daemon. They have a skeletal frame with blackened skin drawn tightly to it's bones. Despite their frail apparence, they are quite strong.",
-      "defName": "Alien_Zhthyhl",
+      "description": "What happens if you want to terraform a planet that has very poor or even no soil? What if there are hostile flora and fauna? The Apini terraform and survive by planting and harvesting flowers. You would need to create a race that was better at fighting and able to use an alternate food source.A more hearty alternative for planets where the Apini can't survive long enough to terraform the planet.And so with a slight change to the Apini DNA, splicing in Vulture/Carrior bee genes, the Necropini were born. Stronger and more resistant than normal Apini, and with the ability to make “meat honey”;the Necropini (or Death Bees) were created to terraform worlds that normal Apini would not survive on.",
+      "defName": "Necropini",
       "enabled": true,
-      "name": "Zhthy'hl",
-      "price": 2917
+      "name": "necropini",
+      "price": 705
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$2100 Market value",
+          "+6.50 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+135% Research speed",
+          "+80% Mining speed",
+          "+125.00% Social impact",
+          "-0.2 Melee dodge chance",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+10.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline Black Widow, a being possessed of two separate inter-linked minds and spiderlike features. Infamous for their tendency toward violence in the pursuit of mates.",
+      "defName": "Races_BlackWidow",
+      "enabled": true,
+      "name": "black widow",
+      "price": 3500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "-15.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+$1900 Market value",
+          "+90 Meat amount",
+          "+5.30 Move speed",
+          "+75 Carrying capacity",
+          "+85% Mining speed",
+          "+85% Mining yield",
+          "+75% Construction speed",
+          "+75% Construct success chance",
+          "+75% Drug cooking speed",
+          "+90% General labor speed",
+          "+0.3 Shooting accuracy",
+          "+0.3 Melee hit chance",
+          "+0.1 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The violent and hostile Mantis appear, to Humans anyway, to resemble man-sized Praying Mantises, although they are much more aggressive than their namesakes. Whereas praying mantises kill prey merely to survive, the much larger and more intelligent Mantis race kill remorselessly to suit their own personal agendas- usually without survival as a concern, making for a pitiless and brutal insectoid warrior species.\n\nWhile humans and most other species have manufactured handheld weaponry to utilize in combat, the Mantis usually default to their agility, and sharpened exoskeletal appendages to tear through their enemies, and their skill as warriors goes almost unchallenged in 1v1 combat even against the rock species. The Mantis also possess extremely acidic saliva which can burn through flesh and melt most metal alloys.\n\nWhile Mantis excel at combat, especially personal combat, they are the least adept of all the races at technical repairs. They have overcome this problem by frequently taking Engi slaves. Engi slaves can be found on a majority of their bases and ships. Though some individual Mantises have been known to work with the Galactic Federation, the race as a whole tends to be deceptive, opportunistic and untrustworthy, and can commonly be found piloting their signature style of well armed spacecraft, hunting down weaker enemies in pursuit of their belongings. Human children are told tales of their red ships, and of the Mantis invasion of Earth.\n\n- 115% Speed\n- 130% Melee hit chance / 125% Shooting hit chance\n- 120% sharp damage / 105% Melee evasion\n- 75% Construction / 75% Drug production\n- 85% Mining / 90% Smelting Smithing Tailoring\n- Claws",
+      "defName": "Alien_Mantis",
+      "enabled": true,
+      "name": "Mantis",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+50% Psychic sensitivity",
+          "+90% Toxic sensitivity",
+          "-20.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+80 Meat amount",
+          "+0 Leather amount",
+          "+$1800 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+90.00% Social impact",
+          "+90.00% Negotiation ability",
+          "+5.00% Drug sell price improvement"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The xenophobic, leisurely Slugs are the third rarest race in the galaxy, behind the mythical Crystal and Lanius. Their home sectors are all engulfed in enormous nebulae, which lead to them evolving unique psychic abilities in order to overcome the general lack of visibility.\n\nAs a result, Slug ships aren't built with sensors; the psychic powers of the crew are just as effective, if not more so, than any electronic system. This leaves them at a distinct disadvantage outside nebulae however, so that even within their sectors they are almost never seen outside the concealing clouds.\n\nWhile not as aggressive as the Rockmen or the Mantis, Slugs are both greedy and deceitful. They prey upon ships that wander into their home systems, often leading them into traps, as well as resort to piracy in other systems.\n\n- Psychic resistant : 50% psychic sensivity\n- Toxic resistant : 90% toxic sensivity\n- Socially awkward : 90% Social, 90% Negotiation\n- Droolers : they will generate slug dew from time to time.\n- Xenophobic trait : bad social relations with non slug beings",
+      "defName": "Alien_Slug",
+      "enabled": true,
+      "name": "Slug",
+      "price": 3000
     }
   ]
 }
