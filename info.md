@@ -102,6 +102,7 @@ All commands must be whisper to Rainbees.
 - Subscribing and being active in chat will get you more points
 - 8 trait limit, classes and sexual orientations don't count
 - Rimworld of Magic is on and classes are changeable, no Kure's
+- Certain theme appropriate classes are cheaper
 - (yes chaos stream is over ... for now)
 
 ## Socials
