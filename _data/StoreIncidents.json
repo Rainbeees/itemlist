@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 3500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 7200,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -127,7 +117,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 400,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -487,7 +477,7 @@
 	},
 	{
 		"abr": "fungalhuskwandersin",
-		"price": 600,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
@@ -522,7 +512,7 @@
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 600,
+		"price": 1750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -576,5 +566,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 115
+	"total": 113
 }
