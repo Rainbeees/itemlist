@@ -16480,7 +16480,7 @@
       "abr": "apinipollen",
       "category": "Pollen",
       "defname": "ApiniPollen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "apitechmechanites",
@@ -18148,7 +18148,7 @@
       "abr": "deathkapvessel",
       "category": "Manufactured",
       "defname": "DeathkapVessel",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "decarabia",
@@ -21052,49 +21052,49 @@
       "abr": "pollenball",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(bardsong)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_B",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(emberose)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_E",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(frostbell)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_F",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(metalily)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_M",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(rushthorn)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_R",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(vigorbloom)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_V",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pollenball(wiserbud)",
       "category": "Pollen balls",
       "defname": "ApiniPollenBall_W",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "poodle",
@@ -21148,7 +21148,7 @@
       "abr": "potatoidvessel",
       "category": "Manufactured",
       "defname": "PotatoidVessel",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "potblumplantpot",
@@ -23315,7 +23315,235 @@
       "category": "Meat",
       "defname": "Meat_SMT_ZhuTunShe",
       "price": 3
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestcanopy",
+      "category": "Furniture",
+      "defname": "CanopyGuest",
+      "price": 306
+    },
+    {
+      "abr": "guestwoodencanopy",
+      "category": "Furniture",
+      "defname": "WoodenCanopyGuest",
+      "price": 104
+    },
+    {
+      "abr": "guestteepee",
+      "category": "Furniture",
+      "defname": "TeepeeGuest",
+      "price": 342
+    },
+    {
+      "abr": "guesttent",
+      "category": "Furniture",
+      "defname": "TentGuest",
+      "price": 342
+    },
+    {
+      "abr": "guestvikingtent",
+      "category": "Furniture",
+      "defname": "VikingTentGuest",
+      "price": 383
+    },
+    {
+      "abr": "guestindustrialtent",
+      "category": "Furniture",
+      "defname": "ModernTentGuest",
+      "price": 392
+    },
+    {
+      "abr": "guestfoldingtent",
+      "category": "Furniture",
+      "defname": "FoldingTentGuest",
+      "price": 392
+    },
+    {
+      "abr": "guestpilfurbed",
+      "category": "Furniture",
+      "defname": "PILFURBedGuest",
+      "price": 70
+    },
+    {
+      "abr": "guestsnoreggsinglebed",
+      "category": "Furniture",
+      "defname": "SNOREGGSingleGuest",
+      "price": 276
+    },
+    {
+      "abr": "guestsnoreggdoublebed",
+      "category": "Furniture",
+      "defname": "SNOREGGDoubleGuest",
+      "price": 517
+    },
+    {
+      "abr": "guestkrudneppsinglebed",
+      "category": "Furniture",
+      "defname": "KRUDNEPPSingleGuest",
+      "price": 172
+    },
+    {
+      "abr": "guestslabneppdoublebed",
+      "category": "Furniture",
+      "defname": "SLABNEPPDoubleGuest",
+      "price": 342
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBedGuest",
+      "price": 171
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": 350
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": 833
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": 1483
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestpillowpile",
+      "category": "Furniture",
+      "defname": "SlaaDoublePillowBedGuest",
+      "price": 342
+    },
+    {
+      "abr": "guestchaiselongue",
+      "category": "Furniture",
+      "defname": "ChaiseLongueGuest",
+      "price": 178
+    },
+    {
+      "abr": "guesthoneycombbed",
+      "category": "Furniture",
+      "defname": "ApiniHoneycombBed_SGuest",
+      "price": 625
+    },
+    {
+      "abr": "guesthoneycombdoublebed",
+      "category": "Furniture",
+      "defname": "ApiniHoneycombBed_LGuest",
+      "price": 942
     }
   ],
-  "total": 3886
+  "total": 3924
 }
