@@ -190,24 +190,6 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "GiftCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -322,6 +304,42 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AvailableCommands"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Shows you the complete list of installed mods.",
+    "name": "Installed mods",
+    "usage": "!installedmods",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "InstalledMods"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnClass"
   },
   {
     "data": {
@@ -772,6 +790,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnBody"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Shows your pawn's work priorities.",
+    "name": "Viewer work",
+    "usage": "!mypawnwork [worktype=priority] [...]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnWork"
   },
   {
     "data": {
