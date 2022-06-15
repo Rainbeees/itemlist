@@ -101,9 +101,8 @@ All commands must be whisper to Rainbees.
 - 5 silver/2min rimconnect and 50 TTK points/2min 
 - Subscribing and being active in chat will get you more points
 - 8 trait limit, classes and sexual orientations don't count
-- Rimworld of Magic is on and classes are changeable, no Kure's
-- Certain theme appropriate classes are cheaper
-- (yes chaos stream is over ... for now)
+- We have magic but it is limited to what we find in game or what gets sent in Rimconnect
+- Certain theme appropriate races (naga) are cheaper
 
 ## Socials
 ### Join the Rainbees Community!
