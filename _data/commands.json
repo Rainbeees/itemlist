@@ -190,6 +190,24 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "GiftCoins"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",

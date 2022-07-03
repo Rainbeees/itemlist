@@ -43687,7 +43687,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Architect, a mage that applies their magic to structures, allowing them to raise or destroy buildings at a moment's whim. While they rarely directly engage their foes with destructive magic, most of their spells can be cast from anywhere on the map.",
+      "description": "Timmy is an Architect, a mage that applies their magic to structures, allowing them to raise or destroy buildings at a moment's whim. Architects rarely directly engage their foes, they prefer to shape the landscape itself to be inhospitable to their enemies. Most of their spells can be cast from anywhere on the map.",
       "stats": [
         "+4 construction",
         "+35% construction speed"
@@ -44428,7 +44428,7 @@
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "Android",
-      "price": 1000
+      "price": 3500
     },
     {
       "data": {
@@ -44461,7 +44461,7 @@
       "defName": "ChjDroid",
       "enabled": true,
       "name": "Droid",
-      "price": 500
+      "price": 3000
     },
     {
       "data": {
@@ -45092,7 +45092,7 @@
       "defName": "Moonjelly_Race",
       "enabled": true,
       "name": "Moonjelly",
-      "price": 3333
+      "price": 500
     },
     {
       "data": {
