@@ -13468,8 +13468,8 @@
       "name": "redmage",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -13996,8 +13996,8 @@
       "name": "ninja",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -14518,8 +14518,8 @@
       "name": "elementalgunner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -15038,8 +15038,8 @@
       "name": "bombardier",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -15566,8 +15566,8 @@
       "name": "railbreaker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -16096,8 +16096,8 @@
       "name": "samurai",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -16628,8 +16628,8 @@
       "name": "gadgeteer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -17158,8 +17158,8 @@
       "name": "windmage",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -17694,8 +17694,8 @@
       "name": "medic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -18218,8 +18218,8 @@
       "name": "chromamage",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -18746,8 +18746,8 @@
       "name": "harbinger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -19274,8 +19274,8 @@
       "name": "reaper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -19818,8 +19818,8 @@
       "name": "berserker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -20346,8 +20346,8 @@
       "name": "scion",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -20872,8 +20872,8 @@
       "name": "plaguedoctor",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -21396,8 +21396,8 @@
       "name": "cleric",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -21924,8 +21924,8 @@
       "name": "arbormancer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -22448,8 +22448,8 @@
       "name": "chainwarden",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -22976,8 +22976,8 @@
       "name": "ambusher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -23504,8 +23504,8 @@
       "name": "saboteur",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -24036,8 +24036,8 @@
       "name": "keeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -24570,8 +24570,8 @@
       "name": "pridestalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -25120,8 +25120,8 @@
       "name": "starseeker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -25670,8 +25670,8 @@
       "name": "aspirant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -26192,8 +26192,8 @@
       "name": "hawkeye",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -26718,8 +26718,8 @@
       "name": "atronach",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -27252,8 +27252,8 @@
       "name": "supportspecialist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -27786,8 +27786,8 @@
       "name": "scrapper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -28316,8 +28316,8 @@
       "name": "oracle",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -28846,8 +28846,8 @@
       "name": "mystic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -29374,8 +29374,8 @@
       "name": "spellbreaker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -29898,8 +29898,8 @@
       "name": "duskbringer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -30428,8 +30428,8 @@
       "name": "thunderblessed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -30956,8 +30956,8 @@
       "name": "deadeye",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -31484,8 +31484,8 @@
       "name": "spellthief",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -32012,8 +32012,8 @@
       "name": "dragoon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -32550,8 +32550,8 @@
       "name": "blackmage",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -33082,8 +33082,8 @@
       "name": "scholar",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -33610,8 +33610,8 @@
       "name": "gunbreaker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -34132,8 +34132,8 @@
       "name": "gunner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -34670,8 +34670,8 @@
       "name": "warrior",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -35198,8 +35198,8 @@
       "name": "nomad",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -35724,8 +35724,8 @@
       "name": "guardian",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -36248,8 +36248,8 @@
       "name": "holosmith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -36778,8 +36778,8 @@
       "name": "troubadour",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -37306,8 +37306,8 @@
       "name": "gambler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -37832,8 +37832,8 @@
       "name": "chef",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -38362,8 +38362,8 @@
       "name": "miner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -38890,8 +38890,8 @@
       "name": "striker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -39414,8 +39414,8 @@
       "name": "runeknight",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -39946,8 +39946,8 @@
       "name": "blossomblader",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -40466,8 +40466,8 @@
       "name": "ravenous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -40988,8 +40988,8 @@
       "name": "mechhunter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -41512,8 +41512,8 @@
       "name": "gunslinger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -42040,8 +42040,8 @@
       "name": "shadowbringer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -42566,8 +42566,8 @@
       "name": "warden",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -43094,8 +43094,8 @@
       "name": "chempunk",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -43682,8 +43682,8 @@
       "name": "explorer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     },
     {
@@ -44218,8 +44218,8 @@
       "name": "architect",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 10000,
+      "removePrice": 10000,
       "degree": 4
     }
   ],
