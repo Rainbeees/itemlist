@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 750,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -502,7 +502,7 @@
 	},
 	{
 		"abr": "fungalhuskwandersin",
-		"price": 600,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -537,7 +537,7 @@
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 1300,
+		"price": 800,
 		"karmatype": "Neutral"
 	},
 	{

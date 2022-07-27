@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -213,7 +213,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.4.1.0"
+    "version": "1.4.3.0"
   },
   {
     "author": "Jacque Pott",
@@ -306,12 +306,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gouda quiche",
-    "name": "Mantis race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
@@ -390,6 +384,12 @@
     "version": "1.3.0.1"
   },
   {
+    "author": "Gouda quiche",
+    "name": "Blood and stains",
+    "steamId": "2075683887",
+    "version": "1.0.7875.29378"
+  },
+  {
     "author": "JangoD'soul",
     "name": "[JDS] Simple Storage",
     "steamId": null,
@@ -465,7 +465,7 @@
     "author": "Mlie",
     "name": "Rats!",
     "steamId": "2496563418",
-    "version": "1.3.6"
+    "version": "1.3.7"
   },
   {
     "author": "VinaLx",
@@ -484,6 +484,12 @@
     "name": "Revia Race",
     "steamId": "2020041005",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Mantis race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "一般通过",
