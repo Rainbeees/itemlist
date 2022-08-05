@@ -27,7 +27,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -57,7 +57,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -89,7 +89,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -121,7 +121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -151,7 +151,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -181,7 +181,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -223,7 +223,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -263,7 +263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -293,7 +293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -323,7 +323,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -355,7 +355,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -387,7 +387,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -425,7 +425,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -455,7 +455,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -485,7 +485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -515,7 +515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -545,7 +545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -575,7 +575,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -607,7 +607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -641,7 +641,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -673,7 +673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -703,7 +703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -735,7 +735,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -765,7 +765,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -795,7 +795,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -825,7 +825,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -855,7 +855,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -885,7 +885,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -915,7 +915,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -945,7 +945,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -975,7 +975,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1007,7 +1007,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1037,7 +1037,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1099,7 +1099,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1129,7 +1129,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1159,7 +1159,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1189,7 +1189,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1221,7 +1221,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1251,7 +1251,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1281,7 +1281,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1311,7 +1311,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1341,7 +1341,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1373,7 +1373,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1405,7 +1405,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1437,7 +1437,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1469,7 +1469,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1501,7 +1501,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1533,7 +1533,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1563,7 +1563,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1593,7 +1593,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1623,7 +1623,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1653,7 +1653,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1683,7 +1683,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1713,7 +1713,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1743,7 +1743,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1773,7 +1773,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1805,7 +1805,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1837,7 +1837,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1867,7 +1867,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1897,7 +1897,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1927,7 +1927,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1957,7 +1957,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1987,7 +1987,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -2017,7 +2017,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -2047,7 +2047,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -2077,7 +2077,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -2107,7 +2107,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2137,7 +2137,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2185,7 +2185,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2215,7 +2215,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2244,7 +2244,7 @@
       },
       "defName": "TM_ArcaneConduitTD",
       "name": "arcaneconduit",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -2276,7 +2276,7 @@
       },
       "defName": "TM_ManaWellTD",
       "name": "manawell",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3000,
       "removePrice": 100,
@@ -2308,9 +2308,9 @@
       },
       "defName": "TM_BoundlessTD",
       "name": "boundless",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2338,9 +2338,9 @@
       },
       "defName": "TM_FaeBloodTD",
       "name": "faeblood",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2368,9 +2368,9 @@
       },
       "defName": "TM_GiantsBloodTD",
       "name": "giantsblood",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2398,9 +2398,9 @@
       },
       "defName": "TM_EnlightenedTD",
       "name": "enlightened",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2428,7 +2428,7 @@
       },
       "defName": "TM_CursedTD",
       "name": "cursed",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3000,
       "removePrice": 100,
@@ -2458,7 +2458,7 @@
       },
       "defName": "TM_OKWithDeath",
       "name": "unaffectedbydeath",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -2732,7 +2732,7 @@
       },
       "defName": "TM_Gifted",
       "name": "magicallygifted",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 100,
@@ -3380,7 +3380,7 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -3650,7 +3650,7 @@
       },
       "defName": "TM_Wanderer",
       "name": "wanderer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -3922,7 +3922,7 @@
       },
       "defName": "InnerFire",
       "name": "firemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -4192,7 +4192,7 @@
       },
       "defName": "HeartOfFrost",
       "name": "icemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -4458,7 +4458,7 @@
       },
       "defName": "StormBorn",
       "name": "lightningmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -4732,7 +4732,7 @@
       },
       "defName": "Arcanist",
       "name": "arcanemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5004,7 +5004,7 @@
       },
       "defName": "Druid",
       "name": "druid",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5272,7 +5272,7 @@
       },
       "defName": "Paladin",
       "name": "paladin",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5538,7 +5538,7 @@
       },
       "defName": "Summoner",
       "name": "summoner",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5810,7 +5810,7 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -6382,7 +6382,7 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -6906,7 +6906,7 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -7430,7 +7430,7 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 5000,
       "removePrice": 100,
@@ -7712,7 +7712,7 @@
       },
       "defName": "Succubus",
       "name": "succubus",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -7994,7 +7994,7 @@
       },
       "defName": "Warlock",
       "name": "warlock",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -8272,7 +8272,7 @@
       },
       "defName": "Geomancer",
       "name": "geomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -8554,7 +8554,7 @@
       },
       "defName": "Technomancer",
       "name": "technomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -8826,7 +8826,7 @@
       },
       "defName": "BloodMage",
       "name": "bloodmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -9100,7 +9100,7 @@
       },
       "defName": "Enchanter",
       "name": "enchanter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -9366,7 +9366,7 @@
       },
       "defName": "Chronomancer",
       "name": "chronomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -9632,7 +9632,7 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -10286,7 +10286,7 @@
       },
       "defName": "TM_TheShadow",
       "name": "shadow",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -10938,7 +10938,7 @@
       },
       "defName": "TM_Brightmage",
       "name": "brightmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -11588,7 +11588,7 @@
       },
       "defName": "TM_Shaman",
       "name": "shaman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7000,
       "removePrice": 100,
@@ -12234,7 +12234,7 @@
       },
       "defName": "TM_Golemancer",
       "name": "golemancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -12370,7 +12370,7 @@
       },
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 100,
@@ -12640,7 +12640,7 @@
       },
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -13294,7 +13294,7 @@
       },
       "defName": "TM_Apothecary",
       "name": "apothecary",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -13576,7 +13576,7 @@
       },
       "defName": "Gladiator",
       "name": "gladiator",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -13850,7 +13850,7 @@
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14124,7 +14124,7 @@
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14398,7 +14398,7 @@
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14672,7 +14672,7 @@
       },
       "defName": "Ranger",
       "name": "ranger",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14936,7 +14936,7 @@
       },
       "defName": "TM_Sniper",
       "name": "sharpshooter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -15200,7 +15200,7 @@
       },
       "defName": "TM_Sniper",
       "name": "sniper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -15990,7 +15990,7 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -16252,7 +16252,7 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -16516,7 +16516,7 @@
       },
       "defName": "Bladedancer",
       "name": "bladedancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17056,7 +17056,7 @@
       },
       "defName": "Faceless",
       "name": "faceless",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17328,7 +17328,7 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17594,7 +17594,7 @@
       },
       "defName": "DeathKnight",
       "name": "deathknight",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17866,7 +17866,7 @@
       },
       "defName": "TM_Monk",
       "name": "monk",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -18132,7 +18132,7 @@
       },
       "defName": "TM_Commander",
       "name": "commander",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -18406,7 +18406,7 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -22200,7 +22200,7 @@
       },
       "defName": "TM_Gadgeteer",
       "name": "gadgeteer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -23294,7 +23294,7 @@
       },
       "defName": "TM_Medic",
       "name": "medic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -24916,7 +24916,7 @@
       },
       "defName": "TM_Reaper",
       "name": "reaper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -26556,7 +26556,7 @@
       },
       "defName": "TM_Plaguedoctor",
       "name": "plaguedoctor",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -27094,7 +27094,7 @@
       },
       "defName": "TM_Cleric",
       "name": "cleric",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -27636,7 +27636,7 @@
       },
       "defName": "TM_Arbormancer",
       "name": "arbormancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -43964,7 +43964,7 @@
       },
       "defName": "TM_Chef",
       "name": "chef",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -44508,7 +44508,7 @@
       },
       "defName": "TM_Miner",
       "name": "miner",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -47211,7 +47211,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
+      "description": "Timmy is a Gunslinger, a mobile ranged attacker capable of blanketing the battlefield with suppressive fire.",
       "stats": [
         "-25% aiming time",
         "+0.25 move speed",
@@ -49906,7 +49906,7 @@
       },
       "defName": "TM_Explorer",
       "name": "explorer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -50444,7 +50444,7 @@
       },
       "defName": "TM_Architect",
       "name": "architect",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -50485,7 +50485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50515,7 +50515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50545,7 +50545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50579,7 +50579,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50613,7 +50613,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50643,7 +50643,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50673,7 +50673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50703,7 +50703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50733,7 +50733,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50763,7 +50763,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50793,7 +50793,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50831,7 +50831,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50861,7 +50861,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50891,7 +50891,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50923,7 +50923,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50953,7 +50953,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50983,7 +50983,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51013,7 +51013,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51043,7 +51043,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51073,7 +51073,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51103,7 +51103,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51141,7 +51141,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51171,7 +51171,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51201,7 +51201,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51233,7 +51233,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51263,7 +51263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51297,7 +51297,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51329,7 +51329,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51359,7 +51359,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51389,7 +51389,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51419,7 +51419,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51451,7 +51451,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51483,7 +51483,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51513,7 +51513,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51543,7 +51543,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51573,7 +51573,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51603,7 +51603,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51633,7 +51633,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51669,7 +51669,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51705,7 +51705,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51735,7 +51735,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51767,7 +51767,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51797,7 +51797,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51827,7 +51827,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51857,7 +51857,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51891,7 +51891,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51927,7 +51927,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51961,7 +51961,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51997,7 +51997,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52031,7 +52031,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52061,7 +52061,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52091,7 +52091,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52127,7 +52127,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52157,7 +52157,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -52187,7 +52187,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -52217,7 +52217,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -52247,11 +52247,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
-      "description": "Timmy has made an unbreakable contract. he will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
+      "description": "A strict principle of nonviolence which applies to all living things.",
       "stats": [
 
       ],
@@ -52263,7 +52263,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
+        "mod": "Alpha Memes",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -52272,46 +52272,60 @@
 
         ]
       },
-      "defName": "Cults_OathtakerHastur",
-      "name": "oathtaker",
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
-      "description": "Timmy has risen from the dead to serve once again.",
+      "description": "Timmy has Solid exoskeleton, he takes much less damage than other Anties from the same blows.",
       "stats": [
-
+        "x70% incoming damage multiplier",
+        "x112% leather amount",
+        "x0% flammability"
       ],
       "conflicts": [
-
+        "tough",
+        "bloodlust",
+        "psychopath",
+        "cannibal",
+        "undergrounder",
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
+        "mod": "Anty the war ant race",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "tough",
+          "bloodlust",
+          "psychopath",
+          "cannibal",
+          "undergrounder",
+          "wimp"
         ],
         "stats": [
-
+          "x70% incoming damage multiplier",
+          "x112% leather amount",
+          "x0% flammability"
         ]
       },
-      "defName": "Cults_OathtakerHastur2",
-      "name": "reanimated",
+      "defName": "AT_Solidexoskeleton",
+      "name": "solidexoskeleton",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
-      "description": " Typical of the Folia, Timmy's haughty attitude means they view \"peasant work\" to be beneath them ",
+      "description": "text.todo",
       "stats": [
 
       ],
@@ -52323,7 +52337,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Folia Race",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -52332,68 +52346,8 @@
 
         ]
       },
-      "defName": "FolianEgo",
-      "name": "folianego",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "In a dream Timmy was greeted by the god of the Sixth House. Ever since then the bells of the Sixth House quitely ring in his ears.",
-      "stats": [
-        "+40% psychic sensitivity"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "MorrowRim - The Sixth House",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+40% psychic sensitivity"
-        ]
-      },
-      "defName": "MorrowRim_TouchedByDagothUr",
-      "name": "touchedbydagothur",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is crude with violent impulses and bad at socializing, with tendency of getting into fights.",
-      "stats": [
-        "-10% global work speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Warhammer: Zhthy'hl",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-10% global work speed"
-        ]
-      },
-      "defName": "ZhthyhlRace",
-      "name": "hotblooded",
+      "defName": "VPE_Thrall",
+      "name": "thrall",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -52420,9 +52374,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1459
     },
     {
       "data": {
@@ -52456,7 +52410,7 @@
       "defName": "Apini",
       "enabled": true,
       "name": "apini",
-      "price": 1667
+      "price": 834
     },
     {
       "data": {
@@ -52490,7 +52444,7 @@
       "defName": "Azuri",
       "enabled": true,
       "name": "azuri",
-      "price": 2500
+      "price": 1250
     },
     {
       "data": {
@@ -52524,97 +52478,179 @@
       "defName": "Necropini",
       "enabled": true,
       "name": "necropini",
-      "price": 1667
+      "price": 834
     },
     {
       "data": {
         "stats": [
-          "+75.00 Mass",
-          "+100% Flammability",
-          "+$1500 Market value",
-          "+4.61 Move speed",
-          "-50.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+20% Toxic sensitivity",
-          "+135% Immunity gain speed",
-          "+25 Leather amount"
+          "+$3000 Market value",
+          "+4.15 Move speed",
+          "+320.00 Mass",
+          "+500.0C Maximum comfortable temperature",
+          "-80.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+250% Hunger rate multiplier",
+          "+100% Eating speed",
+          "+110 Carrying capacity",
+          "+60 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+1% Mental break threshold",
+          "+0% Toxic sensitivity",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+110% Immunity gain speed",
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+45.0% Armor - Blunt",
+          "+135.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "Android",
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
+      "defName": "AT_dreadnought",
+      "enabled": false,
+      "name": "Anty Dreadnought",
       "price": 2500
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$850 Market value",
-          "+5.21 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+300.0C Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
-          "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+75 Carrying capacity"
+          "+55.00 Mass",
+          "+200% Flammability",
+          "+$800 Market value",
+          "+5.00 Move speed",
+          "+28.0C Maximum comfortable temperature",
+          "+19.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+100% Hunger rate multiplier",
+          "+100% Eating speed",
+          "+110 Carrying capacity",
+          "+20 Meat amount",
+          "+40 Leather amount",
+          "+90% Pain shock threshold",
+          "+50% Psychic sensitivity",
+          "+40% Mental break threshold",
+          "+300% Toxic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+0.8 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+120% Mechanoid shredding efficiency",
+          "+120% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+125% Construction speed",
+          "+120% Butchery efficiency",
+          "+120% Butchery speed",
+          "+100.00% Food poison chance",
+          "+0.3 Cooking speed",
+          "+100% Plant work speed",
+          "+110% Global learning factor",
+          "+100% Research speed",
+          "+80% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+110% Medical surgery success chance",
+          "+100% Immunity gain speed",
+          "+200% Mining speed",
+          "+80% Mining yield"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
-      "defName": "ChjDroid",
+      "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.",
+      "defName": "Anty",
       "enabled": true,
-      "name": "Droid",
-      "price": 1417
+      "name": "Anty",
+      "price": 667
     },
     {
       "data": {
         "stats": [
-          "+55.00 Mass",
-          "+0% Flammability",
-          "+$1900 Market value",
-          "+4.00 Move speed",
-          "-200.0C Minimum comfortable temperature",
+          "+$3000 Market value",
+          "+2.15 Move speed",
+          "+520.00 Mass",
           "+500.0C Maximum comfortable temperature",
-          "+0% Toxic sensitivity",
+          "-80.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+250% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+110 Carrying capacity",
+          "+60 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
           "+0% Psychic sensitivity",
-          "+500% Pain shock threshold",
-          "+0% Mental break threshold",
-          "+0.00% Social impact",
-          "+0% Global learning factor",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "-0.4 Melee dodge chance",
-          "+100.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+200.0% Armor - Heat",
-          "+150 Carrying capacity"
+          "+1% Mental break threshold",
+          "+0% Toxic sensitivity",
+          "+0% Flammability",
+          "+0.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+110% Immunity gain speed",
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+65.0% Armor - Blunt",
+          "+135.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
-      "defName": "ChjBattleDroid",
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
+      "defName": "AT_Hiveguard",
       "enabled": true,
-      "name": "Battle droid",
-      "price": 3167
+      "name": "Anty Hive guard",
+      "price": 2500
     },
     {
       "data": {
@@ -52643,594 +52679,7 @@
       "defName": "Alien_Beetle",
       "enabled": true,
       "name": "Beetle person",
-      "price": 5000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+6.50 Move speed",
-          "+85% Hunger rate multiplier",
-          "+1.0 Beauty",
-          "+18.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+40% Mental break threshold",
-          "+85% Global work speed",
-          "+3 Honor value",
-          "+75 Meat amount",
-          "+40 Leather amount",
-          "+$1750 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
-      "defName": "Alien_BunTribe",
-      "enabled": true,
-      "name": "Bun",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$0 Market value",
-          "+3.50 Move speed",
-          "+0% Psychic sensitivity",
-          "-10.0% Armor - Blunt",
-          "-15.0% Armor - Sharp",
-          "-100.0C Minimum comfortable temperature",
-          "+100.0C Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+0 Meat amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
-      "defName": "ReanimatedCorpse",
-      "enabled": true,
-      "name": "reanimated corpse",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+40.00 Mass",
-          "+500% Flammability",
-          "+7.0C Minimum comfortable temperature",
-          "+99.0C Maximum comfortable temperature",
-          "+$2000 Market value",
-          "+4.00 Move speed",
-          "+0 Meat amount",
-          "+75 Leather amount",
-          "+60% Hunger rate multiplier",
-          "+2.0 Filth rate",
-          "+50 Carrying capacity",
-          "+1000% Injury healing factor",
-          "+1% Aiming time",
-          "+30% Global work speed",
-          "+10% Mining speed",
-          "+10% Plant work speed",
-          "+10% General labor speed",
-          "+10.0 Shooting accuracy",
-          "+300.00% Food poison chance",
-          "+20.0 Melee dodge chance",
-          "+3.0 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A vat-grown underling created by the Folia to act as guards and raiders.\nVery combat proficient, these fungal organisms' toxic touch lets them defeat even strong foes in hand-to-hand combat.\nTheir skill in any other labor, however, leave much to be desired.\n+ Shooting Accuracy and Speed \n+Dodge Change\n+ No food debuffs\n+ Fast injury recovery\n- very slow worker",
-      "defName": "Deathkap_Race",
-      "enabled": true,
-      "name": "Deathkap",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+80.00 Mass",
-          "+500% Flammability",
-          "+7.0C Minimum comfortable temperature",
-          "+99.0C Maximum comfortable temperature",
-          "+$2000 Market value",
-          "+3.00 Move speed",
-          "+140 Meat amount",
-          "+0 Leather amount",
-          "+30% Hunger rate multiplier",
-          "+0.0 Filth rate",
-          "+900.00% Social impact",
-          "+300.00% Negotiation ability",
-          "+300.00% Trade price improvement"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "One of the regal and imposing Folia. Their plant-infused DNA lets them thrive in harsh temperatures and suppliment their diet with sunlight.\nThese xenohumans deign to involve themselves in hard labour, preferring to delegate tasks to their vat-grown underlings.\n+ Great at trade deals\n+ Low food needs\n+ Access to tech to grow worker units\n~ Huge social imapact\n- often unwilling to do many work types",
-      "defName": "Folia_Race",
-      "enabled": true,
-      "name": "Folia",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+40.00 Mass",
-          "+500% Flammability",
-          "+3.0C Minimum comfortable temperature",
-          "+99.0C Maximum comfortable temperature",
-          "+$2000 Market value",
-          "+3.00 Move speed",
-          "+0 Meat amount",
-          "+75 Leather amount",
-          "+60% Hunger rate multiplier",
-          "+2.0 Filth rate",
-          "+20% Mental break threshold",
-          "+240 Carrying capacity",
-          "+40% Global learning factor",
-          "+500% Global work speed",
-          "+30% Research speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A vat-grown underling created by the Folia to perform menial tasks.\nSlow learning, yet hard working and hardy, these plant-based grunts are effective workers.\n+ Bonus work speed\n+ low break threshold\n- Slow learning\n- Dumb",
-      "defName": "Potatoid_Race",
-      "enabled": true,
-      "name": "Potatoid",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-10.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+20.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.5 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Catgirl",
-      "enabled": true,
-      "name": "Catgirl",
       "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.10 Move speed",
-          "-20.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+25.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.3 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Wolfgirl",
-      "enabled": true,
-      "name": "Wolfgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-40.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+20.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.3 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Foxgirl",
-      "enabled": true,
-      "name": "Foxgirl",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.00 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+60 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Cowgirl that has developed a semblance of intelligence.",
-      "defName": "MG_Cowgirl",
-      "enabled": true,
-      "name": "Cowgirl",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+90% Flammability",
-          "+$1600 Market value",
-          "+4.80 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+45 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Harpy that has developed a semblance of intelligence.",
-      "defName": "MG_Harpy",
-      "enabled": true,
-      "name": "Harpy",
-      "price": 2667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$1800 Market value",
-          "+4.00 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+60.0C Maximum comfortable temperature",
-          "+200% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+25.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
-      "defName": "MG_Slime",
-      "enabled": true,
-      "name": "Slime",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+70% Flammability",
-          "+$1850 Market value",
-          "+4.60 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+10% Toxic sensitivity",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+120.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Baphomet that has developed a semblance of intelligence.",
-      "defName": "MG_Baphomet",
-      "enabled": true,
-      "name": "Baphomet",
-      "price": 3083
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+6.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+7.5% Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+75 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+75% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Centaur that has developed a semblance of intelligence.",
-      "defName": "MG_Centaur",
-      "enabled": true,
-      "name": "Centaur",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+80% Flammability",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+500% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+500% Toxic sensitivity",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
-      "defName": "MG_ForestFairy",
-      "enabled": true,
-      "name": "ForestFairy",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+50% Flammability",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "-300.0C Minimum comfortable temperature",
-          "+0.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+120% Toxic sensitivity",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
-      "defName": "MG_IceFairy",
-      "enabled": true,
-      "name": "IceFairy",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+5% Flammability",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-20.0C Minimum comfortable temperature",
-          "+100.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+40.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
-      "defName": "MG_Dragon",
-      "enabled": true,
-      "name": "Dragon",
-      "price": 3667
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+120% Flammability",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-55.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+120 Carrying capacity",
-          "+15.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+10.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Thrumbogirl",
-      "enabled": true,
-      "name": "Thrumbogirl",
-      "price": 3667
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+200% Flammability",
-          "+18.0C Minimum comfortable temperature",
-          "+25.0C Maximum comfortable temperature",
-          "+$2000 Market value",
-          "+60% Hunger rate multiplier",
-          "+7.00 Move speed",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+10 Carrying capacity",
-          "+0% Toxic sensitivity",
-          "+300% Immunity gain speed",
-          "+500% Eating speed",
-          "+130% Incoming damage multiplier",
-          "+400% Medical tend speed",
-          "+300% Medical tend quality",
-          "+200% Medical operation speed",
-          "+300% Medical surgery success chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A small friendly gelatinous being.\nMoonjellies are quick and nimble, and exceptionally skilled with medicine.\nBut be warned, their delicate bodies make them poor combatants and very vulnerable to danger.",
-      "defName": "Moonjelly_Race",
-      "enabled": true,
-      "name": "Moonjelly",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$3500 Market value",
-          "+5.25 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+3 Honor value",
-          "+90% Research speed",
-          "+125% Mining speed",
-          "+95.00% Social impact",
-          "+1.3 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A bloodthirsty vulpine near-human.",
-      "defName": "ReviaRaceAlien",
-      "enabled": true,
-      "name": "Revia",
-      "price": 5833
     },
     {
       "data": {
@@ -53262,125 +52711,7 @@
       "defName": "Alien_Mantis",
       "enabled": true,
       "name": "Mantis",
-      "price": 3167
-    },
-    {
-      "data": {
-        "stats": [
-          "+80.00 Mass",
-          "+33% Flammability",
-          "+$1750 Market value",
-          "+5.00 Move speed",
-          "+75 Leather amount",
-          "+2 Honor value",
-          "+5.0 Shooting accuracy",
-          "+120% Psychic sensitivity",
-          "+50% Toxic sensitivity",
-          "+21.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+64% Pain shock threshold",
-          "+80% Aiming time",
-          "+80.00% Tame animal chance",
-          "+80.00% Train animal chance",
-          "+80% Animal gather yield",
-          "+80% Plant work speed",
-          "+110% Butchery efficiency",
-          "+150% Mechanoid shredding efficiency",
-          "+9.60 Neural heat recovery rate"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
-      "defName": "Naga",
-      "enabled": true,
-      "name": "naga",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+99900% Immunity gain speed",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+3 Honor value",
-          "+1.0 Melee dodge chance",
-          "+$4500 Market value",
-          "+4.15 Move speed",
-          "+85 Carrying capacity",
-          "+20% Mental break threshold",
-          "+90% Pain shock threshold",
-          "+80% Injury healing factor",
-          "+80% Research speed",
-          "+100% Mining speed",
-          "+50.00% Social impact",
-          "+100% Plant work speed",
-          "+80% Plant harvest yield",
-          "+120% Construction speed",
-          "+7.2% Armor - Blunt",
-          "+18.5% Armor - Sharp",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A basic mechanent, or a \"human-class mechanoid\". Often used by glitterworld societies or advanced urbworlds as a menial labor force - they are capable of sub-sentience and certain emotions. Their creation is illegal on some core-worlds.\n\nBeing mechanical in nature - mechanents do not need to rest, and just like mechanoids, they can be susceptible to psychic tampering.",
-      "defName": "Mechanent",
-      "enabled": true,
-      "name": "mechanent",
-      "price": 7500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+30% Flammability",
-          "+120% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "-50.0C Minimum comfortable temperature",
-          "+150.0C Maximum comfortable temperature",
-          "+99900% Immunity gain speed",
-          "+0% Hunger rate multiplier",
-          "+0 Meat amount",
-          "+40 Leather amount",
-          "+5 Honor value",
-          "+0.5 Beauty",
-          "+1.2 Melee dodge chance",
-          "+$5500 Market value",
-          "+5.00 Move speed",
-          "+75 Carrying capacity",
-          "+29% Mental break threshold",
-          "+85% Pain shock threshold",
-          "+100% Injury healing factor",
-          "+120% Research speed",
-          "+100% Mining speed",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+120% Construction speed",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+180.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The vessel of an AI persona. A relatively new creation originating from advanced glitterworld laboratories - they have all the capabilities of a baseline human. They are illegal on most planets, due to fearing the potential of such advanced AI - because of this most try to hide from society and pass as normal humans.\n\nDespite being synthetic in nature - personae still need to rest, but they don't need fuel - being able to last for years on their internal reactor without refueling, and they can heal internal damage due to lattice dust distribution systems. They can experience everything from psychic tampering, to complex emotions.",
-      "defName": "Personae_",
-      "enabled": true,
-      "name": "persona",
-      "price": 9167
+      "price": 1584
     },
     {
       "data": {
@@ -53410,7 +52741,7 @@
       "defName": "CaeruleanRace",
       "enabled": true,
       "name": "caerulean",
-      "price": 2500
+      "price": 1250
     },
     {
       "data": {
@@ -53441,7 +52772,7 @@
       "defName": "CruttunRace",
       "enabled": true,
       "name": "cruttun",
-      "price": 2500
+      "price": 1250
     },
     {
       "data": {
@@ -53473,7 +52804,7 @@
       "defName": "GrodanRace",
       "enabled": true,
       "name": "grodan",
-      "price": 2500
+      "price": 1250
     },
     {
       "data": {
@@ -53507,307 +52838,7 @@
       "defName": "XotanRace",
       "enabled": true,
       "name": "xotan",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+60% Flammability",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+150% Mining speed",
-          "+150% General labor speed",
-          "+150% Smoothing speed",
-          "+150% Animal gather speed",
-          "+150% Construction speed",
-          "+150% Medical tend speed",
-          "+150% Plant work speed",
-          "+0.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+120 Carrying capacity",
-          "+3 Honor value",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+10.0% Armor - Heat",
-          "+50% Toxic sensitivity",
-          "+200% Eating speed",
-          "+72 Meat amount",
-          "+40 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+125% Aiming time",
-          "+80.00% Negotiation ability",
-          "+90.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
-      "defName": "Skrix",
-      "enabled": true,
-      "name": "Skrix",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+60% Flammability",
-          "+$1800 Market value",
-          "+5.60 Move speed",
-          "+125% Mining speed",
-          "+125% General labor speed",
-          "+125% Smoothing speed",
-          "+125% Animal gather speed",
-          "+125% Construction speed",
-          "+125% Medical tend speed",
-          "+125% Plant work speed",
-          "+0.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+50 Carrying capacity",
-          "+5 Honor value",
-          "+15.0% Armor - Sharp",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+50% Toxic sensitivity",
-          "+200% Eating speed",
-          "+60 Meat amount",
-          "+33 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+90% Aiming time",
-          "+125.00% Negotiation ability",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
-      "defName": "Skrix_Noble",
-      "enabled": true,
-      "name": "Skrix",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+100.00 Mass",
-          "+50% Flammability",
-          "+$2500 Market value",
-          "+4.60 Move speed",
-          "+125% Mining speed",
-          "+125% General labor speed",
-          "+125% Smoothing speed",
-          "+125% Animal gather speed",
-          "+125% Construction speed",
-          "+125% Medical tend speed",
-          "+125% Plant work speed",
-          "+0.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+4 Honor value",
-          "+40.0% Armor - Sharp",
-          "+35.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+25% Toxic sensitivity",
-          "+200% Eating speed",
-          "+65 Meat amount",
-          "+35 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+90.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
-      "defName": "Skrix_Soldier",
-      "enabled": true,
-      "name": "Skrix",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+50% Flammability",
-          "+$2500 Market value",
-          "+5.60 Move speed",
-          "+150% Mining speed",
-          "+150% General labor speed",
-          "+150% Smoothing speed",
-          "+150% Animal gather speed",
-          "+150% Construction speed",
-          "+150% Medical tend speed",
-          "+150% Plant work speed",
-          "+0.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+7 Honor value",
-          "+40.0% Armor - Sharp",
-          "+35.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+25% Toxic sensitivity",
-          "+200% Eating speed",
-          "+45 Meat amount",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+90% Aiming time",
-          "+150.00% Negotiation ability",
-          "+150.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
-      "defName": "Skrix_Royal",
-      "enabled": true,
-      "name": "Skrix",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+50% Flammability",
-          "+200% Psychic sensitivity",
-          "+125% Pain shock threshold",
-          "+125% Immunity gain speed",
-          "+75% Global learning factor",
-          "+50% Toxic sensitivity",
-          "+$2000 Market value",
-          "+5.20 Move speed",
-          "-30.0C Minimum comfortable temperature",
-          "+70.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+100% Smoothing speed",
-          "+75% Construction speed",
-          "+75% Research speed",
-          "+90% Mining speed",
-          "+120.00% Social impact",
-          "+1.2 Melee dodge chance",
-          "+10.0% Armor - Blunt",
-          "+10.0% Armor - Sharp",
-          "+20.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A demon hailing from the realm of Slaanesh. They are quick and agile fighters that dances around the battlefiel with grace and speed. They make excellent fighters but they tend to have cruel streaks and lack in the handy department.",
-      "defName": "Alien_Daemonette",
-      "enabled": true,
-      "name": "daemonette",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Pain shock threshold",
-          "+100% Immunity gain speed",
-          "+100% Global learning factor",
-          "+100% Toxic sensitivity",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+5.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+100% Smoothing speed",
-          "+100% Construction speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100.00% Social impact",
-          "+1.0 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A human lured to the dark embrace of Slaanesh. They tend to be a bit colder personality wise but they are still human, mostly. Mutations can vary.",
-      "defName": "Alien_Slaaneshi",
-      "enabled": true,
-      "name": "slaaneshi human",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+120% Psychic sensitivity",
-          "+150% Pain shock threshold",
-          "+140% Immunity gain speed",
-          "+100% Global learning factor",
-          "+50% Toxic sensitivity",
-          "+$2400 Market value",
-          "+5.00 Move speed",
-          "-50.0C Minimum comfortable temperature",
-          "+80.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+70% Smoothing speed",
-          "+100% Construction speed",
-          "+125% Research speed",
-          "+40% Mining speed",
-          "+150.00% Social impact",
-          "+1.5 Melee dodge chance",
-          "+38.0% Armor - Blunt",
-          "+48.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "As perverse as any other follower of Slaanesh, these Daemon Princes are twisted into a form more pleasing to their master. These Daemon Princes are lither and far more graceful in their actions than Daemon Princes that serve the other ruinous powers. Their current form my restrict their ability to wear some apparel.",
-      "defName": "Alien_SlaaPrince",
-      "enabled": true,
-      "name": "slaanesh prince",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+25% Flammability",
-          "+110% Psychic sensitivity",
-          "+100% Pain shock threshold",
-          "+110% Immunity gain speed",
-          "+50% Global learning factor",
-          "+80% Toxic sensitivity",
-          "+$1750 Market value",
-          "+4.80 Move speed",
-          "+5.0C Minimum comfortable temperature",
-          "+37.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+70% Smoothing speed",
-          "+70% Construction speed",
-          "+30% Research speed",
-          "+100% Mining speed",
-          "+60.00% Social impact",
-          "+1.0 Melee dodge chance",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+40.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Zhthy'hl a lesser daemon. They have a skeletal frame with blackened skin drawn tightly to it's bones. Despite their frail apparence, they are quite strong.",
-      "defName": "Alien_Zhthyhl",
-      "enabled": true,
-      "name": "Zhthy'hl",
-      "price": 2917
+      "price": 1250
     }
   ]
 }

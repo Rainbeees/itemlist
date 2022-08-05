@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -27,7 +27,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -57,7 +57,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -89,7 +89,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -121,7 +121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -151,7 +151,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -181,7 +181,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -223,7 +223,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -263,7 +263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -293,7 +293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -323,7 +323,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -355,7 +355,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -387,7 +387,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -425,7 +425,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -455,7 +455,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -485,7 +485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -515,7 +515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -545,7 +545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -575,7 +575,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -607,7 +607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -641,7 +641,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -673,7 +673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -703,7 +703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -735,7 +735,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -765,7 +765,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -795,7 +795,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -825,7 +825,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -855,7 +855,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -885,7 +885,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -915,7 +915,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -945,7 +945,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -975,7 +975,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1007,7 +1007,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1037,7 +1037,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1099,7 +1099,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1129,7 +1129,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1159,7 +1159,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1189,7 +1189,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1221,7 +1221,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1251,7 +1251,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1281,7 +1281,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1311,7 +1311,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1341,7 +1341,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1373,7 +1373,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1405,7 +1405,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1437,7 +1437,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1469,7 +1469,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1501,7 +1501,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1533,7 +1533,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1563,7 +1563,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1593,7 +1593,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1623,7 +1623,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1653,7 +1653,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1683,7 +1683,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1713,7 +1713,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1743,7 +1743,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1773,7 +1773,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1805,7 +1805,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1837,7 +1837,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1867,7 +1867,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -1897,7 +1897,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -1927,7 +1927,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -1957,7 +1957,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -1987,7 +1987,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -2017,7 +2017,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -2047,7 +2047,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -2077,7 +2077,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -2107,7 +2107,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2137,7 +2137,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2185,7 +2185,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2215,7 +2215,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -2244,7 +2244,7 @@
       },
       "defName": "TM_ArcaneConduitTD",
       "name": "arcaneconduit",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -2276,7 +2276,7 @@
       },
       "defName": "TM_ManaWellTD",
       "name": "manawell",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3000,
       "removePrice": 100,
@@ -2308,9 +2308,9 @@
       },
       "defName": "TM_BoundlessTD",
       "name": "boundless",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2338,9 +2338,9 @@
       },
       "defName": "TM_FaeBloodTD",
       "name": "faeblood",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2368,9 +2368,9 @@
       },
       "defName": "TM_GiantsBloodTD",
       "name": "giantsblood",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2398,9 +2398,9 @@
       },
       "defName": "TM_EnlightenedTD",
       "name": "enlightened",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -2428,7 +2428,7 @@
       },
       "defName": "TM_CursedTD",
       "name": "cursed",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3000,
       "removePrice": 100,
@@ -2458,7 +2458,7 @@
       },
       "defName": "TM_OKWithDeath",
       "name": "unaffectedbydeath",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -2732,7 +2732,7 @@
       },
       "defName": "TM_Gifted",
       "name": "magicallygifted",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 100,
@@ -3380,7 +3380,7 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -3650,7 +3650,7 @@
       },
       "defName": "TM_Wanderer",
       "name": "wanderer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -3922,7 +3922,7 @@
       },
       "defName": "InnerFire",
       "name": "firemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -4192,7 +4192,7 @@
       },
       "defName": "HeartOfFrost",
       "name": "icemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -4458,7 +4458,7 @@
       },
       "defName": "StormBorn",
       "name": "lightningmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -4732,7 +4732,7 @@
       },
       "defName": "Arcanist",
       "name": "arcanemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5004,7 +5004,7 @@
       },
       "defName": "Druid",
       "name": "druid",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5272,7 +5272,7 @@
       },
       "defName": "Paladin",
       "name": "paladin",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5538,7 +5538,7 @@
       },
       "defName": "Summoner",
       "name": "summoner",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -5810,7 +5810,7 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -6382,7 +6382,7 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -6906,7 +6906,7 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -7430,7 +7430,7 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 5000,
       "removePrice": 100,
@@ -7712,7 +7712,7 @@
       },
       "defName": "Succubus",
       "name": "succubus",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -7994,7 +7994,7 @@
       },
       "defName": "Warlock",
       "name": "warlock",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -8272,7 +8272,7 @@
       },
       "defName": "Geomancer",
       "name": "geomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -8554,7 +8554,7 @@
       },
       "defName": "Technomancer",
       "name": "technomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -8826,7 +8826,7 @@
       },
       "defName": "BloodMage",
       "name": "bloodmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -9100,7 +9100,7 @@
       },
       "defName": "Enchanter",
       "name": "enchanter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -9366,7 +9366,7 @@
       },
       "defName": "Chronomancer",
       "name": "chronomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -9632,7 +9632,7 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -10286,7 +10286,7 @@
       },
       "defName": "TM_TheShadow",
       "name": "shadow",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -10938,7 +10938,7 @@
       },
       "defName": "TM_Brightmage",
       "name": "brightmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -11588,7 +11588,7 @@
       },
       "defName": "TM_Shaman",
       "name": "shaman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7000,
       "removePrice": 100,
@@ -12234,7 +12234,7 @@
       },
       "defName": "TM_Golemancer",
       "name": "golemancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -12370,7 +12370,7 @@
       },
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 100,
@@ -12640,7 +12640,7 @@
       },
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -13294,7 +13294,7 @@
       },
       "defName": "TM_Apothecary",
       "name": "apothecary",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -13576,7 +13576,7 @@
       },
       "defName": "Gladiator",
       "name": "gladiator",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -13850,7 +13850,7 @@
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14124,7 +14124,7 @@
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14398,7 +14398,7 @@
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14672,7 +14672,7 @@
       },
       "defName": "Ranger",
       "name": "ranger",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -14936,7 +14936,7 @@
       },
       "defName": "TM_Sniper",
       "name": "sharpshooter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -15200,7 +15200,7 @@
       },
       "defName": "TM_Sniper",
       "name": "sniper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -15990,7 +15990,7 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -16252,7 +16252,7 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -16516,7 +16516,7 @@
       },
       "defName": "Bladedancer",
       "name": "bladedancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17056,7 +17056,7 @@
       },
       "defName": "Faceless",
       "name": "faceless",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17328,7 +17328,7 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17594,7 +17594,7 @@
       },
       "defName": "DeathKnight",
       "name": "deathknight",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -17866,7 +17866,7 @@
       },
       "defName": "TM_Monk",
       "name": "monk",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -18132,7 +18132,7 @@
       },
       "defName": "TM_Commander",
       "name": "commander",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -18406,7 +18406,7 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -22200,7 +22200,7 @@
       },
       "defName": "TM_Gadgeteer",
       "name": "gadgeteer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -23294,7 +23294,7 @@
       },
       "defName": "TM_Medic",
       "name": "medic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -24916,7 +24916,7 @@
       },
       "defName": "TM_Reaper",
       "name": "reaper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -26556,7 +26556,7 @@
       },
       "defName": "TM_Plaguedoctor",
       "name": "plaguedoctor",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -27094,7 +27094,7 @@
       },
       "defName": "TM_Cleric",
       "name": "cleric",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -27636,7 +27636,7 @@
       },
       "defName": "TM_Arbormancer",
       "name": "arbormancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -43964,7 +43964,7 @@
       },
       "defName": "TM_Chef",
       "name": "chef",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -44508,7 +44508,7 @@
       },
       "defName": "TM_Miner",
       "name": "miner",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -47211,7 +47211,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
+      "description": "Timmy is a Gunslinger, a mobile ranged attacker capable of blanketing the battlefield with suppressive fire.",
       "stats": [
         "-25% aiming time",
         "+0.25 move speed",
@@ -49906,7 +49906,7 @@
       },
       "defName": "TM_Explorer",
       "name": "explorer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -50444,7 +50444,7 @@
       },
       "defName": "TM_Architect",
       "name": "architect",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 10000,
       "removePrice": 100,
@@ -50485,7 +50485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50515,7 +50515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50545,7 +50545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50579,7 +50579,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50613,7 +50613,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50643,7 +50643,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50673,7 +50673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50703,7 +50703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50733,7 +50733,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50763,7 +50763,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50793,7 +50793,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50831,7 +50831,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50861,7 +50861,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50891,7 +50891,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50923,7 +50923,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50953,7 +50953,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -50983,7 +50983,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51013,7 +51013,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51043,7 +51043,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51073,7 +51073,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51103,7 +51103,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51141,7 +51141,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51171,7 +51171,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51201,7 +51201,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51233,7 +51233,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51263,7 +51263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51297,7 +51297,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51329,7 +51329,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51359,7 +51359,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51389,7 +51389,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51419,7 +51419,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51451,7 +51451,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51483,7 +51483,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51513,7 +51513,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51543,7 +51543,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51573,7 +51573,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51603,7 +51603,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51633,7 +51633,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51669,7 +51669,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51705,7 +51705,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51735,7 +51735,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51767,7 +51767,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51797,7 +51797,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51827,7 +51827,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51857,7 +51857,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51891,7 +51891,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51927,7 +51927,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51961,7 +51961,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -51997,7 +51997,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52031,7 +52031,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52061,7 +52061,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52091,7 +52091,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52127,7 +52127,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52157,7 +52157,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 2
     },
     {
@@ -52187,7 +52187,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 1
     },
     {
@@ -52217,7 +52217,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -1
     },
     {
@@ -52247,7 +52247,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": -2
     },
     {
@@ -52277,7 +52277,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -52321,6 +52321,36 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
+      "removePrice": 100,
+      "degree": 0
+    },
+    {
+      "description": "text.todo",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
     }
@@ -52344,9 +52374,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1459
     },
     {
       "data": {
@@ -52380,7 +52410,7 @@
       "defName": "Apini",
       "enabled": true,
       "name": "apini",
-      "price": 1667
+      "price": 834
     },
     {
       "data": {
@@ -52414,7 +52444,7 @@
       "defName": "Azuri",
       "enabled": true,
       "name": "azuri",
-      "price": 2500
+      "price": 1250
     },
     {
       "data": {
@@ -52448,7 +52478,7 @@
       "defName": "Necropini",
       "enabled": true,
       "name": "necropini",
-      "price": 1667
+      "price": 834
     },
     {
       "data": {
@@ -52504,9 +52534,9 @@
       },
       "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
       "defName": "AT_dreadnought",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty Dreadnought",
-      "price": 5000
+      "price": 2500
     },
     {
       "data": {
@@ -52562,7 +52592,253 @@
       "defName": "Anty",
       "enabled": true,
       "name": "Anty",
-      "price": 1333
+      "price": 667
+    },
+    {
+      "data": {
+        "stats": [
+          "+$3000 Market value",
+          "+2.15 Move speed",
+          "+520.00 Mass",
+          "+500.0C Maximum comfortable temperature",
+          "-80.0C Minimum comfortable temperature",
+          "+100% Rest rate multiplier",
+          "+250% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+110 Carrying capacity",
+          "+60 Meat amount",
+          "+30 Leather amount",
+          "+99% Pain shock threshold",
+          "+0% Psychic sensitivity",
+          "+1% Mental break threshold",
+          "+0% Toxic sensitivity",
+          "+0% Flammability",
+          "+0.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+0.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+10.00% Social impact",
+          "+0.00% Trade price improvement",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Construction speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Plant work speed",
+          "+150% Global learning factor",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+110% Immunity gain speed",
+          "+400% Mining speed",
+          "+50% Mining yield",
+          "+65.0% Armor - Blunt",
+          "+135.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
+      "defName": "AT_Hiveguard",
+      "enabled": true,
+      "name": "Anty Hive guard",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+80% Toxic sensitivity",
+          "+60.00% Food poison chance",
+          "+5.0% Armor - Blunt",
+          "+5.0% Armor - Sharp",
+          "+6.00 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+90.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+30 Meat amount",
+          "+100% Psychic sensitivity",
+          "+80% Plant work speed",
+          "+150% Immunity gain speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tough insectoid-human. They are fast and do slightly more melee damage than a normal person. They have horns on their heads reminiscent of beetle mandibles.",
+      "defName": "Alien_Beetle",
+      "enabled": true,
+      "name": "Beetle person",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "-15.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+$1900 Market value",
+          "+90 Meat amount",
+          "+5.30 Move speed",
+          "+75 Carrying capacity",
+          "+85% Mining speed",
+          "+85% Mining yield",
+          "+75% Construction speed",
+          "+75% Construct success chance",
+          "+75% Drug cooking speed",
+          "+90% General labor speed",
+          "+0.3 Shooting accuracy",
+          "+0.3 Melee hit chance",
+          "+0.1 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The violent and hostile Mantis appear, to Humans anyway, to resemble man-sized Praying Mantises, although they are much more aggressive than their namesakes. Whereas praying mantises kill prey merely to survive, the much larger and more intelligent Mantis race kill remorselessly to suit their own personal agendas- usually without survival as a concern, making for a pitiless and brutal insectoid warrior species.\n\nWhile humans and most other species have manufactured handheld weaponry to utilize in combat, the Mantis usually default to their agility, and sharpened exoskeletal appendages to tear through their enemies, and their skill as warriors goes almost unchallenged in 1v1 combat even against the rock species. The Mantis also possess extremely acidic saliva which can burn through flesh and melt most metal alloys.\n\nWhile Mantis excel at combat, especially personal combat, they are the least adept of all the races at technical repairs. They have overcome this problem by frequently taking Engi slaves. Engi slaves can be found on a majority of their bases and ships. Though some individual Mantises have been known to work with the Galactic Federation, the race as a whole tends to be deceptive, opportunistic and untrustworthy, and can commonly be found piloting their signature style of well armed spacecraft, hunting down weaker enemies in pursuit of their belongings. Human children are told tales of their red ships, and of the Mantis invasion of Earth.\n\n- 115% Speed\n- 130% Melee hit chance / 125% Shooting hit chance\n- 120% sharp damage / 105% Melee evasion\n- 75% Construction / 75% Drug production\n- 85% Mining / 90% Smelting Smithing Tailoring\n- Claws",
+      "defName": "Alien_Mantis",
+      "enabled": true,
+      "name": "Mantis",
+      "price": 1584
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$1500 Market value",
+          "+4.70 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+24.0C Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+2 Honor value",
+          "+90% Hunger rate multiplier",
+          "+50 Carrying capacity",
+          "+120% Psychic sensitivity",
+          "+130.00% Tame animal chance",
+          "+130.00% Train animal chance",
+          "+130% Plant work speed",
+          "+130% Hunting stealth",
+          "+130% Butchery speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of amphibian-like aliens.",
+      "defName": "CaeruleanRace",
+      "enabled": true,
+      "name": "caerulean",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1500 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+2 Honor value",
+          "+70.00% Negotiation ability",
+          "+70.00% Trade price improvement",
+          "+70.00% Social impact",
+          "+80% Eating speed",
+          "+130% Mining speed",
+          "+130% Smoothing speed",
+          "+130% Construction speed",
+          "+130% General labor speed",
+          "+130% Smelting speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of crustacean-like aliens.",
+      "defName": "CruttunRace",
+      "enabled": true,
+      "name": "cruttun",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1500 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+2 Honor value",
+          "+130% Mining speed",
+          "+130% Construction speed",
+          "+130% Smelting speed",
+          "+70% Research speed",
+          "+70% Medical operation speed",
+          "+70% Medical tend speed",
+          "+70% Drug synthesis speed",
+          "+85 Carrying capacity",
+          "+120% Hunger rate multiplier",
+          "+120% Eating speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of brutish aliens.",
+      "defName": "GrodanRace",
+      "enabled": true,
+      "name": "grodan",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1500 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+2 Honor value",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+120.00% Social impact",
+          "+120% Research speed",
+          "+120% Drug cooking speed",
+          "+120% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+70% Mining speed",
+          "+70% Smoothing speed",
+          "+70% Construction speed",
+          "+70% Plant work speed",
+          "+80% Rest rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of above average intelligent aliens.",
+      "defName": "XotanRace",
+      "enabled": true,
+      "name": "xotan",
+      "price": 1250
     }
   ]
 }
