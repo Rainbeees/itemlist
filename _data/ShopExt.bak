@@ -52648,7 +52648,7 @@
       },
       "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
       "defName": "AT_Hiveguard",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty Hive guard",
       "price": 2500
     },

@@ -6262,61 +6262,61 @@
       "abr": "cryptoarmor",
       "category": "Armor",
       "defname": "VFEV_CryptoArmor",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "cryptocrossbow",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoLightCrossbow",
-      "price": 1433
+      "price": -10
     },
     {
       "abr": "cryptohatchet",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoLightAxe",
-      "price": 2133
+      "price": -10
     },
     {
       "abr": "cryptoheavyarmor",
       "category": "Armor",
       "defname": "VFEV_CryptoHeavyArmor",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "cryptoheavycrossbow",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoHeavyCrossbow",
-      "price": 2367
+      "price": -10
     },
     {
       "abr": "cryptohelmet",
       "category": "Headgear",
       "defname": "VFEV_Apparel_CryptoLightHelmet",
-      "price": 2467
+      "price": -10
     },
     {
       "abr": "cryptopistol",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoPistol",
-      "price": 1450
+      "price": -10
     },
     {
       "abr": "cryptorifle",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoRifle",
-      "price": 2100
+      "price": -10
     },
     {
       "abr": "cryptoshield",
       "category": "Shields",
       "defname": "VFEV_Shield_Crypto",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "cryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBed",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "crystalhorn",
@@ -8542,13 +8542,13 @@
       "abr": "heavycryptoaxe",
       "category": "Crypto weapons",
       "defname": "VFEV_CryptoHeavyAxe",
-      "price": 2417
+      "price": -10
     },
     {
       "abr": "heavycryptohelmet",
       "category": "Headgear",
       "defname": "VFEV_Apparel_CryptoHeavyHelmet",
-      "price": 3133
+      "price": -10
     },
     {
       "abr": "hedgehog",
@@ -21442,7 +21442,7 @@
       "abr": "guestancientcryptosleepsuspender",
       "category": "Furniture",
       "defname": "VFEA_AncientCryptosleepSuspenderGuest",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "guestfurbed",
@@ -21466,7 +21466,7 @@
       "abr": "guestcryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "guestadvancedbed",
