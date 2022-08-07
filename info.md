@@ -34,7 +34,7 @@ permalink: /info
         {%- continue -%}
     {%- endif -%}
 {%- endfor -%}
-[Welcome](#Welcome) | [What is TTK?](#What is Twitch Toolkit?) | [What are coins?](#What Are Coins?) | [What is Karma](#What is Karma?) | [How to use TTK](#How Do I Use Twitch Toolkit?) | [Current Setup](#Current Interactive setup) | [Socials](#Socials)
+<!-- [Welcome](#Welcome) | [What is TTK?](#What is Twitch Toolkit?) | [What are coins?](#What Are Coins?) | [What is Karma](#What is Karma?) | [How to use TTK](#How Do I Use Twitch Toolkit?) | [Current Setup](#Current Interactive setup) | [Socials](#Socials) -->
 
 # Welcome
 
