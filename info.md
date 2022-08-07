@@ -98,11 +98,12 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 All commands must be whisper to Rainbees. 
 - Pawns revivable/spawnable and !joinqueue is on
 - Research lock prevents items from spawning past our current progression
-- 5 silver/2min rimconnect and 50 TTK points/2min 
 - Subscribing and being active in chat will get you more points
 - 8 trait limit, classes and sexual orientations don't count
-- We have magic but it is limited to what we find in game or what gets sent in Rimconnect
-- Certain theme appropriate races (naga) are cheaper
+- We have magic but it is limited to what we find in game or raffles
+- Animals are locked (mostly) while we are playing with genetics
+- Running cool stuff like Rimworld of Magic, VE Genetics, VE Ancients, VE psycasts
+- Watch out for TKX polls! 
 
 ## Socials
 ### Join the Rainbees Community!
