@@ -2732,9 +2732,9 @@
       },
       "defName": "TM_Gifted",
       "name": "magicallygifted",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -12370,9 +12370,9 @@
       },
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },

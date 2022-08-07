@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -2732,9 +2732,9 @@
       },
       "defName": "TM_Gifted",
       "name": "magicallygifted",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -12370,9 +12370,9 @@
       },
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 0
     },
@@ -52325,7 +52325,7 @@
       "degree": 0
     },
     {
-      "description": "text.todo",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [
 
       ],
