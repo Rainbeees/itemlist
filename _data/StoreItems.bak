@@ -662,7 +662,7 @@
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 2800,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
@@ -19423,12 +19423,6 @@
 		"defname": "CaeruleanRace"
 	},
 	{
-		"abr": "caeruleanmarinehelmet",
-		"price": 1058,
-		"category": "Headgear",
-		"defname": "CaeruleanApparel_PowerArmorHelmet"
-	},
-	{
 		"abr": "caeruleanmeat",
 		"price": 1,
 		"category": "Meat",
@@ -21192,6 +21186,24 @@
 		"category": "Eggs (fert.)",
 		"defname": "Mashed_Spiribird_EggYellowFertilized"
 	},
+	{
+		"abr": "waterbowl",
+		"price": 51,
+		"category": "Hygiene",
+		"defname": "PetWaterBowl"
+	},
+	{
+		"abr": "watertrough",
+		"price": 249,
+		"category": "Hygiene",
+		"defname": "WaterTrough"
+	},
+	{
+		"abr": "meatslurry",
+		"price": 1,
+		"category": "Nectar",
+		"defname": "NpiniMeatSlurry"
+	},
 	],
-	"total": 3556
+	"total": 3558
 }

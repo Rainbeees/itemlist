@@ -664,7 +664,7 @@
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": 2800
+      "price": -10
     },
     {
       "abr": "psychicsoothepulser",
@@ -19423,12 +19423,6 @@
       "price": -10
     },
     {
-      "abr": "caeruleanmarinehelmet",
-      "category": "Headgear",
-      "defname": "CaeruleanApparel_PowerArmorHelmet",
-      "price": 1058
-    },
-    {
       "abr": "caeruleanmeat",
       "category": "Meat",
       "defname": "Meat_CaeruleanRace",
@@ -21193,6 +21187,24 @@
       "price": 12
     },
     {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": 51
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": 249
+    },
+    {
+      "abr": "meatslurry",
+      "category": "Nectar",
+      "defname": "NpiniMeatSlurry",
+      "price": 1
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -21214,13 +21226,13 @@
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": 900
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": 675
     },
     {
       "abr": "guestbedroll",
@@ -21274,13 +21286,13 @@
       "abr": "guestrestoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTableGuest",
-      "price": 650
+      "price": 658
     },
     {
       "abr": "guestantyhyperreconstructiondevice",
       "category": "Furniture",
       "defname": "AT_SuperregenerationdeviceGuest",
-      "price": 3675
+      "price": 3692
     },
     {
       "abr": "guesthoneycombbed",
@@ -21304,7 +21316,7 @@
       "abr": "guestwoodencanopy",
       "category": "Furniture",
       "defname": "WoodenCanopyGuest",
-      "price": 104
+      "price": 106
     },
     {
       "abr": "guestteepee",
@@ -21316,7 +21328,7 @@
       "abr": "guesttent",
       "category": "Furniture",
       "defname": "TentGuest",
-      "price": 342
+      "price": 350
     },
     {
       "abr": "guestvikingtent",
@@ -21352,7 +21364,7 @@
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": 2008
+      "price": 1158
     },
     {
       "abr": "guestslabbed",
@@ -21430,25 +21442,25 @@
       "abr": "guestglitterworldhospitalbed",
       "category": "Furniture",
       "defname": "GlitterworldHospitalBedSWGuest",
-      "price": 1958
+      "price": 1992
     },
     {
       "abr": "guestancientbed",
       "category": "Furniture",
       "defname": "VFEA_AncientBedGuest",
-      "price": 147
+      "price": 151
     },
     {
       "abr": "guestancientcryptosleepsuspender",
       "category": "Furniture",
       "defname": "VFEA_AncientCryptosleepSuspenderGuest",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "guestfurbed",
       "category": "Furniture",
       "defname": "VFEV_FurBedGuest",
-      "price": 171
+      "price": 173
     },
     {
       "abr": "guestdoublefurbed",
@@ -21466,20 +21478,20 @@
       "abr": "guestcryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "guestadvancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBedGuest",
-      "price": 833
+      "price": 842
     },
     {
       "abr": "guestadvanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1483
+      "price": 1500
     }
   ],
-  "total": 3580
+  "total": 3582
 }
