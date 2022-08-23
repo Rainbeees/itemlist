@@ -53606,7 +53606,7 @@
       "defName": "Apini",
       "enabled": true,
       "name": "apini",
-      "price": 834
+      "price": 1000
     },
     {
       "data": {
@@ -53875,7 +53875,7 @@
       "defName": "Alien_Beetle",
       "enabled": true,
       "name": "Beetle person",
-      "price": 2500
+      "price": 500
     },
     {
       "data": {
