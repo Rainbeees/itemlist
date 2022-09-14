@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -762,66 +762,6 @@
       },
       "defName": "Undergrounder",
       "name": "undergrounder",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 100,
-      "degree": 0
-    },
-    {
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodypurist"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Transhumanist",
-      "name": "bodymodder",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 100,
-      "degree": 0
-    },
-    {
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
-      "stats": [
-        "-10.00% sex drive"
-      ],
-      "conflicts": [
-        "bodymodder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "bodymodder"
-        ],
-        "stats": [
-          "-10.00% sex drive"
-        ]
-      },
-      "defName": "BodyPurist",
-      "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2189,36 +2129,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy ate bugs as a regular part of his diet and learned to love them. he forages for bugs while moving, slowing walking speed but reducing hunger and providing a single variety of food. he can eat insect meat without a mood penalty.",
-      "stats": [
-
-      ],
-      "conflicts": [
-        "gourmand"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Entomophagy",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "gourmand"
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Entomophagous",
-      "name": "entomophagous",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 100,
-      "degree": 0
-    },
-    {
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
       "stats": [
 
@@ -2244,9 +2154,9 @@
       },
       "defName": "TM_ArcaneConduitTD",
       "name": "arcaneconduit",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2276,9 +2186,9 @@
       },
       "defName": "TM_ManaWellTD",
       "name": "manawell",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2291,9 +2201,9 @@
         "arcaneconduit",
         "manawell"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2308,9 +2218,9 @@
       },
       "defName": "TM_BoundlessTD",
       "name": "boundless",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2338,9 +2248,9 @@
       },
       "defName": "TM_FaeBloodTD",
       "name": "faeblood",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2368,9 +2278,9 @@
       },
       "defName": "TM_GiantsBloodTD",
       "name": "giantsblood",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2398,9 +2308,9 @@
       },
       "defName": "TM_EnlightenedTD",
       "name": "enlightened",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2428,9 +2338,9 @@
       },
       "defName": "TM_CursedTD",
       "name": "cursed",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2442,9 +2352,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2458,9 +2368,9 @@
       },
       "defName": "TM_OKWithDeath",
       "name": "unaffectedbydeath",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2526,9 +2436,9 @@
         "shaman",
         "golemancer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2596,9 +2506,9 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -2663,9 +2573,9 @@
         "shaman",
         "golemancer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2734,7 +2644,7 @@
       "name": "magicallygifted",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -3055,9 +2965,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3380,9 +3290,9 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -3514,9 +3424,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3650,9 +3560,9 @@
       },
       "defName": "TM_Wanderer",
       "name": "wanderer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -3785,9 +3695,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3922,9 +3832,9 @@
       },
       "defName": "InnerFire",
       "name": "firemage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -4056,9 +3966,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4192,9 +4102,9 @@
       },
       "defName": "HeartOfFrost",
       "name": "icemage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -4324,9 +4234,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4458,9 +4368,9 @@
       },
       "defName": "StormBorn",
       "name": "lightningmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -4594,9 +4504,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4732,9 +4642,9 @@
       },
       "defName": "Arcanist",
       "name": "arcanemage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -4867,9 +4777,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5004,9 +4914,9 @@
       },
       "defName": "Druid",
       "name": "druid",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -5137,9 +5047,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5272,9 +5182,9 @@
       },
       "defName": "Paladin",
       "name": "paladin",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -5404,9 +5314,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5538,9 +5448,9 @@
       },
       "defName": "Summoner",
       "name": "summoner",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -5673,9 +5583,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5810,9 +5720,9 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -5957,9 +5867,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6106,9 +6016,9 @@
       },
       "defName": "Lich",
       "name": "lich",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -6243,9 +6153,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6382,9 +6292,9 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -6512,9 +6422,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6644,9 +6554,9 @@
       },
       "defName": "TM_Bard",
       "name": "entertainer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -6774,9 +6684,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6906,9 +6816,9 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 1
     },
@@ -7036,9 +6946,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7168,9 +7078,9 @@
       },
       "defName": "TM_Bard",
       "name": "minstrel",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 2
     },
@@ -7298,9 +7208,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7430,9 +7340,9 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 5000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 3
     },
@@ -7570,9 +7480,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7712,9 +7622,9 @@
       },
       "defName": "Succubus",
       "name": "succubus",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -7852,9 +7762,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7994,9 +7904,9 @@
       },
       "defName": "Warlock",
       "name": "warlock",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -8132,9 +8042,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8272,9 +8182,9 @@
       },
       "defName": "Geomancer",
       "name": "geomancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -8412,9 +8322,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8554,9 +8464,9 @@
       },
       "defName": "Technomancer",
       "name": "technomancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -8689,9 +8599,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8826,9 +8736,9 @@
       },
       "defName": "BloodMage",
       "name": "bloodmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -8962,9 +8872,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9100,9 +9010,9 @@
       },
       "defName": "Enchanter",
       "name": "enchanter",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -9232,9 +9142,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9366,9 +9276,9 @@
       },
       "defName": "Chronomancer",
       "name": "chronomancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -9498,9 +9408,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9632,9 +9542,9 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -9958,9 +9868,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10286,9 +10196,9 @@
       },
       "defName": "TM_TheShadow",
       "name": "shadow",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -10611,9 +10521,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10938,9 +10848,9 @@
       },
       "defName": "TM_Brightmage",
       "name": "brightmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -11262,9 +11172,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -11588,9 +11498,9 @@
       },
       "defName": "TM_Shaman",
       "name": "shaman",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 7000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -11910,9 +11820,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12234,9 +12144,9 @@
       },
       "defName": "TM_Golemancer",
       "name": "golemancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -12301,9 +12211,9 @@
         "empath",
         "apothecary"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12372,7 +12282,7 @@
       "name": "physicallyadept",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -12504,9 +12414,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12640,9 +12550,9 @@
       },
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -12966,9 +12876,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13294,9 +13204,9 @@
       },
       "defName": "TM_Apothecary",
       "name": "apothecary",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -13434,9 +13344,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13576,9 +13486,9 @@
       },
       "defName": "Gladiator",
       "name": "gladiator",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -13712,9 +13622,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13850,9 +13760,9 @@
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -13986,9 +13896,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14124,9 +14034,9 @@
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 1
     },
@@ -14260,9 +14170,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14398,9 +14308,9 @@
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 2
     },
@@ -14534,9 +14444,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14672,9 +14582,9 @@
       },
       "defName": "Ranger",
       "name": "ranger",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 3
     },
@@ -14803,9 +14713,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14936,9 +14846,9 @@
       },
       "defName": "TM_Sniper",
       "name": "sharpshooter",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -15067,9 +14977,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15200,9 +15110,9 @@
       },
       "defName": "TM_Sniper",
       "name": "sniper",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 1
     },
@@ -15331,9 +15241,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15464,9 +15374,9 @@
       },
       "defName": "TM_Sniper",
       "name": "mastersniper",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 2
     },
@@ -15595,9 +15505,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15728,9 +15638,9 @@
       },
       "defName": "TM_Sniper",
       "name": "legendarysniper",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 3
     },
@@ -15858,9 +15768,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15990,9 +15900,9 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -16120,9 +16030,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16252,9 +16162,9 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 1
     },
@@ -16383,9 +16293,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16516,9 +16426,9 @@
       },
       "defName": "Bladedancer",
       "name": "bladedancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 2
     },
@@ -16647,9 +16557,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16780,9 +16690,9 @@
       },
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 3
     },
@@ -16917,9 +16827,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17056,9 +16966,9 @@
       },
       "defName": "Faceless",
       "name": "faceless",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -17191,9 +17101,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17328,9 +17238,9 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -17460,9 +17370,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17594,9 +17504,9 @@
       },
       "defName": "DeathKnight",
       "name": "deathknight",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -17729,9 +17639,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17866,9 +17776,9 @@
       },
       "defName": "TM_Monk",
       "name": "monk",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -17998,9 +17908,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -18132,9 +18042,9 @@
       },
       "defName": "TM_Commander",
       "name": "commander",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -18268,9 +18178,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -18406,9 +18316,9 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 0
     },
@@ -18680,9 +18590,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -18956,9 +18866,9 @@
       },
       "defName": "TM_RedMage",
       "name": "redmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -19226,9 +19136,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -19498,9 +19408,9 @@
       },
       "defName": "TM_Ninja",
       "name": "ninja",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -19765,9 +19675,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -20034,9 +19944,9 @@
       },
       "defName": "TM_ElementalGunner",
       "name": "elementalgunner",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -20300,9 +20210,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -20568,9 +20478,9 @@
       },
       "defName": "TM_Bombardier",
       "name": "bombardier",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -20838,9 +20748,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -21110,9 +21020,9 @@
       },
       "defName": "TM_Railbreaker",
       "name": "railbreaker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -21381,9 +21291,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -21654,9 +21564,9 @@
       },
       "defName": "TM_Samurai",
       "name": "samurai",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -21926,9 +21836,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -22200,9 +22110,9 @@
       },
       "defName": "TM_Gadgeteer",
       "name": "gadgeteer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -22471,9 +22381,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -22744,9 +22654,9 @@
       },
       "defName": "TM_WindMage",
       "name": "windmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -23018,9 +22928,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -23294,9 +23204,9 @@
       },
       "defName": "TM_Medic",
       "name": "medic",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -23562,9 +23472,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -23832,9 +23742,9 @@
       },
       "defName": "TM_ChromaMage",
       "name": "chromamage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -24102,9 +24012,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24374,9 +24284,9 @@
       },
       "defName": "TM_Harbinger",
       "name": "harbinger",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -24644,9 +24554,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24916,9 +24826,9 @@
       },
       "defName": "TM_Reaper",
       "name": "reaper",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -25194,9 +25104,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -25474,9 +25384,9 @@
       },
       "defName": "TM_Berserker",
       "name": "berserker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -25744,9 +25654,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26016,9 +25926,9 @@
       },
       "defName": "TM_Scion",
       "name": "scion",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -26285,9 +26195,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26556,9 +26466,9 @@
       },
       "defName": "TM_Plaguedoctor",
       "name": "plaguedoctor",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -26824,9 +26734,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27094,9 +27004,9 @@
       },
       "defName": "TM_Cleric",
       "name": "cleric",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -27364,9 +27274,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27636,9 +27546,9 @@
       },
       "defName": "TM_Arbormancer",
       "name": "arbormancer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -27904,9 +27814,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28174,9 +28084,9 @@
       },
       "defName": "TM_Chainwarden",
       "name": "chainwarden",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -28444,9 +28354,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28716,9 +28626,9 @@
       },
       "defName": "TM_Ambusher",
       "name": "ambusher",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -28986,9 +28896,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29258,9 +29168,9 @@
       },
       "defName": "TM_Saboteur",
       "name": "saboteur",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -29530,9 +29440,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29804,9 +29714,9 @@
       },
       "defName": "TM_Keeper",
       "name": "keeper",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -30077,9 +29987,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30352,9 +30262,9 @@
       },
       "defName": "TM_Pridestalker",
       "name": "pridestalker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -30633,9 +30543,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30916,9 +30826,9 @@
       },
       "defName": "TM_Starseeker",
       "name": "starseeker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -31197,9 +31107,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -31480,9 +31390,9 @@
       },
       "defName": "TM_Aspirant",
       "name": "aspirant",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -31747,9 +31657,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32016,9 +31926,9 @@
       },
       "defName": "TM_Hawkeye",
       "name": "hawkeye",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -32285,9 +32195,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32556,9 +32466,9 @@
       },
       "defName": "TM_Atronach",
       "name": "atronach",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -32829,9 +32739,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33104,9 +33014,9 @@
       },
       "defName": "TM_SupportSpecialist",
       "name": "supportspecialist",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -33377,9 +33287,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33652,9 +33562,9 @@
       },
       "defName": "TM_Scrapper",
       "name": "scrapper",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -33923,9 +33833,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34196,9 +34106,9 @@
       },
       "defName": "TM_Oracle",
       "name": "oracle",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -34467,9 +34377,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34740,9 +34650,9 @@
       },
       "defName": "TM_Mystic",
       "name": "mystic",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -35010,9 +34920,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35282,9 +35192,9 @@
       },
       "defName": "TM_Spellbreaker",
       "name": "spellbreaker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -35550,9 +35460,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35820,9 +35730,9 @@
       },
       "defName": "TM_Duskbringer",
       "name": "duskbringer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -36091,9 +36001,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36364,9 +36274,9 @@
       },
       "defName": "TM_Thunderblessed",
       "name": "thunderblessed",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -36634,9 +36544,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36906,9 +36816,9 @@
       },
       "defName": "TM_Deadeye",
       "name": "deadeye",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -37176,9 +37086,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37448,9 +37358,9 @@
       },
       "defName": "TM_Spellthief",
       "name": "spellthief",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -37718,9 +37628,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37990,9 +37900,9 @@
       },
       "defName": "TM_Dragoon",
       "name": "dragoon",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -38265,9 +38175,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -38542,9 +38452,9 @@
       },
       "defName": "TM_BlackMage",
       "name": "blackmage",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -38814,9 +38724,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39088,9 +38998,9 @@
       },
       "defName": "TM_Scholar",
       "name": "scholar",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -39358,9 +39268,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39630,9 +39540,9 @@
       },
       "defName": "TM_Gunbreaker",
       "name": "gunbreaker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -39897,9 +39807,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -40166,9 +40076,9 @@
       },
       "defName": "TM_Gunner",
       "name": "gunner",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -40441,9 +40351,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -40718,9 +40628,9 @@
       },
       "defName": "TM_Warrior",
       "name": "warrior",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -40988,9 +40898,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41260,9 +41170,9 @@
       },
       "defName": "TM_Nomad",
       "name": "nomad",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -41529,9 +41439,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41800,9 +41710,9 @@
       },
       "defName": "TM_Guardian",
       "name": "guardian",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -42068,9 +41978,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42338,9 +42248,9 @@
       },
       "defName": "TM_Holosmith",
       "name": "holosmith",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -42609,9 +42519,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42882,9 +42792,9 @@
       },
       "defName": "TM_Troubadour",
       "name": "troubadour",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -43152,9 +43062,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43424,9 +43334,9 @@
       },
       "defName": "TM_Gambler",
       "name": "gambler",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -43693,9 +43603,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43964,9 +43874,9 @@
       },
       "defName": "TM_Chef",
       "name": "chef",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -44235,9 +44145,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -44508,9 +44418,9 @@
       },
       "defName": "TM_Miner",
       "name": "miner",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -44778,9 +44688,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45050,9 +44960,9 @@
       },
       "defName": "TM_Striker",
       "name": "striker",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -45318,9 +45228,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45588,9 +45498,9 @@
       },
       "defName": "TM_RuneKnight",
       "name": "runeknight",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -45860,9 +45770,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46134,9 +46044,9 @@
       },
       "defName": "TM_BlossomBlader",
       "name": "blossomblader",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -46400,9 +46310,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46668,9 +46578,9 @@
       },
       "defName": "TM_Ravenous",
       "name": "ravenous",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -46935,9 +46845,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47204,9 +47114,9 @@
       },
       "defName": "TM_MechHunter",
       "name": "mechhunter",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -47472,9 +47382,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47742,9 +47652,9 @@
       },
       "defName": "TM_Gunslinger",
       "name": "gunslinger",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -48012,9 +47922,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -48284,9 +48194,9 @@
       },
       "defName": "TM_Shadowbringer",
       "name": "shadowbringer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -48553,9 +48463,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -48824,9 +48734,9 @@
       },
       "defName": "TM_Warden",
       "name": "warden",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -49094,9 +49004,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -49366,9 +49276,9 @@
       },
       "defName": "TM_Chempunk",
       "name": "chempunk",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -49635,9 +49545,9 @@
         "chempunk",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -49906,9 +49816,9 @@
       },
       "defName": "TM_Explorer",
       "name": "explorer",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -50174,9 +50084,9 @@
         "chempunk",
         "explorer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -50444,9 +50354,9 @@
       },
       "defName": "TM_Architect",
       "name": "architect",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 10000,
+      "addPrice": 3500,
       "removePrice": 100,
       "degree": 4
     },
@@ -52281,50 +52191,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy has Solid exoskeleton, he takes much less damage than other Anties from the same blows.",
-      "stats": [
-        "x70% incoming damage multiplier",
-        "x112% leather amount",
-        "x0% flammability"
-      ],
-      "conflicts": [
-        "tough",
-        "bloodlust",
-        "psychopath",
-        "cannibal",
-        "undergrounder",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anty the war ant race",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "tough",
-          "bloodlust",
-          "psychopath",
-          "cannibal",
-          "undergrounder",
-          "wimp"
-        ],
-        "stats": [
-          "x70% incoming damage multiplier",
-          "x112% leather amount",
-          "x0% flammability"
-        ]
-      },
-      "defName": "AT_Solidexoskeleton",
-      "name": "solidexoskeleton",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 100,
-      "degree": 0
-    },
-    {
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [
 
@@ -52621,9 +52487,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -53219,9 +53085,9 @@
         "explorer",
         "architect"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -53549,6 +53415,96 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Transhumanist",
+      "name": "bodymodder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bodymodder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bodymodder"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BodyPurist",
+      "name": "bodypurist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": " Typical of the Folia, Timmy's haughty attitude means they view \"peasant work\" to be beneath them ",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Folia Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "FolianEgo",
+      "name": "folianego",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -53679,207 +53635,6 @@
     {
       "data": {
         "stats": [
-          "+$3000 Market value",
-          "+4.15 Move speed",
-          "+320.00 Mass",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+250% Hunger rate multiplier",
-          "+100% Eating speed",
-          "+110 Carrying capacity",
-          "+60 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+0% Toxic sensitivity",
-          "+0% Flammability",
-          "+1.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+45.0% Armor - Blunt",
-          "+135.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
-      "defName": "AT_dreadnought",
-      "enabled": false,
-      "name": "Anty Dreadnought",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+200% Flammability",
-          "+$800 Market value",
-          "+5.00 Move speed",
-          "+28.0C Maximum comfortable temperature",
-          "+19.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Hunger rate multiplier",
-          "+100% Eating speed",
-          "+110 Carrying capacity",
-          "+20 Meat amount",
-          "+40 Leather amount",
-          "+90% Pain shock threshold",
-          "+50% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "+300% Toxic sensitivity",
-          "+0.8 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+0.8 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+120% Mechanoid shredding efficiency",
-          "+120% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+125% Construction speed",
-          "+120% Butchery efficiency",
-          "+120% Butchery speed",
-          "+100.00% Food poison chance",
-          "+0.3 Cooking speed",
-          "+100% Plant work speed",
-          "+110% Global learning factor",
-          "+100% Research speed",
-          "+80% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+110% Medical surgery success chance",
-          "+100% Immunity gain speed",
-          "+200% Mining speed",
-          "+80% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.",
-      "defName": "Anty",
-      "enabled": true,
-      "name": "Anty",
-      "price": 667
-    },
-    {
-      "data": {
-        "stats": [
-          "+$3000 Market value",
-          "+2.15 Move speed",
-          "+520.00 Mass",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+250% Hunger rate multiplier",
-          "+200% Eating speed",
-          "+110 Carrying capacity",
-          "+60 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+0% Toxic sensitivity",
-          "+0% Flammability",
-          "+0.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+65.0% Armor - Blunt",
-          "+135.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
-      "defName": "AT_Hiveguard",
-      "enabled": false,
-      "name": "Anty Hive guard",
-      "price": 2500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+80% Toxic sensitivity",
-          "+60.00% Food poison chance",
-          "+5.0% Armor - Blunt",
-          "+5.0% Armor - Sharp",
-          "+6.00 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+90.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+30 Meat amount",
-          "+100% Psychic sensitivity",
-          "+80% Plant work speed",
-          "+150% Immunity gain speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A tough insectoid-human. They are fast and do slightly more melee damage than a normal person. They have horns on their heads reminiscent of beetle mandibles.",
-      "defName": "Alien_Beetle",
-      "enabled": true,
-      "name": "Beetle person",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
           "+70.00 Mass",
           "+70% Flammability",
           "-15.0C Minimum comfortable temperature",
@@ -53914,7 +53669,7 @@
         "stats": [
           "+50.00 Mass",
           "+70% Flammability",
-          "+$1500 Market value",
+          "+$1750 Market value",
           "+4.70 Move speed",
           "+16.0C Minimum comfortable temperature",
           "+24.0C Maximum comfortable temperature",
@@ -53927,7 +53682,8 @@
           "+130.00% Train animal chance",
           "+130% Plant work speed",
           "+130% Hunting stealth",
-          "+130% Butchery speed"
+          "+130% Butchery speed",
+          "+70% Pain shock threshold"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -53975,7 +53731,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+$1500 Market value",
+          "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
@@ -54007,7 +53763,7 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+$1500 Market value",
+          "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
@@ -54035,6 +53791,486 @@
       "enabled": true,
       "name": "xotan",
       "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+500% Flammability",
+          "+7.0C Minimum comfortable temperature",
+          "+99.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "+0 Meat amount",
+          "+75 Leather amount",
+          "+60% Hunger rate multiplier",
+          "+2.0 Filth rate",
+          "+50 Carrying capacity",
+          "+1000% Injury healing factor",
+          "+1% Aiming time",
+          "+30% Global work speed",
+          "+10% Mining speed",
+          "+10% Plant work speed",
+          "+10% General labor speed",
+          "+10.0 Shooting accuracy",
+          "+300.00% Food poison chance",
+          "+20.0 Melee dodge chance",
+          "+3.0 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A vat-grown underling created by the Folia to act as guards and raiders.\nVery combat proficient, these fungal organisms' toxic touch lets them defeat even strong foes in hand-to-hand combat.\nTheir skill in any other labor, however, leave much to be desired.\n+ Shooting Accuracy and Speed \n+Dodge Change\n+ No food debuffs\n+ Fast injury recovery\n- very slow worker",
+      "defName": "Deathkap_Race",
+      "enabled": true,
+      "name": "Deathkap",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+500% Flammability",
+          "+7.0C Minimum comfortable temperature",
+          "+99.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+3.00 Move speed",
+          "+140 Meat amount",
+          "+0 Leather amount",
+          "+30% Hunger rate multiplier",
+          "+0.0 Filth rate",
+          "+900.00% Social impact",
+          "+300.00% Negotiation ability",
+          "+300.00% Trade price improvement"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One of the regal and imposing Folia. Their plant-infused DNA lets them thrive in harsh temperatures and suppliment their diet with sunlight.\nThese xenohumans deign to involve themselves in hard labour, preferring to delegate tasks to their vat-grown underlings.\n+ Great at trade deals\n+ Low food needs\n+ Access to tech to grow worker units\n~ Huge social imapact\n- often unwilling to do many work types",
+      "defName": "Folia_Race",
+      "enabled": true,
+      "name": "Folia",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+500% Flammability",
+          "+3.0C Minimum comfortable temperature",
+          "+99.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+3.00 Move speed",
+          "+0 Meat amount",
+          "+75 Leather amount",
+          "+60% Hunger rate multiplier",
+          "+2.0 Filth rate",
+          "+20% Mental break threshold",
+          "+240 Carrying capacity",
+          "+40% Global learning factor",
+          "+500% Global work speed",
+          "+30% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A vat-grown underling created by the Folia to perform menial tasks.\nSlow learning, yet hard working and hardy, these plant-based grunts are effective workers.\n+ Bonus work speed\n+ low break threshold\n- Slow learning\n- Dumb",
+      "defName": "Potatoid_Race",
+      "enabled": true,
+      "name": "Potatoid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.",
+      "defName": "LotRD_DwarfStandardRace",
+      "enabled": true,
+      "name": "dwarf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Wise and immortal.",
+      "defName": "LotRE_ElfStandardRace",
+      "enabled": true,
+      "name": "elf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1250 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Those born between the world of immortality and mortality.",
+      "defName": "LotRE_ElfStandardRaceHalf",
+      "enabled": true,
+      "name": "half-elf",
+      "price": 2083
+    },
+    {
+      "data": {
+        "stats": [
+          "+320.00 Mass",
+          "+200% Flammability",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+800 Carrying capacity",
+          "+2.00 Move speed",
+          "-80.0C Minimum comfortable temperature",
+          "+85.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+50% Psychic sensitivity",
+          "+150% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Ent, a mystical guardian of the Forest.",
+      "defName": "Ent_Race",
+      "enabled": true,
+      "name": "Ent",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+42.00 Mass",
+          "+100% Flammability",
+          "+45 Carrying capacity",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.",
+      "defName": "LotRH_HobbitStandardRace",
+      "enabled": true,
+      "name": "hobbit",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+200% Flammability",
+          "+18.0C Minimum comfortable temperature",
+          "+25.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+60% Hunger rate multiplier",
+          "+7.00 Move speed",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+10 Carrying capacity",
+          "+0% Toxic sensitivity",
+          "+300% Immunity gain speed",
+          "+500% Eating speed",
+          "+130% Incoming damage multiplier",
+          "+400% Medical tend speed",
+          "+300% Medical tend quality",
+          "+200% Medical operation speed",
+          "+300% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small friendly gelatinous being.\nMoonjellies are quick and nimble, and exceptionally skilled with medicine.\nBut be warned, their delicate bodies make them poor combatants and very vulnerable to danger.",
+      "defName": "Moonjelly_Race",
+      "enabled": true,
+      "name": "Moonjelly",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+5.25 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+3 Honor value",
+          "+90% Research speed",
+          "+125% Mining speed",
+          "+95.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A bloodthirsty vulpine near-human.",
+      "defName": "ReviaRaceAlien",
+      "enabled": true,
+      "name": "Revia",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+240% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+19.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+2 Honor value",
+          "+30 Leather amount",
+          "+$1500 Market value",
+          "+90% Pain shock threshold",
+          "+120% Research speed",
+          "-50.00% Social impact",
+          "-1.0 Beauty",
+          "+80% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A repulsive humanoid with an eel-like head, and pale slimy skin. Often known as \"sirens\", a glitterworld aberration made in the attempts to create a psy-powered bioweapon capable of manipulating others to its will - as the story goes, the scientists weren't immune to their creations, and the sirens were able to simply leave the laboratories containing them.",
+      "defName": "Siren_",
+      "enabled": true,
+      "name": "siren",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+60% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+150% Mining speed",
+          "+150% General labor speed",
+          "+150% Smoothing speed",
+          "+150% Animal gather speed",
+          "+150% Construction speed",
+          "+150% Medical tend speed",
+          "+150% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+3 Honor value",
+          "+10.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+50% Toxic sensitivity",
+          "+200% Eating speed",
+          "+72 Meat amount",
+          "+40 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+60% Flammability",
+          "+$1800 Market value",
+          "+5.60 Move speed",
+          "+125% Mining speed",
+          "+125% General labor speed",
+          "+125% Smoothing speed",
+          "+125% Animal gather speed",
+          "+125% Construction speed",
+          "+125% Medical tend speed",
+          "+125% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+50 Carrying capacity",
+          "+5 Honor value",
+          "+15.0% Armor - Sharp",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+50% Toxic sensitivity",
+          "+200% Eating speed",
+          "+60 Meat amount",
+          "+33 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+90% Aiming time",
+          "+125.00% Negotiation ability",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Noble",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+100.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+125% Mining speed",
+          "+125% General labor speed",
+          "+125% Smoothing speed",
+          "+125% Animal gather speed",
+          "+125% Construction speed",
+          "+125% Medical tend speed",
+          "+125% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+4 Honor value",
+          "+40.0% Armor - Sharp",
+          "+35.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+25% Toxic sensitivity",
+          "+200% Eating speed",
+          "+65 Meat amount",
+          "+35 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Soldier",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+5.60 Move speed",
+          "+150% Mining speed",
+          "+150% General labor speed",
+          "+150% Smoothing speed",
+          "+150% Animal gather speed",
+          "+150% Construction speed",
+          "+150% Medical tend speed",
+          "+150% Plant work speed",
+          "+0.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+7 Honor value",
+          "+40.0% Armor - Sharp",
+          "+35.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+25% Toxic sensitivity",
+          "+200% Eating speed",
+          "+45 Meat amount",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+90% Aiming time",
+          "+150.00% Negotiation ability",
+          "+150.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
+      "defName": "Skrix_Royal",
+      "enabled": true,
+      "name": "Skrix",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+50% Psychic sensitivity",
+          "+90% Toxic sensitivity",
+          "-20.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+80 Meat amount",
+          "+0 Leather amount",
+          "+$1800 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+90.00% Social impact",
+          "+90.00% Negotiation ability",
+          "+5.00% Drug sell price improvement"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The xenophobic, leisurely Slugs are the third rarest race in the galaxy, behind the mythical Crystal and Lanius. Their home sectors are all engulfed in enormous nebulae, which lead to them evolving unique psychic abilities in order to overcome the general lack of visibility.\n\nAs a result, Slug ships aren't built with sensors; the psychic powers of the crew are just as effective, if not more so, than any electronic system. This leaves them at a distinct disadvantage outside nebulae however, so that even within their sectors they are almost never seen outside the concealing clouds.\n\nWhile not as aggressive as the Rockmen or the Mantis, Slugs are both greedy and deceitful. They prey upon ships that wander into their home systems, often leading them into traps, as well as resort to piracy in other systems.\n\n- Psychic resistant : 50% psychic sensivity\n- Toxic resistant : 90% toxic sensivity\n- Socially awkward : 90% Social, 90% Negotiation\n- Droolers : they will generate slug dew from time to time.\n- Xenophobic trait : bad social relations with non slug beings",
+      "defName": "Alien_Slug",
+      "enabled": true,
+      "name": "Slug",
+      "price": 3000
     }
   ]
 }
