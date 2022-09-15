@@ -29917,7 +29917,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Vanilla Animals Expanded — Caves",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "VAECaves_BlindSalamander": {
     "CustomName": null,
@@ -44589,7 +44589,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -57329,7 +57329,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -61979,7 +61979,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "denture": {
+  "plumbingValve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -61996,7 +61996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
   "HookHand": {
@@ -62459,7 +62459,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "turbineBlade": {
+  "pipelineValve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -62476,7 +62476,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Rimefeller",
     "KarmaType": null
   },
   "ATK_Devilyak": {
@@ -63519,47 +63519,47 @@
     "Mod": "Call of Cthulhu - Factions - Items Only (Continued)",
     "KarmaType": null
   },
+  "denture": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "KarmaType": null
+  },
+  "turbineBlade": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
+    "KarmaType": null
+  },
   "moobee_chitin": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Apini Playable Race, Continued!",
-    "KarmaType": null
-  },
-  "azuri_chitin": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Apini Playable Race, Continued!",
-    "KarmaType": null
-  },
-  "apini_chitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64959,7 +64959,7 @@
     "Mod": "Anima Bionics",
     "KarmaType": null
   },
-  "aniheart": {
+  "azuri_chitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64976,10 +64976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Anima Bionics",
+    "Mod": "Apini Playable Race, Continued!",
     "KarmaType": null
   },
-  "animaentArm": {
+  "apini_chitin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64996,7 +64996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Anima Bionics",
+    "Mod": "Apini Playable Race, Continued!",
     "KarmaType": null
   },
   "AnimaWar_Arm": {
@@ -68229,7 +68229,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -71859,7 +71859,7 @@
     "Mod": "Rim-Sirens",
     "KarmaType": null
   },
-  "pipelineValve": {
+  "aniheart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -71876,7 +71876,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimefeller",
+    "Mod": "Anima Bionics",
     "KarmaType": null
   },
   "Skrix_Custom_Meat": {
@@ -75459,7 +75459,7 @@
     "Mod": "Vanilla Plants Expanded - More Plants",
     "KarmaType": null
   },
-  "plumbingValve": {
+  "animaentArm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -75476,7 +75476,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Anima Bionics",
     "KarmaType": null
   },
   "VCE_InsectCheese": {
