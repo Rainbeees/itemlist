@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -21419,6 +21419,66 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy has made an unbreakable contract. he will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Call of Cthulhu - Cults",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Cults_OathtakerHastur",
+      "name": "oathtaker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has risen from the dead to serve once again.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Call of Cthulhu - Cults",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Cults_OathtakerHastur2",
+      "name": "reanimated",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -21442,7 +21502,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 4377
+      "price": 750
     },
     {
       "data": {
@@ -21474,7 +21534,7 @@
       "defName": "Alien_Mantis",
       "enabled": true,
       "name": "Mantis",
-      "price": 4752
+      "price": 5000
     },
     {
       "data": {
@@ -21505,7 +21565,7 @@
       "defName": "CaeruleanRace",
       "enabled": true,
       "name": "caerulean",
-      "price": 3750
+      "price": 5000
     },
     {
       "data": {
@@ -21536,7 +21596,7 @@
       "defName": "CruttunRace",
       "enabled": true,
       "name": "cruttun",
-      "price": 3750
+      "price": 5000
     },
     {
       "data": {
@@ -21568,7 +21628,7 @@
       "defName": "GrodanRace",
       "enabled": true,
       "name": "grodan",
-      "price": 3750
+      "price": 5000
     },
     {
       "data": {
@@ -21602,7 +21662,7 @@
       "defName": "XotanRace",
       "enabled": true,
       "name": "xotan",
-      "price": 3750
+      "price": 5000
     },
     {
       "data": {
@@ -21637,7 +21697,7 @@
       "defName": "Deathkap_Race",
       "enabled": true,
       "name": "Deathkap",
-      "price": 9999
+      "price": 350
     },
     {
       "data": {
@@ -21664,7 +21724,7 @@
       "defName": "Folia_Race",
       "enabled": true,
       "name": "Folia",
-      "price": 9999
+      "price": 5000
     },
     {
       "data": {
@@ -21693,7 +21753,7 @@
       "defName": "Potatoid_Race",
       "enabled": true,
       "name": "Potatoid",
-      "price": 9999
+      "price": 421
     },
     {
       "data": {
@@ -21714,7 +21774,7 @@
       "defName": "LotRD_DwarfStandardRace",
       "enabled": true,
       "name": "dwarf",
-      "price": 8751
+      "price": 5000
     },
     {
       "data": {
@@ -21735,7 +21795,7 @@
       "defName": "LotRE_ElfStandardRace",
       "enabled": true,
       "name": "elf",
-      "price": 8751
+      "price": 5000
     },
     {
       "data": {
@@ -21756,7 +21816,7 @@
       "defName": "LotRE_ElfStandardRaceHalf",
       "enabled": true,
       "name": "half-elf",
-      "price": 6249
+      "price": 5000
     },
     {
       "data": {
@@ -21804,7 +21864,7 @@
       "defName": "LotRH_HobbitStandardRace",
       "enabled": true,
       "name": "hobbit",
-      "price": 8751
+      "price": 5000
     },
     {
       "data": {
@@ -21836,7 +21896,7 @@
       "defName": "Moonjelly_Race",
       "enabled": true,
       "name": "Moonjelly",
-      "price": 9999
+      "price": 5000
     },
     {
       "data": {
@@ -21862,7 +21922,7 @@
       "defName": "ReviaRaceAlien",
       "enabled": true,
       "name": "Revia",
-      "price": 17499
+      "price": 5000
     },
     {
       "data": {
@@ -21890,7 +21950,7 @@
       "defName": "Siren_",
       "enabled": true,
       "name": "siren",
-      "price": 1200
+      "price": 5000
     },
     {
       "data": {
@@ -21925,13 +21985,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix",
       "enabled": true,
-      "name": "Skrix",
-      "price": 9999
+      "name": "skrix1",
+      "price": 500
     },
     {
       "data": {
@@ -21966,13 +22026,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Noble",
       "enabled": true,
-      "name": "Skrix",
-      "price": 9000
+      "name": "skrix2",
+      "price": 550
     },
     {
       "data": {
@@ -22007,13 +22067,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Soldier",
       "enabled": true,
-      "name": "Skrix",
-      "price": 12501
+      "name": "skrix3",
+      "price": 600
     },
     {
       "data": {
@@ -22048,13 +22108,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Royal",
       "enabled": true,
-      "name": "Skrix",
-      "price": 12501
+      "name": "skrixr",
+      "price": 650
     },
     {
       "data": {
@@ -22082,7 +22142,32 @@
       "defName": "Alien_Slug",
       "enabled": true,
       "name": "Slug",
-      "price": 9000
+      "price": 751
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$0 Market value",
+          "+3.50 Move speed",
+          "+0% Psychic sensitivity",
+          "-10.0% Armor - Blunt",
+          "-15.0% Armor - Sharp",
+          "-100.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+0 Meat amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
+      "defName": "ReanimatedCorpse",
+      "enabled": false,
+      "name": "reanimated corpse",
+      "price": 1
     }
   ]
 }

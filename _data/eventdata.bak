@@ -1,18 +1,18 @@
 ﻿{
   "tornado": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "tornados": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "clearweather": {
@@ -210,7 +210,7 @@
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
@@ -426,17 +426,17 @@
   "randomdisease": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "disease": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "reviveanypawn": {

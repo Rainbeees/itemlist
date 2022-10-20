@@ -60,6 +60,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "xrushha",
     "name": "Anima Animals",
     "steamId": null,
@@ -90,6 +96,18 @@
     "version": null
   },
   {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hazzer",
+    "name": "Bone Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
@@ -100,6 +118,12 @@
     "name": "Call of Cthulhu - Cosmic Horrors",
     "steamId": "765890823",
     "version": "1.3.0.2"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults",
+    "steamId": "815039373",
+    "version": "1.0.23.5"
   },
   {
     "author": "Carny Senpai",
@@ -210,7 +234,13 @@
     "version": null
   },
   {
-    "author": "m00nl1ght-dev",
+    "author": "Jechto",
+    "name": "GardenCloche - Automatic Hydroponic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.4.5.0"
@@ -258,6 +288,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "elkyelky",
+    "name": "Houseplants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -274,6 +310,12 @@
     "name": "Infestations Spawn in Darkness",
     "steamId": "2017514331",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Insects don't have bones",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kikohi",
@@ -310,12 +352,6 @@
     "name": "Lord of the Rims - Hobbits (Continued)",
     "steamId": "2244226597",
     "version": "1.0.8.0"
-  },
-  {
-    "author": "Sarg",
-    "name": "Magical Menagerie",
-    "steamId": "1821617793",
-    "version": "1.0.0.0"
   },
   {
     "author": "Gouda quiche",
@@ -366,10 +402,10 @@
     "version": null
   },
   {
-    "author": "Fluffy and  TedDraws",
-    "name": "Pharmacist (Forked)",
-    "steamId": "2558369439",
-    "version": "3.0"
+    "author": "Sarg and  Mlie",
+    "name": "Pit of Despair",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf",
@@ -420,12 +456,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "AveryTheKitty and Erin",
-    "name": "Refined Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -436,6 +466,12 @@
     "name": "Revia Race",
     "steamId": "2020041005",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Rim of Madness - Arachnophobia (Continued)",
+    "steamId": "2242359252",
+    "version": "1.4.1"
   },
   {
     "author": "none",
@@ -523,12 +559,6 @@
   },
   {
     "author": "Rooboid",
-    "name": "Roo's Dreadlock Hairstyles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid",
     "name": "Roo's Royalty Hairstyles",
     "steamId": null,
     "version": null
@@ -555,7 +585,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.5"
+    "version": "1.4.1"
   },
   {
     "author": "Razar1",

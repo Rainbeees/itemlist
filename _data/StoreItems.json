@@ -8374,7 +8374,7 @@
       "abr": "unrefinedmagicyte",
       "category": "Refined magicyte",
       "defname": "RawMagicyte",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "unrefineduraniumcrystals",
@@ -17635,6 +17635,12 @@
       "price": 15
     },
     {
+      "abr": "necromancerspell:massconsumecorpse",
+      "category": "Scrolls",
+      "defname": "SpellOf_ConsumeCorpse_Mass",
+      "price": 833
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -17656,13 +17662,13 @@
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1458
+      "price": 1342
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 742
+      "price": 683
     },
     {
       "abr": "guestbedroll",
@@ -17716,7 +17722,7 @@
       "abr": "guestrestoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTableGuest",
-      "price": 725
+      "price": 667
     },
     {
       "abr": "guestelvenloungebed",
@@ -17728,43 +17734,43 @@
       "abr": "guestelvenroyalbed",
       "category": "Furniture",
       "defname": "LotRE_ElvenRoyalBedGuest",
-      "price": 1217
+      "price": 1100
     },
     {
       "abr": "guestglitterworldhospitalbed",
       "category": "Furniture",
       "defname": "GlitterworldHospitalBedSWGuest",
-      "price": 1992
+      "price": 1825
     },
     {
       "abr": "guestfurbed",
       "category": "Furniture",
       "defname": "VFEV_FurBedGuest",
-      "price": 176
+      "price": 172
     },
     {
       "abr": "guestdoublefurbed",
       "category": "Furniture",
       "defname": "VFEV_DoubleFurBedGuest",
-      "price": 358
+      "price": 350
     },
     {
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": 467
+      "price": 450
     },
     {
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 908
+      "price": 867
     },
     {
       "abr": "guestroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_KingsizeGuest",
-      "price": 2000
+      "price": 1825
     },
     {
       "abr": "guestslabbed",
@@ -17806,13 +17812,13 @@
       "abr": "guestoperatingtable",
       "category": "Furniture",
       "defname": "Bed_OperatingTableGuest",
-      "price": 542
+      "price": 508
     },
     {
       "abr": "guestcryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBedGuest",
-      "price": 783
+      "price": 733
     },
     {
       "abr": "guestadvancedbed",
@@ -17824,14 +17830,494 @@
       "abr": "guestadvanceddoublebed",
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1483
+      "price": 1475
     },
     {
-      "abr": "necromancerspell:massconsumecorpse",
-      "category": "Scrolls",
-      "defname": "SpellOf_ConsumeCorpse_Mass",
-      "price": -10
+      "abr": "arachnidmeat",
+      "category": "Meat",
+      "defname": "Meat_ROMA_SpiderRaceGiant",
+      "price": 3
+    },
+    {
+      "abr": "blackgoatmeat",
+      "category": "Meat",
+      "defname": "Meat_Cults_BlackGoat",
+      "price": 3
+    },
+    {
+      "abr": "blackgoathide",
+      "category": "Leathers",
+      "defname": "CH_Leather_BlackGoathide",
+      "price": 3
+    },
+    {
+      "abr": "bone",
+      "category": "Raw resources",
+      "defname": "BoneItem",
+      "price": 2
+    },
+    {
+      "abr": "bonearmor",
+      "category": "Apparel",
+      "defname": "Sihv_Apparel_BoneArmor",
+      "price": 287
+    },
+    {
+      "abr": "boneash",
+      "category": "Raw resources",
+      "defname": "BoneChina",
+      "price": 4
+    },
+    {
+      "abr": "bonechair",
+      "category": "Furniture",
+      "defname": "BoneChair",
+      "price": 322
+    },
+    {
+      "abr": "bonemarrow",
+      "category": "Animal products",
+      "defname": "ROMB_Marrow",
+      "price": 2
+    },
+    {
+      "abr": "bonecrete",
+      "category": "Raw resources",
+      "defname": "Bonecrete",
+      "price": 3
+    },
+    {
+      "abr": "brightobelisk(blue)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_Blue",
+      "price": 1000
+    },
+    {
+      "abr": "brightobelisk(green)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_Green",
+      "price": 1000
+    },
+    {
+      "abr": "brightobelisk(red)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_Red",
+      "price": 1000
+    },
+    {
+      "abr": "brightobelisk(yellow)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_Yellow",
+      "price": 1000
+    },
+    {
+      "abr": "byakheechitin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Byakhee",
+      "price": 3
+    },
+    {
+      "abr": "calciumpolymer",
+      "category": "Raw resources",
+      "defname": "BonePlastic",
+      "price": 2
+    },
+    {
+      "abr": "cocoon",
+      "category": "Cocoons",
+      "defname": "ROMA_Cocoon",
+      "price": 1
+    },
+    {
+      "abr": "corruptedaltar",
+      "category": "Production",
+      "defname": "Cult_NightmareSacrificeAltar",
+      "price": 492
+    },
+    {
+      "abr": "cthulhidtentacle",
+      "category": "Prosthetic",
+      "defname": "Cults_CthulhidTentacle",
+      "price": 667
+    },
+    {
+      "abr": "cultaltar",
+      "category": "Production",
+      "defname": "Cult_SacrificialAltar",
+      "price": 492
+    },
+    {
+      "abr": "cultkris",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_CultKris",
+      "price": 169
+    },
+    {
+      "abr": "cultisthood(bastmask)",
+      "category": "Headgear",
+      "defname": "Apparel_BastMask",
+      "price": 80
+    },
+    {
+      "abr": "cultisthood(cthulhumask)",
+      "category": "Headgear",
+      "defname": "Apparel_CthulhuMaskHood",
+      "price": 98
+    },
+    {
+      "abr": "cultisthood(dagonmitre)",
+      "category": "Headgear",
+      "defname": "Apparel_DagonMitre",
+      "price": 101
+    },
+    {
+      "abr": "cultisthood(nyarlathotep)",
+      "category": "Headgear",
+      "defname": "Apparel_NyarlathotepHood",
+      "price": 95
+    },
+    {
+      "abr": "cultisthood(shrouded)",
+      "category": "Headgear",
+      "defname": "Apparel_CultistHood",
+      "price": 95
+    },
+    {
+      "abr": "cultisthood(shub-niggurathmask)",
+      "category": "Headgear",
+      "defname": "Apparel_ShubMask",
+      "price": 95
+    },
+    {
+      "abr": "cultisthood(simple)",
+      "category": "Headgear",
+      "defname": "Apparel_StandardHood",
+      "price": 95
+    },
+    {
+      "abr": "cultisthood(yellow)",
+      "category": "Headgear",
+      "defname": "Apparel_HasturHood",
+      "price": 119
+    },
+    {
+      "abr": "cultistrobes",
+      "category": "Apparel",
+      "defname": "Apparel_CultistRobes",
+      "price": 315
+    },
+    {
+      "abr": "cultistrobes(fur)",
+      "category": "Apparel",
+      "defname": "Apparel_ROMFurRobes",
+      "price": 327
+    },
+    {
+      "abr": "cultistvestments(bast)",
+      "category": "Apparel",
+      "defname": "Apparel_BastRobes",
+      "price": 320
+    },
+    {
+      "abr": "cultistvestments(druidic)",
+      "category": "Apparel",
+      "defname": "Apparel_ROMShubRobes",
+      "price": 450
+    },
+    {
+      "abr": "cultistvestments(tentacled)",
+      "category": "Apparel",
+      "defname": "Apparel_ROMCthulhuRobes",
+      "price": 450
+    },
+    {
+      "abr": "cultistvestments(traditional)",
+      "category": "Apparel",
+      "defname": "Apparel_ROMDagonRobes",
+      "price": 383
+    },
+    {
+      "abr": "cultistvestments(wrap)",
+      "category": "Apparel",
+      "defname": "Apparel_ROMWrapRobes",
+      "price": 275
+    },
+    {
+      "abr": "cultistvestments(yellow)",
+      "category": "Apparel",
+      "defname": "Apparel_ROMHasturRobes",
+      "price": 450
+    },
+    {
+      "abr": "darkobelisk(blue)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_DarkBlue",
+      "price": 1000
+    },
+    {
+      "abr": "darkobelisk(green)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_DarkGreen",
+      "price": 1000
+    },
+    {
+      "abr": "darkobelisk(red)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_DarkRed",
+      "price": 1000
+    },
+    {
+      "abr": "darkobelisk(yellow)",
+      "category": "Buildings",
+      "defname": "Cults_ObeliskConstructed_DarkYellow",
+      "price": 1000
+    },
+    {
+      "abr": "elixerofpower",
+      "category": "Artifacts",
+      "defname": "Cults_ElixerOfPower",
+      "price": 833
+    },
+    {
+      "abr": "fertilitytotem",
+      "category": "Buildings",
+      "defname": "Cults_FertilityTotem",
+      "price": 1
+    },
+    {
+      "abr": "forbiddenknowledgecenter",
+      "category": "Production",
+      "defname": "Cults_ForbiddenKnowledgeCenter",
+      "price": 383
+    },
+    {
+      "abr": "formlessmatter",
+      "category": "Leathers",
+      "defname": "CH_Leather_FormlessSpawn",
+      "price": 3
+    },
+    {
+      "abr": "gelatin",
+      "category": "Animal products",
+      "defname": "ROMB_Gelatin",
+      "price": 13
+    },
+    {
+      "abr": "giantspider",
+      "category": "Animals",
+      "defname": "ROMA_SpiderRaceGiant",
+      "price": 1167
+    },
+    {
+      "abr": "giantspiderchitin",
+      "category": "Leathers",
+      "defname": "ROMA_Leather_SpiderGiant",
+      "price": 6
+    },
+    {
+      "abr": "giantspidereggsack",
+      "category": "Eggs (fert.)",
+      "defname": "ROMA_SpiderEggGiant",
+      "price": 2
+    },
+    {
+      "abr": "giantspiderqueen",
+      "category": "Animals",
+      "defname": "ROMA_SpiderRaceGiantQueen",
+      "price": 2000
+    },
+    {
+      "abr": "grimoire",
+      "category": "Inert relics",
+      "defname": "ROM_RelicInertGrimoire",
+      "price": 833
+    },
+    {
+      "abr": "grimoireoftheoccult",
+      "category": "Items",
+      "defname": "Cults_Grimoire",
+      "price": 33
+    },
+    {
+      "abr": "guardianfur",
+      "category": "Leathers",
+      "defname": "Cults_GuardianBast_Fur",
+      "price": 10
+    },
+    {
+      "abr": "guardianmeat",
+      "category": "Meat",
+      "defname": "Meat_GuardianBast",
+      "price": 3
+    },
+    {
+      "abr": "horrifyingeyestalk",
+      "category": "Prosthetic",
+      "defname": "Cults_CthulhidEyestalk",
+      "price": 667
+    },
+    {
+      "abr": "largecocoon",
+      "category": "Cocoons",
+      "defname": "ROMA_CocoonGiant",
+      "price": 1
+    },
+    {
+      "abr": "largeserpenthumanoidsculpture",
+      "category": "Art",
+      "defname": "YigSculptureLarge",
+      "price": 725
+    },
+    {
+      "abr": "monstrousabominationsculpture",
+      "category": "Art",
+      "defname": "SculptureTsathoggua",
+      "price": 1608
+    },
+    {
+      "abr": "monstrousbody",
+      "category": "Prosthetic",
+      "defname": "Cults_MonstrousBody",
+      "price": 833
+    },
+    {
+      "abr": "monstrousbrain",
+      "category": "Prosthetic",
+      "defname": "Cults_MonstrousBrain",
+      "price": 833
+    },
+    {
+      "abr": "monstrousfelinesculpture",
+      "category": "Art",
+      "defname": "SculptureBast",
+      "price": 1608
+    },
+    {
+      "abr": "monstrousfish-headedsculpture",
+      "category": "Art",
+      "defname": "SculptureDagon",
+      "price": 1608
+    },
+    {
+      "abr": "monstrousgoat-likesculpture",
+      "category": "Art",
+      "defname": "SculptureShub",
+      "price": 1608
+    },
+    {
+      "abr": "monstroushoodedsculpture",
+      "category": "Art",
+      "defname": "SculptureNyarlathotep",
+      "price": 1608
+    },
+    {
+      "abr": "monstrouskingsculpture",
+      "category": "Art",
+      "defname": "SculptureHastur",
+      "price": 1608
+    },
+    {
+      "abr": "monstrousoctopoidsculpture",
+      "category": "Art",
+      "defname": "SculptureCthulhu",
+      "price": 1608
+    },
+    {
+      "abr": "obelisk",
+      "category": "Buildings",
+      "defname": "Cults_MonolithNightmare",
+      "price": 301
+    },
+    {
+      "abr": "prayerpillow",
+      "category": "Furniture",
+      "defname": "Cults_PrayerPillow",
+      "price": 85
+    },
+    {
+      "abr": "psioniclobe",
+      "category": "Prosthetic",
+      "defname": "Cults_PsionicBrain",
+      "price": 2500
+    },
+    {
+      "abr": "reanimatedleather",
+      "category": "Leathers",
+      "defname": "CH_Leather_ReanimatedCorpse",
+      "price": 3
+    },
+    {
+      "abr": "sacrificialaltar",
+      "category": "Production",
+      "defname": "Cult_AnimalSacrificeAltar",
+      "price": 492
+    },
+    {
+      "abr": "sacrificialaltar",
+      "category": "Production",
+      "defname": "Cult_HumanSacrificeAltar",
+      "price": 492
+    },
+    {
+      "abr": "sailoruniform",
+      "category": "Apparel",
+      "defname": "Apparel_SailorUniform",
+      "price": 327
+    },
+    {
+      "abr": "sailorscap",
+      "category": "Headgear",
+      "defname": "Apparel_SailorsCap",
+      "price": 95
+    },
+    {
+      "abr": "skullmask",
+      "category": "Headgear",
+      "defname": "ROMB_Apparel_SkullMask",
+      "price": 113
+    },
+    {
+      "abr": "skullthrone",
+      "category": "Furniture",
+      "defname": "BoneThrone",
+      "price": 1917
+    },
+    {
+      "abr": "sleeptotem",
+      "category": "Buildings",
+      "defname": "Cults_SleepTotem",
+      "price": 1
+    },
+    {
+      "abr": "spider",
+      "category": "Animals",
+      "defname": "ROMA_SpiderRace",
+      "price": 8
+    },
+    {
+      "abr": "spidereggsack",
+      "category": "Eggs (fert.)",
+      "defname": "ROMA_SpiderEgg",
+      "price": 1
+    },
+    {
+      "abr": "spidersilk",
+      "category": "Textiles",
+      "defname": "ROM_SpiderSilk",
+      "price": 10
+    },
+    {
+      "abr": "tentacle",
+      "category": "Prosthetic",
+      "defname": "Cults_TentacleArm",
+      "price": 67
+    },
+    {
+      "abr": "thekinginyellow",
+      "category": "Utility",
+      "defname": "Cults_TheKingInYellow",
+      "price": 33
     }
   ],
-  "total": 2972
+  "total": 3053
 }
