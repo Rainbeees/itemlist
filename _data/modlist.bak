@@ -22,5 +22,107 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.B2"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Blood and stains",
+    "steamId": "2075683887",
+    "version": "1.0.8328.27847"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.4.1.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor v1.4 (unofficial)",
+    "steamId": "2873339563",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Luciferium Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
   }
 ]
