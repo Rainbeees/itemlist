@@ -3,21 +3,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Nudist",
       "name": "nudist"
@@ -25,8 +25,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
       "stats": [
@@ -34,7 +34,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -43,7 +43,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Bloodlust",
       "name": "bloodlust"
@@ -51,8 +51,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy is an exceptionally agreeable and giving person. he rarely insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
@@ -63,7 +63,7 @@
         "psychopath"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "abrasive",
           "psychopath"
@@ -75,7 +75,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Kind",
       "name": "kind"
@@ -83,8 +83,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
@@ -93,7 +93,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed.",
@@ -103,7 +103,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Psychopath",
       "name": "psychopath"
@@ -111,8 +111,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [
@@ -120,7 +120,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -129,7 +129,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Cannibal",
       "name": "cannibal"
@@ -137,8 +137,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
@@ -146,7 +146,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "x50% global certainty loss factor"
@@ -155,7 +155,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Abrasive",
       "name": "abrasive"
@@ -163,8 +163,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
@@ -180,7 +180,7 @@
         "slowlearner"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "iron-willed",
           "steadfast",
@@ -197,7 +197,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "TooSmart",
       "name": "toosmart"
@@ -205,8 +205,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
@@ -221,7 +221,7 @@
         "wimp"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "carefulshooter",
           "trigger-happy",
@@ -237,7 +237,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Brawler",
       "name": "brawler"
@@ -245,8 +245,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
@@ -256,7 +256,7 @@
         "wimp"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "wimp"
         ],
@@ -267,7 +267,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Masochist",
       "name": "masochist"
@@ -275,21 +275,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "NightOwl",
       "name": "nightowl"
@@ -297,8 +297,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
       "stats": [],
@@ -307,7 +307,7 @@
         "jealous"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "ascetic",
           "jealous"
@@ -317,7 +317,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Greedy",
       "name": "greedy"
@@ -325,8 +325,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
@@ -337,7 +337,7 @@
         "greedy"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "ascetic",
           "greedy"
@@ -349,7 +349,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Jealous",
       "name": "jealous"
@@ -357,8 +357,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
@@ -372,7 +372,7 @@
         "gourmand"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "greedy",
           "jealous",
@@ -387,7 +387,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Ascetic",
       "name": "ascetic"
@@ -395,21 +395,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Gay",
       "name": "gay"
@@ -417,21 +417,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Bisexual",
       "name": "bisexual"
@@ -439,21 +439,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Asexual",
       "name": "asexual"
@@ -461,21 +461,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "AnnoyingVoice",
       "name": "annoyingvoice"
@@ -483,21 +483,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "CreepyBreathing",
       "name": "creepybreathing"
@@ -505,8 +505,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when yielding an incendiary weapon.",
       "stats": [
@@ -515,7 +515,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Flame meditation focus type allowed.",
@@ -525,7 +525,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Pyromaniac",
       "name": "pyromaniac"
@@ -533,8 +533,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
@@ -546,7 +546,7 @@
         "masochist"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "brawler",
           "masochist"
@@ -559,7 +559,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Wimp",
       "name": "wimp"
@@ -567,8 +567,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
@@ -577,7 +577,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+15.0 melee dodge chance",
@@ -587,7 +587,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Nimble",
       "name": "nimble"
@@ -595,8 +595,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
@@ -604,7 +604,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+75% global learning factor"
@@ -613,7 +613,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "FastLearner",
       "name": "fastlearner"
@@ -621,8 +621,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
@@ -633,7 +633,7 @@
         "toosmart"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "toosmart"
         ],
@@ -645,7 +645,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "SlowLearner",
       "name": "slowlearner"
@@ -653,8 +653,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [
@@ -662,7 +662,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -671,7 +671,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Undergrounder",
       "name": "undergrounder"
@@ -679,21 +679,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy really dislikes and distrusts men.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "DislikesMen",
       "name": "misandrist"
@@ -701,21 +701,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy really dislikes and distrusts women.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "DislikesWomen",
       "name": "misogynist"
@@ -723,21 +723,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "GreatMemory",
       "name": "greatmemory"
@@ -745,8 +745,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
@@ -754,7 +754,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "x50% incoming damage multiplier"
@@ -763,7 +763,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Tough",
       "name": "tough"
@@ -771,8 +771,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
@@ -780,7 +780,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -789,7 +789,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "TorturedArtist",
       "name": "torturedartist"
@@ -797,8 +797,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
@@ -809,7 +809,7 @@
         "ascetic"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "ascetic"
         ],
@@ -821,7 +821,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Gourmand",
       "name": "gourmand"
@@ -829,8 +829,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
@@ -838,7 +838,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+50% rest rate multiplier"
@@ -847,7 +847,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "QuickSleeper",
       "name": "quicksleeper"
@@ -855,8 +855,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy is always falling behind the group whenever he goes anywhere.",
       "stats": [
@@ -865,7 +865,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Go frenzy inspiration disabled.",
@@ -875,7 +875,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "SpeedOffset",
       "name": "slowpoke"
@@ -883,8 +883,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy likes to be where he's going. he walks quicker than most people.",
       "stats": [
@@ -892,7 +892,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+0.20 move speed"
@@ -901,7 +901,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "SpeedOffset",
       "name": "fastwalker"
@@ -909,8 +909,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
@@ -918,7 +918,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+0.40 move speed"
@@ -927,7 +927,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "SpeedOffset",
       "name": "jogger"
@@ -935,21 +935,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "DrugDesire",
       "name": "chemicalfascination"
@@ -957,21 +957,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "DrugDesire",
       "name": "chemicalinterest"
@@ -979,8 +979,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
       "stats": [
@@ -989,7 +989,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "Binging on drug mental state disabled.",
@@ -999,7 +999,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "DrugDesire",
       "name": "teetotaler"
@@ -1007,21 +1007,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
       "name": "sanguine"
@@ -1029,21 +1029,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
       "name": "optimist"
@@ -1051,21 +1051,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
       "name": "pessimist"
@@ -1073,21 +1073,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -2,
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "NaturalMood",
       "name": "depressive"
@@ -1095,8 +1095,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
@@ -1105,7 +1105,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-18% mental break threshold",
@@ -1115,7 +1115,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Nerves",
       "name": "iron-willed"
@@ -1123,8 +1123,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
@@ -1133,7 +1133,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-9% mental break threshold",
@@ -1143,7 +1143,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Nerves",
       "name": "steadfast"
@@ -1151,8 +1151,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy tends to crack under pressure.",
       "stats": [
@@ -1161,7 +1161,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+8% mental break threshold",
@@ -1171,7 +1171,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Nerves",
       "name": "nervous"
@@ -1179,8 +1179,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -2,
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
@@ -1189,7 +1189,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+15% mental break threshold",
@@ -1199,7 +1199,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Nerves",
       "name": "volatile"
@@ -1207,8 +1207,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
       "stats": [
@@ -1217,7 +1217,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+20% global work speed",
@@ -1227,7 +1227,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Neurotic",
       "name": "neurotic"
@@ -1235,8 +1235,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
@@ -1245,7 +1245,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+40% global work speed",
@@ -1255,7 +1255,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Neurotic",
       "name": "veryneurotic"
@@ -1263,8 +1263,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
@@ -1272,7 +1272,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+35% global work speed"
@@ -1281,7 +1281,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
       "name": "industrious"
@@ -1289,8 +1289,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
@@ -1298,7 +1298,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+20% global work speed"
@@ -1307,7 +1307,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
       "name": "hardworker"
@@ -1315,8 +1315,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy is a little bit lazy.",
       "stats": [
@@ -1324,7 +1324,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-20% global work speed"
@@ -1333,7 +1333,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
       "name": "lazy"
@@ -1341,8 +1341,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -2,
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
@@ -1350,7 +1350,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-35% global work speed"
@@ -1359,7 +1359,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Industriousness",
       "name": "slothful"
@@ -1367,8 +1367,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
       "stats": [
@@ -1376,7 +1376,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+80% psychic sensitivity"
@@ -1385,7 +1385,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
       "name": "psychicallyhypersensitive"
@@ -1393,8 +1393,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
       "stats": [
@@ -1402,7 +1402,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+40% psychic sensitivity"
@@ -1411,7 +1411,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
       "name": "psychicallysensitive"
@@ -1419,8 +1419,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
       "stats": [
@@ -1428,7 +1428,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-50% psychic sensitivity"
@@ -1437,7 +1437,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
       "name": "psychicallydull"
@@ -1445,8 +1445,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -2,
       "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
       "stats": [
@@ -1454,7 +1454,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-100% psychic sensitivity"
@@ -1463,7 +1463,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "PsychicSensitivity",
       "name": "psychicallydeaf"
@@ -1471,8 +1471,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
@@ -1483,7 +1483,7 @@
         "brawler"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "brawler"
         ],
@@ -1495,7 +1495,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "ShootingAccuracy",
       "name": "carefulshooter"
@@ -1503,8 +1503,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
@@ -1515,7 +1515,7 @@
         "brawler"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "brawler"
         ],
@@ -1527,7 +1527,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "ShootingAccuracy",
       "name": "trigger-happy"
@@ -1535,8 +1535,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
       "stats": [
@@ -1544,7 +1544,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+2.0 beauty"
@@ -1553,7 +1553,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Beauty",
       "name": "beautiful"
@@ -1561,8 +1561,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy has a pretty face, which predisposes people to like him.",
       "stats": [
@@ -1570,7 +1570,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+1.0 beauty"
@@ -1579,7 +1579,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Beauty",
       "name": "pretty"
@@ -1587,8 +1587,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
@@ -1596,7 +1596,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-1.0 beauty"
@@ -1605,7 +1605,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Beauty",
       "name": "ugly"
@@ -1613,8 +1613,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -2,
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
@@ -1622,7 +1622,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "-2.0 beauty"
@@ -1631,7 +1631,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Beauty",
       "name": "staggeringlyugly"
@@ -1639,8 +1639,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
@@ -1648,7 +1648,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+30% immunity gain speed"
@@ -1657,7 +1657,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Immunity",
       "name": "super-immune"
@@ -1665,8 +1665,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
@@ -1674,7 +1674,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "+4 medical"
@@ -1683,7 +1683,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Immunity",
       "name": "sickly"
@@ -1691,8 +1691,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
       "stats": [],
@@ -1700,7 +1700,7 @@
         "bodypurist"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "bodypurist"
         ],
@@ -1709,7 +1709,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Transhumanist",
       "name": "bodymodder"
@@ -1717,8 +1717,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
       "stats": [],
@@ -1726,7 +1726,7 @@
         "bodymodder"
       ],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [
           "bodymodder"
         ],
@@ -1735,7 +1735,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "BodyPurist",
       "name": "bodypurist"
@@ -1743,8 +1743,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Timmy has fragile skin and bones. he takes more damage than other people from the same blows.",
       "stats": [
@@ -1752,7 +1752,7 @@
       ],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [
           "x115% incoming damage multiplier"
@@ -1761,7 +1761,7 @@
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Biotech",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Delicate",
       "name": "delicate"
@@ -1769,21 +1769,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Biotech",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Recluse",
       "name": "recluse"
@@ -1791,21 +1791,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 2,
       "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Dubs Bad Hygiene",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Hygienic",
       "name": "germaphobe"
@@ -1813,21 +1813,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 1,
       "description": "Timmy is very hygienic and will wash more frequently.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Dubs Bad Hygiene",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Hygienic",
       "name": "hygienic"
@@ -1835,21 +1835,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -1,
       "description": "Timmy is very unhygienic and will wash less frequently.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Dubs Bad Hygiene",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Hygienic",
       "name": "unhygienic"
@@ -1857,21 +1857,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": -2,
       "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Dubs Bad Hygiene",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "Hygienic",
       "name": "slob"
@@ -1879,21 +1879,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "costToAdd": 3500,
-      "costToRemove": 3500,
+      "addPrice": 0,
+      "removePrice": 0,
       "degree": 0,
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
-      "traitData": {
+      "data": {
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Psycasts Expanded",
-        "karmaType": null
+        "karmaTypeForAdding": null
       },
       "defName": "VPE_Thrall",
       "name": "thrall"
@@ -1901,7 +1901,7 @@
   ],
   "races": [
     {
-      "pawnData": {
+      "data": {
         "customName": false,
         "stats": [
           "+60.00 Mass",
@@ -1920,7 +1920,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "cost": 1
+      "price": 0
     }
   ]
 }
