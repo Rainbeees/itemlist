@@ -118,5 +118,77 @@
     "name": "Where is my weapon?",
     "steamId": "1539028008",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and xrushha",
+    "name": "Vanilla Ideology Expanded - Hats and Rags",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lilscoot + Bustedbunny (Updated by SL4VP0WER)",
+    "name": "Wheelchairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Painting Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Eagle0600",
+    "name": "Dress Patients (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
   }
 ]
