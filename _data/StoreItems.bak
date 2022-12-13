@@ -6336,6 +6336,2724 @@
 		"category": "Misc",
 		"defname": "PoluxSeed"
 	},
+	{
+		"abr": "s.a.lartmachinemk.ii",
+		"price": 14167,
+		"category": "Automation",
+		"defname": "PRF_TheArtMaster"
+	},
+	{
+		"abr": "16kbattery",
+		"price": 1883,
+		"category": "Automation",
+		"defname": "PRF_16k_Battery"
+	},
+	{
+		"abr": "256kbattery",
+		"price": 24583,
+		"category": "Automation",
+		"defname": "PRF_256k_Battery"
+	},
+	{
+		"abr": "4kbattery",
+		"price": 817,
+		"category": "Automation",
+		"defname": "PRF_4k_Battery"
+	},
+	{
+		"abr": "64kbattery",
+		"price": 8867,
+		"category": "Automation",
+		"defname": "PRF_64k_Battery"
+	},
+	{
+		"abr": "adaptiveassembler",
+		"price": 12008,
+		"category": "Automation",
+		"defname": "PRF_TypeTwoAssembler_I"
+	},
+	{
+		"abr": "adaptivedrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Adaptive_Drone"
+	},
+	{
+		"abr": "adaptivehoney",
+		"price": 3,
+		"category": "Bee honeys",
+		"defname": "RB_AdaptiveHoney"
+	},
+	{
+		"abr": "adaptivehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Adaptive_Honeycomb"
+	},
+	{
+		"abr": "adaptivequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Adaptive_Queen"
+	},
+	{
+		"abr": "adv.i/oport",
+		"price": 2883,
+		"category": "Automation",
+		"defname": "PRF_IOPort_II"
+	},
+	{
+		"abr": "advancedaicore",
+		"price": 2692,
+		"category": "Manufactured",
+		"defname": "PRF_ElectronicChip_II"
+	},
+	{
+		"abr": "advancedfurnace",
+		"price": 8225,
+		"category": "Automation",
+		"defname": "PRF_FurnaceIII"
+	},
+	{
+		"abr": "advancedmachineframe",
+		"price": 2417,
+		"category": "Manufactured",
+		"defname": "PRF_MachineFrame_III"
+	},
+	{
+		"abr": "advancedslaughterhouse",
+		"price": 3667,
+		"category": "Automation",
+		"defname": "PRF_Slaughterhouse"
+	},
+	{
+		"abr": "agavenectar",
+		"price": 2,
+		"category": "Condiments",
+		"defname": "VCE_AgaveNectar"
+	},
+	{
+		"abr": "agriculturaldrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Agricultural_Drone"
+	},
+	{
+		"abr": "agriculturalhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Agricultural_Honeycomb"
+	},
+	{
+		"abr": "agriculturalqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Agricultural_Queen"
+	},
+	{
+		"abr": "algaelantern",
+		"price": 145,
+		"category": "Furniture",
+		"defname": "RttR_AlgaeLantern"
+	},
+	{
+		"abr": "alloydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Alloy_Drone"
+	},
+	{
+		"abr": "alloyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Alloy_Honeycomb"
+	},
+	{
+		"abr": "alloyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Alloy_Queen"
+	},
+	{
+		"abr": "amalgamdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Amalgam_Drone"
+	},
+	{
+		"abr": "amalgamhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Amalgam_Honeycomb"
+	},
+	{
+		"abr": "amalgamqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Amalgam_Queen"
+	},
+	{
+		"abr": "anchovy",
+		"price": 0,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAnchovy"
+	},
+	{
+		"abr": "angelfish",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAngelfish"
+	},
+	{
+		"abr": "anglerfish",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawAnglerfish"
+	},
+	{
+		"abr": "arapaima(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ArapaimaItem"
+	},
+	{
+		"abr": "arcticdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Arctic_Drone"
+	},
+	{
+		"abr": "arctichoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Arctic_Honeycomb"
+	},
+	{
+		"abr": "arcticqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Arctic_Queen"
+	},
+	{
+		"abr": "argentdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Argent_Drone"
+	},
+	{
+		"abr": "argenthoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Argent_Honeycomb"
+	},
+	{
+		"abr": "argentqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Argent_Queen"
+	},
+	{
+		"abr": "assembler",
+		"price": 7875,
+		"category": "Automation",
+		"defname": "PRF_TypeOneAssembler_I"
+	},
+	{
+		"abr": "audiotapereel",
+		"price": 1050,
+		"category": "Manufactured",
+		"defname": "PRF_DataDisk"
+	},
+	{
+		"abr": "augerdrill",
+		"price": 3625,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry_mkI"
+	},
+	{
+		"abr": "aurumdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Aurum_Drone"
+	},
+	{
+		"abr": "aurumhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Aurum_Honeycomb"
+	},
+	{
+		"abr": "aurumqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Aurum_Queen"
+	},
+	{
+		"abr": "automatedfishfarm(freshwater)",
+		"price": 10867,
+		"category": "Automation",
+		"defname": "PRF_T1_Aquaculture"
+	},
+	{
+		"abr": "automatedfishfarm(saltwater)",
+		"price": 12342,
+		"category": "Automation",
+		"defname": "PRF_T2_Aquaculture"
+	},
+	{
+		"abr": "basicaichip",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "PRF_ElectronicChip_I"
+	},
+	{
+		"abr": "basicassembler",
+		"price": 5100,
+		"category": "Automation",
+		"defname": "PRF_PartAssembler"
+	},
+	{
+		"abr": "bass",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawBass"
+	},
+	{
+		"abr": "beecheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_BeeCheese"
+	},
+	{
+		"abr": "beeeggs",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "RB_BeeEggs"
+	},
+	{
+		"abr": "beemilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "RB_BeeMilk"
+	},
+	{
+		"abr": "beeresearch(unfinished)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_RandomTier4Research"
+	},
+	{
+		"abr": "beeresearch(unfinished)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_RandomTier5Research"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersNutTech"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersNutAdapt"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAdaptTech"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersStoPsy"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAgriSwamp"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersPlasAlloy"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAgriWood"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAgriCul"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersLuxHigh"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersMedTech"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersSynthTech"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersSynthOily"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersElectronicSynthetic"
+	},
+	{
+		"abr": "beeswax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_Beeswax"
+	},
+	{
+		"abr": "biointerfacecomponents",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "RB_ComponentBioInterface"
+	},
+	{
+		"abr": "bittersweetdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Bittersweet_Drone"
+	},
+	{
+		"abr": "bittersweethoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Bittersweet_Honeycomb"
+	},
+	{
+		"abr": "bittersweetqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Bittersweet_Queen"
+	},
+	{
+		"abr": "blackbeeswax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_BlackBeeswax"
+	},
+	{
+		"abr": "blackhoney",
+		"price": 3,
+		"category": "Bee honeys",
+		"defname": "RB_BlackHoney"
+	},
+	{
+		"abr": "blastfurnace",
+		"price": 2233,
+		"category": "Automation",
+		"defname": "PRF_FurnaceI"
+	},
+	{
+		"abr": "bluebeeswax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_BlueBeeswax"
+	},
+	{
+		"abr": "bluehoney",
+		"price": 3,
+		"category": "Bee honeys",
+		"defname": "RB_BlueHoney"
+	},
+	{
+		"abr": "brittlebeeswax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_Brittlewax"
+	},
+	{
+		"abr": "butterfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_ButterFishItem"
+	},
+	{
+		"abr": "candle",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "RB_WaxCandle"
+	},
+	{
+		"abr": "cannedeggs",
+		"price": 6,
+		"category": "Meals",
+		"defname": "VCE_CannedAP"
+	},
+	{
+		"abr": "cannedfish",
+		"price": 3,
+		"category": "Meals",
+		"defname": "VCE_CannedFish"
+	},
+	{
+		"abr": "cannedfruit",
+		"price": 2,
+		"category": "Meals",
+		"defname": "VCE_CannedFruit"
+	},
+	{
+		"abr": "cannedmeat",
+		"price": 4,
+		"category": "Meals",
+		"defname": "VCE_CannedMeat"
+	},
+	{
+		"abr": "cannedproduce",
+		"price": 2,
+		"category": "Meals",
+		"defname": "VCE_CannedProduce"
+	},
+	{
+		"abr": "canningmachine",
+		"price": 383,
+		"category": "Production",
+		"defname": "VCE_CanningMachine"
+	},
+	{
+		"abr": "catfish",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_RawCatfish"
+	},
+	{
+		"abr": "cheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_Cheese"
+	},
+	{
+		"abr": "cheesepress",
+		"price": 95,
+		"category": "Production",
+		"defname": "VCE_CheesePress"
+	},
+	{
+		"abr": "chefdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Chef_Drone"
+	},
+	{
+		"abr": "chefhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Chef_Honeycomb"
+	},
+	{
+		"abr": "chefqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Chef_Queen"
+	},
+	{
+		"abr": "chocolatesyrup",
+		"price": 6,
+		"category": "Condiments",
+		"defname": "VCE_ChocolateSyrup"
+	},
+	{
+		"abr": "clownfish",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_RawClownfish"
+	},
+	{
+		"abr": "cod",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawCod"
+	},
+	{
+		"abr": "coldstorageunit",
+		"price": 18133,
+		"category": "Automation",
+		"defname": "PRF_ColdStorageUnit_I"
+	},
+	{
+		"abr": "condimentpreptable",
+		"price": 259,
+		"category": "Production",
+		"defname": "VCE_CondimentPrepTable"
+	},
+	{
+		"abr": "conveyorbelt",
+		"price": 7,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Simple_I"
+	},
+	{
+		"abr": "conveyorsplitter",
+		"price": 1992,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Splitter_I"
+	},
+	{
+		"abr": "crayfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_CrayfishItem"
+	},
+	{
+		"abr": "culinarydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Culinary_Drone"
+	},
+	{
+		"abr": "culinaryhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Culinary_Honeycomb"
+	},
+	{
+		"abr": "culinaryqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Culinary_Queen"
+	},
+	{
+		"abr": "deadlynadder",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Nadder"
+	},
+	{
+		"abr": "deadlynadderegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggNadderFertilized"
+	},
+	{
+		"abr": "deepfriedfish",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedFish"
+	},
+	{
+		"abr": "deepfriedmeat",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedBigMeat"
+	},
+	{
+		"abr": "deepfriedvegetables",
+		"price": 12,
+		"category": "Meals",
+		"defname": "VCE_DeepFriedVegetables"
+	},
+	{
+		"abr": "deepfryer",
+		"price": 323,
+		"category": "Production",
+		"defname": "VCE_DeepFrier"
+	},
+	{
+		"abr": "desertdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Desert_Drone"
+	},
+	{
+		"abr": "deserthoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Desert_Honeycomb"
+	},
+	{
+		"abr": "desertqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Desert_Queen"
+	},
+	{
+		"abr": "devilbex",
+		"price": 583,
+		"category": "Animals",
+		"defname": "ATK_Devilbex"
+	},
+	{
+		"abr": "devilhare",
+		"price": 167,
+		"category": "Animals",
+		"defname": "ATK_Devilhare"
+	},
+	{
+		"abr": "devilhide",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "ATK_Leather_Devilhide"
+	},
+	{
+		"abr": "devilyak",
+		"price": 917,
+		"category": "Animals",
+		"defname": "ATK_Devilyak"
+	},
+	{
+		"abr": "diamond",
+		"price": 12,
+		"category": "Raw resources",
+		"defname": "Diamond"
+	},
+	{
+		"abr": "diamonddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Diamond_Drone"
+	},
+	{
+		"abr": "diamondhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Diamond_Honeycomb"
+	},
+	{
+		"abr": "diamondqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Diamond_Queen"
+	},
+	{
+		"abr": "digestibleresurrectornanites",
+		"price": 2500,
+		"category": "Condiments",
+		"defname": "VCE_DigestibleResurrectorNanites"
+	},
+	{
+		"abr": "digitalstorageunit",
+		"price": 18133,
+		"category": "Automation",
+		"defname": "PRF_DigitalStorageUnit_I"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RttR_Fury"
+	},
+	{
+		"abr": "dronecolumn",
+		"price": 3617,
+		"category": "Automation",
+		"defname": "PRF_MiniDroneColumn"
+	},
+	{
+		"abr": "dronecultivator",
+		"price": 2458,
+		"category": "Automation",
+		"defname": "PRF_DroneCultivator_I"
+	},
+	{
+		"abr": "dronecultivatormk.ii",
+		"price": 5158,
+		"category": "Automation",
+		"defname": "PRF_DroneCultivator_II"
+	},
+	{
+		"abr": "dronecultivatormk.ii(sunlamp)",
+		"price": 3558,
+		"category": "Automation",
+		"defname": "PRF_DroneCultivator_II_sun"
+	},
+	{
+		"abr": "dronecultivatormk.iii",
+		"price": 10717,
+		"category": "Automation",
+		"defname": "PRF_DroneCultivator_III"
+	},
+	{
+		"abr": "eel",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawEel"
+	},
+	{
+		"abr": "egglayingdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Egglaying_Drone"
+	},
+	{
+		"abr": "egglayinghoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Egglaying_Honeycomb"
+	},
+	{
+		"abr": "egglayingqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Egglaying_Queen"
+	},
+	{
+		"abr": "electricpot",
+		"price": 216,
+		"category": "Production",
+		"defname": "VCE_ElectricPot"
+	},
+	{
+		"abr": "electronicdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Electronic_Drone"
+	},
+	{
+		"abr": "electronichoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Electronic_Honeycomb"
+	},
+	{
+		"abr": "electronicqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Electronic_Queen"
+	},
+	{
+		"abr": "expressconveyorbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Simple_III"
+	},
+	{
+		"abr": "fabricateddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Fabricated_Drone"
+	},
+	{
+		"abr": "fabricatedhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Fabricated_Honeycomb"
+	},
+	{
+		"abr": "fabricatedqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Fabricated_Queen"
+	},
+	{
+		"abr": "factoryresearchterminal",
+		"price": 3467,
+		"category": "Production",
+		"defname": "PRF_ResearchTerminal"
+	},
+	{
+		"abr": "fastconveyorbelt",
+		"price": 32,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Simple_II"
+	},
+	{
+		"abr": "fermentingtank",
+		"price": 1367,
+		"category": "Automation",
+		"defname": "PRF_FermentingBarrel"
+	},
+	{
+		"abr": "finebake",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineBake"
+	},
+	{
+		"abr": "finedessert",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineDessert"
+	},
+	{
+		"abr": "finegrill",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_FineGrill"
+	},
+	{
+		"abr": "finehoneymeal",
+		"price": 37,
+		"category": "Meals",
+		"defname": "RB_FineHoney"
+	},
+	{
+		"abr": "finesoup",
+		"price": 33,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupFine"
+	},
+	{
+		"abr": "fishfood",
+		"price": 2,
+		"category": "Foods",
+		"defname": "PRF_FishFood"
+	},
+	{
+		"abr": "fisherdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Fisher_Drone"
+	},
+	{
+		"abr": "fisherhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Fisher_Honeycomb"
+	},
+	{
+		"abr": "fisherqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Fisher_Queen"
+	},
+	{
+		"abr": "flightmare",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Flightmare"
+	},
+	{
+		"abr": "flightmarealgae",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "RttR_FlightmareAlgae"
+	},
+	{
+		"abr": "flightmaredragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_FlightmareDragonScales"
+	},
+	{
+		"abr": "flightmareegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggFlightmareFertilized"
+	},
+	{
+		"abr": "floorspotlight",
+		"price": 108,
+		"category": "Automation",
+		"defname": "PRF_Floorspotlight"
+	},
+	{
+		"abr": "flour",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_Flour"
+	},
+	{
+		"abr": "flyingfish(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FlyingFishItem"
+	},
+	{
+		"abr": "freshwaterstingray(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FreshwaterStingrayItem"
+	},
+	{
+		"abr": "fuelingdispenser",
+		"price": 2600,
+		"category": "Automation",
+		"defname": "PRF_FuelingMachine"
+	},
+	{
+		"abr": "fury",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Fury"
+	},
+	{
+		"abr": "furydragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_FuryDragonScales"
+	},
+	{
+		"abr": "furyegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggFuryFertilized"
+	},
+	{
+		"abr": "genericanimalharvester",
+		"price": 3517,
+		"category": "Automation",
+		"defname": "PRF_GenericAnimalHarvester"
+	},
+	{
+		"abr": "goldbracelet",
+		"price": 417,
+		"category": "Jewelry",
+		"defname": "Jewelry_Bracelet"
+	},
+	{
+		"abr": "goldearring",
+		"price": 267,
+		"category": "Jewelry",
+		"defname": "Jewelry_Earring"
+	},
+	{
+		"abr": "goldeltexnecklace",
+		"price": 750,
+		"category": "Jewelry",
+		"defname": "Jewelry_PsychicNecklace"
+	},
+	{
+		"abr": "goldnecklace",
+		"price": 600,
+		"category": "Jewelry",
+		"defname": "Jewelry_Necklace"
+	},
+	{
+		"abr": "goldring",
+		"price": 250,
+		"category": "Jewelry",
+		"defname": "Jewelry_Ring"
+	},
+	{
+		"abr": "goldfish",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawGoldfish"
+	},
+	{
+		"abr": "gourmetbake",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_GourmetBake"
+	},
+	{
+		"abr": "gourmetdessert",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VCE_GourmetDessert"
+	},
+	{
+		"abr": "gourmetgrill",
+		"price": 125,
+		"category": "Meals",
+		"defname": "VCE_GourmetGrill"
+	},
+	{
+		"abr": "gourmetmeal",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_MealGourmet"
+	},
+	{
+		"abr": "gourmetsoup",
+		"price": 117,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupGourmet"
+	},
+	{
+		"abr": "grill",
+		"price": 282,
+		"category": "Production",
+		"defname": "VCE_Grill"
+	},
+	{
+		"abr": "gronckle",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Gronckle"
+	},
+	{
+		"abr": "gronckleegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggGronckleFertilized"
+	},
+	{
+		"abr": "gronckleiron",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RttR_GronckleIron"
+	},
+	{
+		"abr": "groncklepebbles",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_GronckleDragonScales"
+	},
+	{
+		"abr": "growzonepuller",
+		"price": 992,
+		"category": "Automation",
+		"defname": "PRF_GrowzonePuller_I"
+	},
+	{
+		"abr": "guppy",
+		"price": 0,
+		"category": "Raw fish",
+		"defname": "VCEF_RawGuppy"
+	},
+	{
+		"abr": "haddock",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHaddock"
+	},
+	{
+		"abr": "halibut",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHalibut"
+	},
+	{
+		"abr": "heavywax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_HeavyWax"
+	},
+	{
+		"abr": "herring",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_RawHerring"
+	},
+	{
+		"abr": "hideouszippleback",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Zippleback"
+	},
+	{
+		"abr": "hideouszipplebackegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggZipplebackFertilized"
+	},
+	{
+		"abr": "highdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_High_Drone"
+	},
+	{
+		"abr": "highhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_High_Honeycomb"
+	},
+	{
+		"abr": "highqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_High_Queen"
+	},
+	{
+		"abr": "honey",
+		"price": 2,
+		"category": "Bee honeys",
+		"defname": "RB_BaseHoney"
+	},
+	{
+		"abr": "honeypreservedmeat",
+		"price": 8,
+		"category": "Meals",
+		"defname": "RB_HoneyPreservedMeat"
+	},
+	{
+		"abr": "honeypreservedvegetables",
+		"price": 8,
+		"category": "Meals",
+		"defname": "RB_HoneyPreservedVegetables"
+	},
+	{
+		"abr": "honeyedicepop",
+		"price": 5,
+		"category": "Honey food products",
+		"defname": "RB_HoneyedIcePop"
+	},
+	{
+		"abr": "hotburple",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Hotburple"
+	},
+	{
+		"abr": "hotburpledragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_HotburpleDragonScales"
+	},
+	{
+		"abr": "hotburpleegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggHotburpleFertilized"
+	},
+	{
+		"abr": "hybriddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Hybrid_Drone"
+	},
+	{
+		"abr": "hybridhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Hybrid_Honeycomb"
+	},
+	{
+		"abr": "hybridqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Hybrid_Queen"
+	},
+	{
+		"abr": "hyperdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Hyper_Drone"
+	},
+	{
+		"abr": "hyperhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Hyper_Honeycomb"
+	},
+	{
+		"abr": "hyperqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Hyper_Queen"
+	},
+	{
+		"abr": "i/oport",
+		"price": 2883,
+		"category": "Automation",
+		"defname": "PRF_IOPort_I"
+	},
+	{
+		"abr": "i/opusher",
+		"price": 3258,
+		"category": "Automation",
+		"defname": "PRF_IOPPusher_I"
+	},
+	{
+		"abr": "industrialautomaticmason",
+		"price": 3642,
+		"category": "Automation",
+		"defname": "PRF_StoneWorks"
+	},
+	{
+		"abr": "industrialcooker",
+		"price": 2300,
+		"category": "Automation",
+		"defname": "PRF_SelfCookerI"
+	},
+	{
+		"abr": "industrialfoodprocessor",
+		"price": 2300,
+		"category": "Automation",
+		"defname": "PRF_SelfPrepper"
+	},
+	{
+		"abr": "industrialfurnace",
+		"price": 4525,
+		"category": "Automation",
+		"defname": "PRF_FurnaceII"
+	},
+	{
+		"abr": "industriallamp",
+		"price": 267,
+		"category": "Automation",
+		"defname": "PRF_IndustrialLamp"
+	},
+	{
+		"abr": "insectjellypreserves",
+		"price": 15,
+		"category": "Condiments",
+		"defname": "VCE_InsectJellyPreserves"
+	},
+	{
+		"abr": "insectoiddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Insectoid_Drone"
+	},
+	{
+		"abr": "insectoidhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Insectoid_Honeycomb"
+	},
+	{
+		"abr": "insectoidqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Insectoid_Queen"
+	},
+	{
+		"abr": "itemanglepuller",
+		"price": 1600,
+		"category": "Automation",
+		"defname": "PRF_SimplePuller_II_Side"
+	},
+	{
+		"abr": "itemchute",
+		"price": 283,
+		"category": "Automation",
+		"defname": "PRF_ItemSlide"
+	},
+	{
+		"abr": "itempullermki",
+		"price": 992,
+		"category": "Automation",
+		"defname": "PRF_SimplePuller_I"
+	},
+	{
+		"abr": "itempullermkii",
+		"price": 1600,
+		"category": "Automation",
+		"defname": "PRF_SimplePuller_II"
+	},
+	{
+		"abr": "koi",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_RawKoi"
+	},
+	{
+		"abr": "lacticdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Lactic_Drone"
+	},
+	{
+		"abr": "lactichoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Lactic_Honeycomb"
+	},
+	{
+		"abr": "lacticqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Lactic_Queen"
+	},
+	{
+		"abr": "largefishingtrap",
+		"price": 281,
+		"category": "Production",
+		"defname": "VME_LargeFishingTrap"
+	},
+	{
+		"abr": "lasersculptingtable",
+		"price": 850,
+		"category": "Production",
+		"defname": "LaserTableSculpting"
+	},
+	{
+		"abr": "lavishbake",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishBake"
+	},
+	{
+		"abr": "lavishdessert",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishDessert"
+	},
+	{
+		"abr": "lavishgrill",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_LavishGrill"
+	},
+	{
+		"abr": "lavishhoneymeal",
+		"price": 75,
+		"category": "Meals",
+		"defname": "RB_LavishHoney"
+	},
+	{
+		"abr": "lavishsoup",
+		"price": 67,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupLavish"
+	},
+	{
+		"abr": "lobster",
+		"price": 9,
+		"category": "Raw fish",
+		"defname": "VCEF_RawLobster"
+	},
+	{
+		"abr": "luciferdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Lucifer_Drone"
+	},
+	{
+		"abr": "luciferhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Lucifer_Honeycomb"
+	},
+	{
+		"abr": "luciferqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Lucifer_Queen"
+	},
+	{
+		"abr": "luxuriousdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Luxurious_Drone"
+	},
+	{
+		"abr": "luxurioushoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Luxurious_Honeycomb"
+	},
+	{
+		"abr": "luxuriousqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Luxurious_Queen"
+	},
+	{
+		"abr": "mackerel",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMackerel"
+	},
+	{
+		"abr": "mayo",
+		"price": 6,
+		"category": "Condiments",
+		"defname": "VCE_Mayo"
+	},
+	{
+		"abr": "mead",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "RB_Mead"
+	},
+	{
+		"abr": "meadfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RB_MeadFermentingBarrel"
+	},
+	{
+		"abr": "meadmust",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "RB_Must"
+	},
+	{
+		"abr": "meatgrinder",
+		"price": 2383,
+		"category": "Automation",
+		"defname": "PRF_MeatGrinder"
+	},
+	{
+		"abr": "medicinaldrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Medicinal_Drone"
+	},
+	{
+		"abr": "medicinalhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Medicinal_Honeycomb"
+	},
+	{
+		"abr": "medicinalqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Medicinal_Queen"
+	},
+	{
+		"abr": "mediumfishingtrap",
+		"price": 206,
+		"category": "Production",
+		"defname": "VME_MediumFishingTrap"
+	},
+	{
+		"abr": "mediummachineframe",
+		"price": 1267,
+		"category": "Manufactured",
+		"defname": "PRF_MachineFrame_II"
+	},
+	{
+		"abr": "metalrefinery",
+		"price": 8417,
+		"category": "Automation",
+		"defname": "PRF_MetalRefinery"
+	},
+	{
+		"abr": "milddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Mild_Drone"
+	},
+	{
+		"abr": "mildhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Mild_Honeycomb"
+	},
+	{
+		"abr": "mildqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Mild_Queen"
+	},
+	{
+		"abr": "milker",
+		"price": 2750,
+		"category": "Automation",
+		"defname": "PRF_Milker"
+	},
+	{
+		"abr": "mineshaft",
+		"price": 375,
+		"category": "Production",
+		"defname": "PRF_MineShaft"
+	},
+	{
+		"abr": "minifishingstation",
+		"price": 3117,
+		"category": "Automation",
+		"defname": "PRF_MiniHelperFishing"
+	},
+	{
+		"abr": "minnow",
+		"price": 0,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMinnow"
+	},
+	{
+		"abr": "mixeddragonscales",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "RttR_PatchedDragonScales"
+	},
+	{
+		"abr": "modernautocooker",
+		"price": 2625,
+		"category": "Automation",
+		"defname": "PRF_SelfCookerII"
+	},
+	{
+		"abr": "monstrousnightmare",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Nightmare"
+	},
+	{
+		"abr": "monstrousnightmaregel",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "RttR_NightmareGel"
+	},
+	{
+		"abr": "monstruousnightmareegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggNightmareFertilized"
+	},
+	{
+		"abr": "nadderdragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_NadderDragonScales"
+	},
+	{
+		"abr": "nadderspikes",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "RttR_WoodLog"
+	},
+	{
+		"abr": "nanocultivator",
+		"price": 4992,
+		"category": "Automation",
+		"defname": "PRF_OldTypeCultivator_I"
+	},
+	{
+		"abr": "nanocultivator(sunlamp)",
+		"price": 6050,
+		"category": "Automation",
+		"defname": "PRF_OldTypeCultivator_Sun"
+	},
+	{
+		"abr": "nanocultivatormk.ii",
+		"price": 17742,
+		"category": "Automation",
+		"defname": "PRF_OldTypeCultivator_Xl"
+	},
+	{
+		"abr": "neutrodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Neutro_Drone"
+	},
+	{
+		"abr": "neutrohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Neutro_Honeycomb"
+	},
+	{
+		"abr": "neutroqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Neutro_Queen"
+	},
+	{
+		"abr": "nightmaredragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_NightmareDragonScales"
+	},
+	{
+		"abr": "nitrodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nitro_Drone"
+	},
+	{
+		"abr": "nitrohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Nitro_Honeycomb"
+	},
+	{
+		"abr": "nitroqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nitro_Queen"
+	},
+	{
+		"abr": "nocturnaldrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nocturnal_Drone"
+	},
+	{
+		"abr": "nocturnalhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Nocturnal_Honeycomb"
+	},
+	{
+		"abr": "nocturnalqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nocturnal_Queen"
+	},
+	{
+		"abr": "nondescriptfish",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "RB_NondescriptFish"
+	},
+	{
+		"abr": "nondescriptmeat",
+		"price": 13,
+		"category": "Meat",
+		"defname": "RB_NondescriptMeat"
+	},
+	{
+		"abr": "nondescriptvegetables",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RB_NonDescriptVegetables"
+	},
+	{
+		"abr": "nutritiousdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nutritious_Drone"
+	},
+	{
+		"abr": "nutritioushoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Nutritious_Honeycomb"
+	},
+	{
+		"abr": "nutritiousqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nutritious_Queen"
+	},
+	{
+		"abr": "oilydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Oily_Drone"
+	},
+	{
+		"abr": "oilyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Oily_Honeycomb"
+	},
+	{
+		"abr": "oilyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Oily_Queen"
+	},
+	{
+		"abr": "perch",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPerch"
+	},
+	{
+		"abr": "petdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Pet_Drone"
+	},
+	{
+		"abr": "pethoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Pet_Honeycomb"
+	},
+	{
+		"abr": "petqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Pet_Queen"
+	},
+	{
+		"abr": "piranha",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPiranha"
+	},
+	{
+		"abr": "plasmadrill",
+		"price": 14442,
+		"category": "Automation",
+		"defname": "PRF_BillTypeMiner_I"
+	},
+	{
+		"abr": "plasticdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Plastic_Drone"
+	},
+	{
+		"abr": "plastichoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Plastic_Honeycomb"
+	},
+	{
+		"abr": "plasticqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Plastic_Queen"
+	},
+	{
+		"abr": "portablerecipedatabase",
+		"price": 1900,
+		"category": "Automation",
+		"defname": "PRF_RecipeDatabase"
+	},
+	{
+		"abr": "preciousdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Precious_Drone"
+	},
+	{
+		"abr": "precioushoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Precious_Honeycomb"
+	},
+	{
+		"abr": "preciousqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Precious_Queen"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Psychic_Drone"
+	},
+	{
+		"abr": "psychichoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Psychic_Honeycomb"
+	},
+	{
+		"abr": "psychicqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Psychic_Queen"
+	},
+	{
+		"abr": "psychotropichoney",
+		"price": 2,
+		"category": "Bee honeys",
+		"defname": "RB_PsychotropicHoney"
+	},
+	{
+		"abr": "pufferfish",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawPufferfish"
+	},
+	{
+		"abr": "pulsedrillmk.2",
+		"price": 11492,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry_mkIII"
+	},
+	{
+		"abr": "pulsedrillmk.i",
+		"price": 4900,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry_mkII"
+	},
+	{
+		"abr": "quantumassembler(overclocked)",
+		"price": 20833,
+		"category": "Automation",
+		"defname": "PRF_TypeTwoAssembler_III"
+	},
+	{
+		"abr": "quantumassembler(prime)",
+		"price": 16667,
+		"category": "Automation",
+		"defname": "PRF_TypeTwoAssembler_II"
+	},
+	{
+		"abr": "qubitprocessor",
+		"price": 20092,
+		"category": "Manufactured",
+		"defname": "PRF_ElectronicChip_III"
+	},
+	{
+		"abr": "radioactivedrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Radioactive_Drone"
+	},
+	{
+		"abr": "radioactivehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Radioactive_Honeycomb"
+	},
+	{
+		"abr": "radioactivequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Radioactive_Queen"
+	},
+	{
+		"abr": "rawfish",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RttR_RawFish"
+	},
+	{
+		"abr": "razorwhip",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Razorwhip"
+	},
+	{
+		"abr": "razorwhipdragonscales",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "RttR_RazorwhipDragonScales"
+	},
+	{
+		"abr": "razorwhipegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggRazorwhipFertilized"
+	},
+	{
+		"abr": "razorwhipspikes",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "RttR_RazorwhipSpikes"
+	},
+	{
+		"abr": "redbeeswax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_RedBeeswax"
+	},
+	{
+		"abr": "roboticarm",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "PRF_RoboticArm"
+	},
+	{
+		"abr": "roboticmachiningtable",
+		"price": 1817,
+		"category": "Automation",
+		"defname": "TableRoboticMachining"
+	},
+	{
+		"abr": "ruby",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Ruby"
+	},
+	{
+		"abr": "rubydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Ruby_Drone"
+	},
+	{
+		"abr": "rubyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Ruby_Honeycomb"
+	},
+	{
+		"abr": "rubyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Ruby_Queen"
+	},
+	{
+		"abr": "ruinedfinegrill",
+		"price": 30,
+		"category": "Meals",
+		"defname": "VCE_RuinedFineGrill"
+	},
+	{
+		"abr": "ruinedgourmetgrill",
+		"price": 100,
+		"category": "Meals",
+		"defname": "VCE_RuinedGourmetGrill"
+	},
+	{
+		"abr": "ruinedlavishgrill",
+		"price": 58,
+		"category": "Meals",
+		"defname": "VCE_RuinedLavishGrill"
+	},
+	{
+		"abr": "ruinedsimplegrill",
+		"price": 23,
+		"category": "Meals",
+		"defname": "VCE_RuinedSimpleGrill"
+	},
+	{
+		"abr": "rumblehorn",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "RttR_Rumblehorn"
+	},
+	{
+		"abr": "rumblehorndragonscales",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "RttR_RumblehornDragonScales"
+	},
+	{
+		"abr": "rumblehornegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggRumblehornFertilized"
+	},
+	{
+		"abr": "s.a.lartmachinemk.i",
+		"price": 8517,
+		"category": "Automation",
+		"defname": "PRF_TheArtMachine"
+	},
+	{
+		"abr": "s.a.lassemblermk.i",
+		"price": 4633,
+		"category": "Automation",
+		"defname": "PRF_AutoCrafterSimple"
+	},
+	{
+		"abr": "s.a.lassemblermk.ii",
+		"price": 5608,
+		"category": "Automation",
+		"defname": "PRF_AutoCrafter"
+	},
+	{
+		"abr": "s.a.lautomatedcooker",
+		"price": 8517,
+		"category": "Automation",
+		"defname": "PRF_SALAutoCooker"
+	},
+	{
+		"abr": "s.a.lautomatedminer",
+		"price": 4633,
+		"category": "Automation",
+		"defname": "PRF_SALAutoMinerI"
+	},
+	{
+		"abr": "s.a.loverclockedassembler",
+		"price": 17625,
+		"category": "Automation",
+		"defname": "PRF_OverclockedAutoAssembler"
+	},
+	{
+		"abr": "s.a.loverclockedassemblermk.ii",
+		"price": 26908,
+		"category": "Automation",
+		"defname": "PRF_OverclockedAutoAssemblerII"
+	},
+	{
+		"abr": "s.a.lprimecrafter",
+		"price": 488333,
+		"category": "Automation",
+		"defname": "PRF_GodlyCrafter"
+	},
+	{
+		"abr": "salmon",
+		"price": 9,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSalmon"
+	},
+	{
+		"abr": "salt",
+		"price": 3,
+		"category": "Condiments",
+		"defname": "VCE_Salt"
+	},
+	{
+		"abr": "sapphire",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "Sapphire"
+	},
+	{
+		"abr": "sapphiredrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Sapphire_Drone"
+	},
+	{
+		"abr": "sapphirehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Sapphire_Honeycomb"
+	},
+	{
+		"abr": "sapphirequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Sapphire_Queen"
+	},
+	{
+		"abr": "scauldron",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Scauldron"
+	},
+	{
+		"abr": "scauldrondragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_ScauldronDragonScales"
+	},
+	{
+		"abr": "scauldronegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggScauldronFertilized"
+	},
+	{
+		"abr": "shearer",
+		"price": 2750,
+		"category": "Automation",
+		"defname": "PRF_Shearer"
+	},
+	{
+		"abr": "shortfinmakoshark(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ShortfinMakoSharkItem"
+	},
+	{
+		"abr": "silverbracelet",
+		"price": 417,
+		"category": "Jewelry",
+		"defname": "Jewelry_Bracelet_Silver"
+	},
+	{
+		"abr": "silverearring",
+		"price": 267,
+		"category": "Jewelry",
+		"defname": "Jewelry_Earring_Silver"
+	},
+	{
+		"abr": "silvereltexnecklace",
+		"price": 750,
+		"category": "Jewelry",
+		"defname": "Jewelry_PsychicNecklace_Silver"
+	},
+	{
+		"abr": "silvernecklace",
+		"price": 600,
+		"category": "Jewelry",
+		"defname": "Jewelry_Necklace_Silver"
+	},
+	{
+		"abr": "silverring",
+		"price": 250,
+		"category": "Jewelry",
+		"defname": "Jewelry_Ring_Silver"
+	},
+	{
+		"abr": "simplebake",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_SimpleBake"
+	},
+	{
+		"abr": "simpledessert",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_SimpleDessert"
+	},
+	{
+		"abr": "simplegrill",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_SimpleGrill"
+	},
+	{
+		"abr": "simplehoneymeal",
+		"price": 30,
+		"category": "Meals",
+		"defname": "RB_SimpleHoney"
+	},
+	{
+		"abr": "simplesoup",
+		"price": 20,
+		"category": "Meals",
+		"defname": "VCE_CookedSoupSimple"
+	},
+	{
+		"abr": "skrill",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Skrill"
+	},
+	{
+		"abr": "skrilldragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_SkrillDragonScales"
+	},
+	{
+		"abr": "skrillegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggSkrillFertilized"
+	},
+	{
+		"abr": "smallfishingtrap",
+		"price": 131,
+		"category": "Production",
+		"defname": "VME_SmallFishingTrap"
+	},
+	{
+		"abr": "smallmachineframe",
+		"price": 608,
+		"category": "Manufactured",
+		"defname": "PRF_MachineFrame_I"
+	},
+	{
+		"abr": "smallsteelcrate",
+		"price": 600,
+		"category": "Automation",
+		"defname": "PRF_SteelCrate_I"
+	},
+	{
+		"abr": "smallwoodencrate",
+		"price": 283,
+		"category": "Automation",
+		"defname": "PRF_WoodCrate_I"
+	},
+	{
+		"abr": "smarthopper",
+		"price": 2458,
+		"category": "Automation",
+		"defname": "PRF_SmartHopper"
+	},
+	{
+		"abr": "smartrecycler",
+		"price": 3742,
+		"category": "Automation",
+		"defname": "PRF_Recycler"
+	},
+	{
+		"abr": "smokeleafbutter",
+		"price": 12,
+		"category": "Condiments",
+		"defname": "VCE_SmokeleafButter"
+	},
+	{
+		"abr": "spaceranimalharvester",
+		"price": 4217,
+		"category": "Automation",
+		"defname": "PRF_GenericAnimalHarvester_II"
+	},
+	{
+		"abr": "spacercooker",
+		"price": 5967,
+		"category": "Automation",
+		"defname": "PRF_SelfCookerIII"
+	},
+	{
+		"abr": "spices",
+		"price": 11,
+		"category": "Condiments",
+		"defname": "VCE_RawSpices"
+	},
+	{
+		"abr": "spicydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Spicy_Drone"
+	},
+	{
+		"abr": "spicyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Spicy_Honeycomb"
+	},
+	{
+		"abr": "spicyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Spicy_Queen"
+	},
+	{
+		"abr": "sprat",
+		"price": 0,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSprat"
+	},
+	{
+		"abr": "sprinkler",
+		"price": 600,
+		"category": "Automation",
+		"defname": "PRF_Sprinkler_I"
+	},
+	{
+		"abr": "sprinklermk.ii",
+		"price": 3158,
+		"category": "Automation",
+		"defname": "PRF_Sprinkler_II"
+	},
+	{
+		"abr": "steelcrate",
+		"price": 800,
+		"category": "Automation",
+		"defname": "PRF_SteelCrate_II"
+	},
+	{
+		"abr": "steelwax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_Steelwax"
+	},
+	{
+		"abr": "stonerdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Stoner_Drone"
+	},
+	{
+		"abr": "stonerhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Stoner_Honeycomb"
+	},
+	{
+		"abr": "stonerqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Stoner_Queen"
+	},
+	{
+		"abr": "stormcutter",
+		"price": 1500,
+		"category": "Animals",
+		"defname": "RttR_Stormcutter"
+	},
+	{
+		"abr": "stormcutterdragonscales",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "RttR_StormcutterDragonScales"
+	},
+	{
+		"abr": "stormcutteregg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggStormcutterFertilized"
+	},
+	{
+		"abr": "strawdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Straw_Drone"
+	},
+	{
+		"abr": "strawhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Straw_Honeycomb"
+	},
+	{
+		"abr": "strawqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Straw_Queen"
+	},
+	{
+		"abr": "sugar",
+		"price": 20,
+		"category": "Condiments",
+		"defname": "VCE_RawSugar"
+	},
+	{
+		"abr": "sunwalllamp",
+		"price": 142,
+		"category": "Automation",
+		"defname": "PRF_SunWallLight"
+	},
+	{
+		"abr": "surgeondrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Surgeon_Drone"
+	},
+	{
+		"abr": "surgeonhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Surgeon_Honeycomb"
+	},
+	{
+		"abr": "surgeonqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Surgeon_Queen"
+	},
+	{
+		"abr": "swampdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Swamp_Drone"
+	},
+	{
+		"abr": "swamphoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Swamp_Honeycomb"
+	},
+	{
+		"abr": "swampqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Swamp_Queen"
+	},
+	{
+		"abr": "swordfish",
+		"price": 9,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSwordfish"
+	},
+	{
+		"abr": "syntheticdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Synthetic_Drone"
+	},
+	{
+		"abr": "synthetichoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Synthetic_Honeycomb"
+	},
+	{
+		"abr": "syntheticqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Synthetic_Queen"
+	},
+	{
+		"abr": "tacklebox",
+		"price": 18,
+		"category": "Utility",
+		"defname": "VME_TackleBox"
+	},
+	{
+		"abr": "tannerdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Tanner_Drone"
+	},
+	{
+		"abr": "tannerhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Tanner_Honeycomb"
+	},
+	{
+		"abr": "tannerqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Tanner_Queen"
+	},
+	{
+		"abr": "tastyhoney",
+		"price": 3,
+		"category": "Bee honeys",
+		"defname": "RB_TastyHoney"
+	},
+	{
+		"abr": "technologicaldrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Technological_Drone"
+	},
+	{
+		"abr": "technologicalhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Technological_Honeycomb"
+	},
+	{
+		"abr": "technologicalqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Technological_Queen"
+	},
+	{
+		"abr": "temperatedrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Temperate_Drone"
+	},
+	{
+		"abr": "temperatehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Temperate_Honeycomb"
+	},
+	{
+		"abr": "temperatequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Temperate_Queen"
+	},
+	{
+		"abr": "terribleterror",
+		"price": 250,
+		"category": "Animals",
+		"defname": "RttR_TerribleTerror"
+	},
+	{
+		"abr": "terribleterrordragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_TerribleTerrorDragonScales"
+	},
+	{
+		"abr": "terribleterroregg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggTerribleTerrorFertilized"
+	},
+	{
+		"abr": "thornsworth'sartmachine",
+		"price": 8333,
+		"category": "Automation",
+		"defname": "PRF_MrTsArtMachine"
+	},
+	{
+		"abr": "tipsydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Tipsy_Drone"
+	},
+	{
+		"abr": "tipsyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Tipsy_Honeycomb"
+	},
+	{
+		"abr": "tipsyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Tipsy_Queen"
+	},
+	{
+		"abr": "triplestryke",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_TripleStryke"
+	},
+	{
+		"abr": "triplestrykechitin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "RttR_TripleStrykeDragonScales"
+	},
+	{
+		"abr": "triplestrykeegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggTripleStrykeFertilized"
+	},
+	{
+		"abr": "triplestrykevenom",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "RttR_TripleStrykeVenom"
+	},
+	{
+		"abr": "trout",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTrout"
+	},
+	{
+		"abr": "tuna",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTuna"
+	},
+	{
+		"abr": "uav(packed)",
+		"price": 792,
+		"category": "Manufactured",
+		"defname": "PRF_DroneModule"
+	},
+	{
+		"abr": "uncookedfinesoup",
+		"price": 227,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupFine"
+	},
+	{
+		"abr": "uncookedgourmetsoup",
+		"price": 742,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupGourmet"
+	},
+	{
+		"abr": "uncookedlavishsoup",
+		"price": 458,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupLavish"
+	},
+	{
+		"abr": "uncookedsimplesoup",
+		"price": 161,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupSimple"
+	},
+	{
+		"abr": "undergroundbelt",
+		"price": 9,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_UG_I"
+	},
+	{
+		"abr": "undergroundbeltentrance",
+		"price": 130,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Connector_To_UG"
+	},
+	{
+		"abr": "undergroundbeltexit",
+		"price": 130,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Connector_To_Floor"
+	},
+	{
+		"abr": "undergroundsplitter",
+		"price": 2133,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Splitter_UG"
+	},
+	{
+		"abr": "wallbelt",
+		"price": 7,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Wall_I"
+	},
+	{
+		"abr": "wallitempuller",
+		"price": 1600,
+		"category": "Automation",
+		"defname": "PRF_SimplePuller_II_Wall"
+	},
+	{
+		"abr": "walllamp",
+		"price": 83,
+		"category": "Automation",
+		"defname": "PRF_WallLight"
+	},
+	{
+		"abr": "wallsplitter",
+		"price": 1992,
+		"category": "Automation",
+		"defname": "PRF_Conveyor_Splitter_Wall"
+	},
+	{
+		"abr": "weavingdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Weaving_Drone"
+	},
+	{
+		"abr": "weavinghoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Weaving_Honeycomb"
+	},
+	{
+		"abr": "weavingqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Weaving_Queen"
+	},
+	{
+		"abr": "whitebeeswax",
+		"price": 8,
+		"category": "Beeswax",
+		"defname": "RB_WhiteBeeswax"
+	},
+	{
+		"abr": "whitehoney",
+		"price": 2,
+		"category": "Bee honeys",
+		"defname": "RB_WhiteHoney"
+	},
+	{
+		"abr": "wildbeehive,mild",
+		"price": 2,
+		"category": "Beekeeping",
+		"defname": "RB_WildHive_Mild"
+	},
+	{
+		"abr": "wildbeehive,temperate",
+		"price": 2,
+		"category": "Beekeeping",
+		"defname": "RB_WildHive_Temperate"
+	},
+	{
+		"abr": "woodencrate",
+		"price": 383,
+		"category": "Automation",
+		"defname": "PRF_WoodCrate_II"
+	},
+	{
+		"abr": "woodlanddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Woodland_Drone"
+	},
+	{
+		"abr": "woodlandhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Woodland_Honeycomb"
+	},
+	{
+		"abr": "woodlandqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Woodland_Queen"
+	},
+	{
+		"abr": "woolydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Wooly_Drone"
+	},
+	{
+		"abr": "woolyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Wooly_Honeycomb"
+	},
+	{
+		"abr": "woolyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Wooly_Queen"
+	},
+	{
+		"abr": "workshopdronestation",
+		"price": 3908,
+		"category": "Automation",
+		"defname": "PRF_MiniHelper"
+	},
+	{
+		"abr": "zipplebackdragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_ZipplebackDragonScales"
+	}
 	],
-	"total": 1084
+	"total": 1509
 }
