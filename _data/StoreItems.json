@@ -9053,7 +9053,19 @@
 		"price": 4,
 		"category": "Leathers",
 		"defname": "RttR_ZipplebackDragonScales"
+	},
+	{
+		"abr": "spacesuithelmet",
+		"price": 875,
+		"category": "Headgear",
+		"defname": "RimNauts2_Apparel_SpaceSuit_Head"
+	},
+	{
+		"abr": "spacesuitearmor",
+		"price": 3400,
+		"category": "Armor",
+		"defname": "RimNauts2_Apparel_SpaceSuit_Body"
 	}
 	],
-	"total": 1509
+	"total": 1511
 }
