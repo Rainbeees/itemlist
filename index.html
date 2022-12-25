@@ -24,12 +24,18 @@ title: Store
         {%- assign weaponsForDisplay = weaponsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
-
-        {%- if item.category == "Animals" -%}
+                         
+    {%- if item.category == "Animals" -%}
         {%- assign animalsForDisplay = animalsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
-    {%- endif -%}                   
-                         
+    {%- endif -%}
+
+    {%- if item.category != "Animal" -%}
+        {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}
+{%- endfor -%}
+
 {%- for trait in site.data.ShopExt.traits -%}
     {%- if trait.canAdd == true or trait.canRemove == true -%}
         {%- assign traitsForDisplay = traitsForDisplay | push: trait | sort: "name" -%}
