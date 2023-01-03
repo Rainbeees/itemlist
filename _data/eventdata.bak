@@ -449,9 +449,9 @@
   },
   "pawn": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 622,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
