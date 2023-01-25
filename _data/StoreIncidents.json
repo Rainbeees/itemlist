@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 10000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 30000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -67,7 +57,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -126,11 +116,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -158,11 +143,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -296,11 +276,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -321,13 +296,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 50000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +312,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -431,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 80
 }

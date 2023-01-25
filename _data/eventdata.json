@@ -449,7 +449,7 @@
   },
   "pawn": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 622,
     "LocalCooldown": 0,
