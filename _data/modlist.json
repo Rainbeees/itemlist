@@ -12,16 +12,22 @@
     "version": "10.0.1"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
   },
   {
-    "author": "Ogliss",
-    "name": "Alien Vs Predator",
-    "steamId": "2034103876",
-    "version": "1.0.0"
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Smash Phil",
@@ -36,28 +42,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and Ben Lubar",
-    "name": "Alpha Bees",
-    "steamId": "1558161673",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -94,12 +88,6 @@
     "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "NukaFrog",
-    "name": "BioReactor",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Gouda quiche",
@@ -150,12 +138,6 @@
     "version": "1.2.7365"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "aRandomKiwi",
     "name": "Hunt for Me",
     "steamId": "1593245720",
@@ -180,6 +162,18 @@
     "version": "1.4.3.0"
   },
   {
+    "author": "SirMashedPotato",
+    "name": "Mashed's Spiribirds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Mashed's Spiribugs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
@@ -188,6 +182,18 @@
   {
     "author": "WexMan",
     "name": "Mines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Dnd Menagerie",
+    "steamId": "2751849453",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Moonjelly Race (Continued)",
     "steamId": null,
     "version": null
   },
@@ -204,12 +210,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ogre",
-    "name": "OgreStack",
-    "steamId": "1447140290",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vitamin Cera",
     "name": "Oops all BUGPARTS",
     "steamId": null,
@@ -219,13 +219,31 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.7.6"
+    "version": "2.7.7"
   },
   {
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
   },
   {
     "author": "Sandy",
@@ -240,22 +258,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Rah",
-    "name": "Rah's Bionics and Surgery Expansion",
-    "steamId": "850429707",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Augurr",
     "name": "RimFridge Updated",
     "steamId": "2878183338",
     "version": "1.2.1.0"
-  },
-  {
-    "author": "sindre0830",
-    "name": "RimNauts 2",
-    "steamId": "2880599514",
-    "version": "1.0.0.0"
   },
   {
     "author": "RimWorld-CrowdControl",
@@ -264,10 +270,28 @@
     "version": null
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.4"
+  },
+  {
+    "author": "Anonymous",
+    "name": "RoM Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rooboid",
     "name": "Roo's Painting Expansion",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SheiFoxy",
+    "name": "SF Comfy Meditation",
+    "steamId": "2593876906",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hodlhodl and Saschahi",
@@ -336,6 +360,18 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and Ben Lubar",
+    "name": "Alpha Bees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and xrushha",
     "name": "Vanilla Ideology Expanded - Hats and Rags",
     "steamId": null,
@@ -364,12 +400,6 @@
     "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -412,5 +442,11 @@
     "name": "[ATW] House Decor",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
   }
 ]
