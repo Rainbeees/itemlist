@@ -619,12 +619,6 @@
       "price": 3
     },
     {
-      "abr": "chinchilla",
-      "category": "Animals",
-      "defname": "Chinchilla",
-      "price": 160
-    },
-    {
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
@@ -8476,7 +8470,7 @@
       "abr": "experimentalinjector",
       "category": "Serums",
       "defname": "PM_ExperimentalInjector",
-      "price": -8
+      "price": 133
     },
     {
       "abr": "explodingdrone",
@@ -9622,7 +9616,7 @@
       "abr": "glowvineseedpod",
       "category": "Plant matter",
       "defname": "Glowvine",
-      "price": -8
+      "price": 30
     },
     {
       "abr": "goatmorph",
@@ -9982,7 +9976,7 @@
       "abr": "haltcream",
       "category": "Medicine",
       "defname": "PM_HaltCream",
-      "price": -8
+      "price": 83
     },
     {
       "abr": "hammer",
@@ -10060,7 +10054,7 @@
       "abr": "hazsilk",
       "category": "Textiles",
       "defname": "PM_Hazsilk",
-      "price": -8
+      "price": 6
     },
     {
       "abr": "headbag",
@@ -12058,7 +12052,7 @@
       "abr": "mecha-golem",
       "category": "Animal",
       "defname": "TM_MechaGolem",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "mecha-horse",
@@ -12094,7 +12088,7 @@
       "abr": "mechaniteslurry",
       "category": "Serums",
       "defname": "MechaniteSlurry",
-      "price": -8
+      "price": 92
     },
     {
       "abr": "mechanoidchip",
@@ -12868,7 +12862,7 @@
       "abr": "mutagenichealermechserum",
       "category": "Items",
       "defname": "MechSerumMutagenicHealer",
-      "price": -8
+      "price": 2167
     },
     {
       "abr": "mutagenichoneycomb",
@@ -12958,49 +12952,49 @@
       "abr": "mutapill,accelerator",
       "category": "Drugs",
       "defname": "MutagenAccelerator",
-      "price": -8
+      "price": 30
     },
     {
       "abr": "mutapill,booster",
       "category": "Drugs",
       "defname": "UdderPill",
-      "price": -8
+      "price": 108
     },
     {
       "abr": "mutapill,dry",
       "category": "Drugs",
       "defname": "DryPills",
-      "price": -8
+      "price": 108
     },
     {
       "abr": "mutapill,feral",
       "category": "Drugs",
       "defname": "FeralPill",
-      "price": -8
+      "price": 108
     },
     {
       "abr": "mutapill,intelliboost",
       "category": "Drugs",
       "defname": "SapiencePill",
-      "price": -8
+      "price": 183
     },
     {
       "abr": "mutapill,rgb",
       "category": "Drugs",
       "defname": "ColorsPill",
-      "price": -8
+      "price": 108
     },
     {
       "abr": "mutapill,stabiliser",
       "category": "Drugs",
       "defname": "MutagenStabiliser",
-      "price": -8
+      "price": 30
     },
     {
       "abr": "mutapill,x-aspect",
       "category": "Drugs",
       "defname": "AspectReverterPills",
-      "price": -8
+      "price": 108
     },
     {
       "abr": "mutarifle",
@@ -13138,355 +13132,355 @@
       "abr": "mutasyringe,alpaca",
       "category": "Injector",
       "defname": "AlpacaMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,alphabeaver",
       "category": "Injector",
       "defname": "AlphabeaverMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,arcticfox",
       "category": "Injector",
       "defname": "ArcticFoxMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,arcticwolf",
       "category": "Injector",
       "defname": "ArcticWolfMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,bison",
       "category": "Injector",
       "defname": "BisonMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,boomalope",
       "category": "Injector",
       "defname": "BoomalopeMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,boomrat",
       "category": "Injector",
       "defname": "BoomratMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,capybara",
       "category": "Injector",
       "defname": "CapybaraMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,caribou",
       "category": "Injector",
       "defname": "CaribouMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,cassowary",
       "category": "Injector",
       "defname": "CassowaryMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,cat",
       "category": "Injector",
       "defname": "CatMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,chicken",
       "category": "Injector",
       "defname": "ChookMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,chinchilla",
       "category": "Injector",
       "defname": "ChinchillaMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,cobra",
       "category": "Injector",
       "defname": "SnakeMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,cougar",
       "category": "Injector",
       "defname": "CougarMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,cow",
       "category": "Injector",
       "defname": "CowMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,deer",
       "category": "Injector",
       "defname": "DeerMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,donkey",
       "category": "Injector",
       "defname": "DonkeyMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,dromedary",
       "category": "Injector",
       "defname": "DromedaryMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,duck",
       "category": "Injector",
       "defname": "DuckMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,elephant",
       "category": "Injector",
       "defname": "ElephantTransformer",
-      "price": -8
+      "price": 1667
     },
     {
       "abr": "mutasyringe,elk",
       "category": "Injector",
       "defname": "ElkMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,emu",
       "category": "Injector",
       "defname": "EmuMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,fennecfox",
       "category": "Injector",
       "defname": "FennecFoxMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,gazelle",
       "category": "Injector",
       "defname": "GazelleMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,goat",
       "category": "Injector",
       "defname": "GoatMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,goose",
       "category": "Injector",
       "defname": "GooseMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,grizzlybear",
       "category": "Injector",
       "defname": "BearMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,guineapig",
       "category": "Injector",
       "defname": "GuineaPigMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,hare",
       "category": "Injector",
       "defname": "HareMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,horse",
       "category": "Injector",
       "defname": "HorseMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,housekeepercat",
       "category": "Injector",
       "defname": "HousekeeperCatMorphTransformer",
-      "price": 534
+      "price": 667
     },
     {
       "abr": "mutasyringe,husky",
       "category": "Injector",
       "defname": "HuskyMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,ibex",
       "category": "Injector",
       "defname": "IbexMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,iguana",
       "category": "Injector",
       "defname": "IguanaMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,labradorretriever",
       "category": "Injector",
       "defname": "LabradorRetrieverMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,lynx",
       "category": "Injector",
       "defname": "LynxMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,megasloth",
       "category": "Injector",
       "defname": "MegaslothTransformer",
-      "price": -8
+      "price": 1667
     },
     {
       "abr": "mutasyringe,monkey",
       "category": "Injector",
       "defname": "MonkeyMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,muffalo",
       "category": "Injector",
       "defname": "MuffaloMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,ostrich",
       "category": "Injector",
       "defname": "OstrichMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,panther",
       "category": "Injector",
       "defname": "PantherMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,pig",
       "category": "Injector",
       "defname": "PigMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,polarbear",
       "category": "Injector",
       "defname": "PolarBearMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,raccoon",
       "category": "Injector",
       "defname": "RaccoonMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,rat",
       "category": "Injector",
       "defname": "RatMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,redfox",
       "category": "Injector",
       "defname": "FoxMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,rhinoceros",
       "category": "Injector",
       "defname": "RhinocerosTransformer",
-      "price": -8
+      "price": 1667
     },
     {
       "abr": "mutasyringe,sheep",
       "category": "Injector",
       "defname": "SheepMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,snowhare",
       "category": "Injector",
       "defname": "SnowhareMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,squirrel",
       "category": "Injector",
       "defname": "SquirrelMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,thrumbo",
       "category": "Injector",
       "defname": "ThrumboTransformer",
-      "price": -8
+      "price": 1667
     },
     {
       "abr": "mutasyringe,timberwolf",
       "category": "Injector",
       "defname": "WolfMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,tortoise",
       "category": "Injector",
       "defname": "TortoiseMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,turkey",
       "category": "Injector",
       "defname": "TurkeyMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,warg",
       "category": "Injector",
       "defname": "WargMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,wildboar",
       "category": "Injector",
       "defname": "BoarMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,yak",
       "category": "Injector",
       "defname": "YakMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mutasyringe,yorkshireterrier",
       "category": "Injector",
       "defname": "TerrierMorphTransformer",
-      "price": -8
+      "price": 667
     },
     {
       "abr": "mysterymeat",
@@ -13960,7 +13954,7 @@
       "abr": "paragoninjector",
       "category": "Items",
       "defname": "PM_ParagonInjector",
-      "price": -8
+      "price": 2500
     },
     {
       "abr": "paragon'shelm",
@@ -16348,7 +16342,7 @@
       "abr": "sapiostoremesh",
       "category": "Prosthetic",
       "defname": "SapientChip",
-      "price": -8
+      "price": 1242
     },
     {
       "abr": "sapphire",
@@ -16798,12 +16792,6 @@
       "abr": "scp-857-g",
       "category": "Animals",
       "defname": "SCR_SCP857G",
-      "price": -8
-    },
-    {
-      "abr": "scp-857-h",
-      "category": "Animals",
-      "defname": "SCR_SCP857H",
       "price": -8
     },
     {
@@ -18664,7 +18652,7 @@
       "abr": "transformativeresurrectormechserum",
       "category": "Items",
       "defname": "MechSerumResurrectorTf",
-      "price": -8
+      "price": 2833
     },
     {
       "abr": "tribalaxe",
@@ -18898,7 +18886,7 @@
       "abr": "unstablegenome",
       "category": "Artifacts",
       "defname": "PM_ChaoThrumboGenome",
-      "price": -8
+      "price": 2833
     },
     {
       "abr": "uprightpiano",
@@ -19541,6 +19529,18 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 2667
+    },
+    {
+      "abr": "chinchilla",
+      "category": "Animals",
+      "defname": "Chinchilla",
+      "price": 250
+    },
+    {
+      "abr": "scp-857-h",
+      "category": "Animals",
+      "defname": "SCR_SCP857H",
+      "price": 417
     }
   ],
   "total": 3257
