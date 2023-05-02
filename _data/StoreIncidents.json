@@ -56,11 +56,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -188,6 +183,31 @@
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -361,5 +381,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 72
+	"total": 76
 }

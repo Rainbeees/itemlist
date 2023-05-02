@@ -237,7 +237,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.6"
+    "version": "2.6.0.7"
   },
   {
     "author": "Anonymous",
@@ -338,8 +338,8 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
@@ -404,8 +404,8 @@
   {
     "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
@@ -664,5 +664,59 @@
     "name": "Giddy-Up! Add-on: Animal Saddles",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NoSleep",
+    "name": "Hemofungus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Sanguine Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Rimlord Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Prestige Mechlord Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Уверен?",
+    "name": "Hemogen Extractor",
+    "steamId": "2903919607",
+    "version": "1.0.0.0"
   }
 ]
