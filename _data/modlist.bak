@@ -111,7 +111,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.5.2.0"
+    "version": "1.6.3.0"
   },
   {
     "author": "jecrell and contributors",
@@ -664,5 +664,59 @@
     "name": "Giddy-Up! Add-on: Animal Saddles",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NoSleep",
+    "name": "Hemofungus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Sanguine Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Rimlord Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Prestige Mechlord Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Уверен?",
+    "name": "Hemogen Extractor",
+    "steamId": "2903919607",
+    "version": "1.0.0.0"
   }
 ]

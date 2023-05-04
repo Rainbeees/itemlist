@@ -1306,7 +1306,7 @@
       "abr": "genepack",
       "category": "Misc",
       "defname": "Genepack",
-      "price": 108
+      "price": -10
     },
     {
       "abr": "gibbetcage",
@@ -3796,7 +3796,7 @@
       "abr": "adaptivedrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Adaptive_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "adaptivehoney",
@@ -3808,13 +3808,13 @@
       "abr": "adaptivehoneycomb",
       "category": "Honey combs",
       "defname": "RB_Adaptive_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "adaptivequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Adaptive_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "adv.i/oport",
@@ -3910,19 +3910,19 @@
       "abr": "agriculturaldrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Agricultural_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "agriculturalhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Agricultural_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "agriculturalqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Agricultural_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "algaelantern",
@@ -3970,19 +3970,19 @@
       "abr": "alloydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Alloy_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "alloyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Alloy_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "alloyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Alloy_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "almonds",
@@ -4000,19 +4000,19 @@
       "abr": "amalgamdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Amalgam_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "amalgamhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Amalgam_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "amalgamqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Amalgam_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ambrandy(awful)",
@@ -4114,19 +4114,19 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "VME_AncientAirConditioner",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "VME_AncientATM",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientbarrel",
@@ -4162,7 +4162,7 @@
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "VME_AncientRustedEngineBlock",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientequipmentblocks",
@@ -4174,7 +4174,7 @@
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "VME_AncientFence",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientgenerator",
@@ -4192,25 +4192,25 @@
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "VME_AncientGiantWheel",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "VME_AncientHydrant",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "VME_AncientKitchenSink",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "VME_AncientLargeCrate",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
@@ -4228,7 +4228,7 @@
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "VME_AncientLongCrate",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientmachine",
@@ -4240,7 +4240,7 @@
       "abr": "ancientmacro-engineblock",
       "category": "Misc",
       "defname": "VME_AncientLargeRustedEngineBlock",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientmail",
@@ -4276,7 +4276,7 @@
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "VME_AncientMicrowave",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientmilitarycrate",
@@ -4300,7 +4300,7 @@
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "VME_AncientOven",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientpipes",
@@ -4312,7 +4312,7 @@
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "VME_AncientPostbox",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientrazorwire",
@@ -4324,7 +4324,7 @@
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "VME_AncientRefrigerator",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientsecurityturret",
@@ -4336,13 +4336,13 @@
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "VME_AncientShoppingCart",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "VME_AncientSmallCrate",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientspacejunk",
@@ -4366,7 +4366,7 @@
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "VME_AncientStove",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientsystemrack",
@@ -4384,25 +4384,25 @@
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "VME_AncientToilet",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "VME_AncientVendingMachine",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "VME_AncientWashingMachine",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "VME_AncientWheel",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "angelfish",
@@ -4750,37 +4750,37 @@
       "abr": "arcticdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Arctic_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "arctichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Arctic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "arcticqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Arctic_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "argentdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Argent_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "argenthoneycomb",
       "category": "Honey combs",
       "defname": "RB_Argent_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "argentqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Argent_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "armorofthevaliant",
@@ -4846,19 +4846,19 @@
       "abr": "aurumdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Aurum_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "aurumhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Aurum_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "aurumqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Aurum_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "automatedfishfarm(freshwater)",
@@ -5260,19 +5260,19 @@
       "abr": "bittersweetdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Bittersweet_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "bittersweethoneycomb",
       "category": "Honey combs",
       "defname": "RB_Bittersweet_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "bittersweetqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Bittersweet_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "blackbear",
@@ -5884,19 +5884,19 @@
       "abr": "chefdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Chef_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "chefhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Chef_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "chefqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Chef_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "chef'stoque",
@@ -5932,7 +5932,7 @@
       "abr": "chickpeas",
       "category": "Vegetarian",
       "defname": "VCE_RawChickpeas",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "chihuahua",
@@ -6064,73 +6064,73 @@
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combathandgun",
       "category": "Ranged weapons",
       "defname": "VWE_CombatHandgun",
-      "price": 291
+      "price": -10
     },
     {
       "abr": "combatknife",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_CombatKnife",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "combatpower:psionic",
       "category": "Skill books",
       "defname": "BookOfPsionic",
-      "price": 4750
+      "price": -10
     },
     {
       "abr": "combatstyle:apothecary",
       "category": "Skill books",
       "defname": "BookOfApothecary",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatstyle:deathknight",
       "category": "Skill books",
       "defname": "BookOfDeathKnight",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatstyle:monk",
       "category": "Skill books",
       "defname": "BookOfMonk",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "combatstyle:sniper",
       "category": "Skill books",
       "defname": "BookOfSniper",
-      "price": 4292
+      "price": -10
     },
     {
       "abr": "commissarhat",
@@ -6382,19 +6382,19 @@
       "abr": "culinarydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Culinary_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "culinaryhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Culinary_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "culinaryqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Culinary_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "curtains",
@@ -6574,19 +6574,19 @@
       "abr": "desertdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Desert_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "deserthoneycomb",
       "category": "Honey combs",
       "defname": "RB_Desert_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "desertqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Desert_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "deserttortoise",
@@ -6646,19 +6646,19 @@
       "abr": "diamonddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Diamond_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "diamondhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Diamond_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "diamondqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Diamond_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "digestibleresurrectornanites",
@@ -6946,19 +6946,19 @@
       "abr": "egglayingdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Egglaying_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "egglayinghoneycomb",
       "category": "Honey combs",
       "defname": "RB_Egglaying_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "egglayingqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Egglaying_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "eggplants",
@@ -7006,19 +7006,19 @@
       "abr": "electronicdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Electronic_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "electronichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Electronic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "electronicqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Electronic_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "elementaldust",
@@ -7264,19 +7264,19 @@
       "abr": "fabricateddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Fabricated_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "fabricatedhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Fabricated_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "fabricatedqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Fabricated_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "fabricationcabinet",
@@ -7486,19 +7486,19 @@
       "abr": "fisherdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Fisher_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "fisherhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Fisher_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "fisherqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Fisher_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "flamemeditationcushion",
@@ -8344,7 +8344,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "haddock",
@@ -8548,19 +8548,19 @@
       "abr": "highdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_High_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "highhoneycomb",
       "category": "Honey combs",
       "defname": "RB_High_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "highqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_High_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hinduslab(broad)",
@@ -8734,19 +8734,19 @@
       "abr": "hybriddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hybrid_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hybridhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Hybrid_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hybridqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hybrid_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hyena",
@@ -8764,19 +8764,19 @@
       "abr": "hyperdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hyper_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hyperhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Hyper_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hyperqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hyper_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "i/oport",
@@ -8926,13 +8926,13 @@
       "abr": "insectoiddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Insectoid_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "insectoidhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Insectoid_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "insectoidhulk",
@@ -8944,7 +8944,7 @@
       "abr": "insectoidqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Insectoid_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "intellectualbook",
@@ -9178,19 +9178,19 @@
       "abr": "lacticdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Lactic_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "lactichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Lactic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "lacticqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Lactic_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "lampendtable",
@@ -9454,19 +9454,19 @@
       "abr": "luciferdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Lucifer_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "luciferhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Lucifer_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "luciferqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Lucifer_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "luciferiumpowder",
@@ -9478,19 +9478,19 @@
       "abr": "luxuriousdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Luxurious_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "luxurioushoneycomb",
       "category": "Honey combs",
       "defname": "RB_Luxurious_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "luxuriousqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Luxurious_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "machiningcabinet",
@@ -9808,7 +9808,7 @@
       "abr": "mashedpomana",
       "category": "Vegetarian",
       "defname": "TM_RawPomanaMash",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "mayo",
@@ -9892,19 +9892,19 @@
       "abr": "medicinaldrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Medicinal_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "medicinalhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Medicinal_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "medicinalqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Medicinal_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "mediumfishingtrap",
@@ -9988,19 +9988,19 @@
       "abr": "milddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mild_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "mildhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Mild_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "mildqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mild_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "militaryberet",
@@ -10102,7 +10102,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "minorarcanegemofacceleration",
@@ -10402,19 +10402,19 @@
       "abr": "neutrodrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Neutro_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "neutrohoneycomb",
       "category": "Honey combs",
       "defname": "RB_Neutro_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "neutroqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Neutro_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "newspaper",
@@ -10438,37 +10438,37 @@
       "abr": "nitrodrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Nitro_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nitrohoneycomb",
       "category": "Honey combs",
       "defname": "RB_Nitro_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nitroqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Nitro_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nocturnaldrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Nocturnal_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nocturnalhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Nocturnal_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nocturnalqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Nocturnal_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nondescriptfish",
@@ -10522,19 +10522,19 @@
       "abr": "nutritiousdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Nutritious_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nutritioushoneycomb",
       "category": "Honey combs",
       "defname": "RB_Nutritious_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "nutritiousqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Nutritious_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "oats",
@@ -10564,19 +10564,19 @@
       "abr": "oilydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Oily_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "oilyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Oily_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "oilyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Oily_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "okra",
@@ -10852,19 +10852,19 @@
       "abr": "petdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Pet_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pethoneycomb",
       "category": "Honey combs",
       "defname": "RB_Pet_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "petqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Pet_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "pheasant",
@@ -10924,19 +10924,19 @@
       "abr": "plasticdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Plastic_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "plastichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Plastic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "plasticqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Plastic_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "plateboots",
@@ -11068,19 +11068,19 @@
       "abr": "preciousdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Precious_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "precioushoneycomb",
       "category": "Honey combs",
       "defname": "RB_Precious_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "preciousqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Precious_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "prestigemechlordhelmet",
@@ -11188,19 +11188,19 @@
       "abr": "psychicdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Psychic_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "psychichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Psychic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "psychicqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Psychic_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "psychofluidwell",
@@ -12292,19 +12292,19 @@
       "abr": "radioactivedrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Radioactive_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "radioactivehoneycomb",
       "category": "Honey combs",
       "defname": "RB_Radioactive_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "radioactivequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Radioactive_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "radishes",
@@ -12742,19 +12742,19 @@
       "abr": "rubydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Ruby_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "rubyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Ruby_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "rubyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Ruby_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ruinedfinegrill",
@@ -12916,19 +12916,19 @@
       "abr": "sapphiredrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Sapphire_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "sapphirehoneycomb",
       "category": "Honey combs",
       "defname": "RB_Sapphire_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "sapphirequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Sapphire_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "sauropodleather",
@@ -13894,19 +13894,19 @@
       "abr": "spicydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Spicy_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "spicyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Spicy_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "spicyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Spicy_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "spikedskullcap",
@@ -13960,7 +13960,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "sprinkler",
@@ -14110,19 +14110,19 @@
       "abr": "stonerdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Stoner_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "stonerhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Stoner_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "stonerqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Stoner_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "stormcutter",
@@ -14146,19 +14146,19 @@
       "abr": "strawdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Straw_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "strawhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Straw_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "strawqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Straw_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "stygimoloch",
@@ -14230,19 +14230,19 @@
       "abr": "surgeondrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Surgeon_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "surgeonhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Surgeon_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "surgeonqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Surgeon_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "surgicalmask",
@@ -14260,19 +14260,19 @@
       "abr": "swampdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Swamp_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "swamphoneycomb",
       "category": "Honey combs",
       "defname": "RB_Swamp_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "swampqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Swamp_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "swan",
@@ -14308,19 +14308,19 @@
       "abr": "syntheticdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Synthetic_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "synthetichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Synthetic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "syntheticqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Synthetic_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "syrrium",
@@ -14362,19 +14362,19 @@
       "abr": "tannerdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Tanner_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tannerhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Tanner_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tannerqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Tanner_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tapir",
@@ -14440,19 +14440,19 @@
       "abr": "technologicaldrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Technological_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "technologicalhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Technological_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "technologicalqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Technological_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "technomancerspell:kineticshield",
@@ -14494,19 +14494,19 @@
       "abr": "temperatedrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Temperate_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "temperatehoneycomb",
       "category": "Honey combs",
       "defname": "RB_Temperate_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "temperatequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Temperate_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tequila",
@@ -14650,19 +14650,19 @@
       "abr": "tipsydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Tipsy_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tipsyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Tipsy_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tipsyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Tipsy_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "tobaccoleaves",
@@ -15316,19 +15316,19 @@
       "abr": "weavingdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Weaving_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "weavinghoneycomb",
       "category": "Honey combs",
       "defname": "RB_Weaving_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "weavingqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Weaving_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "welshterrier",
@@ -15448,7 +15448,7 @@
       "abr": "wizarddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Wizard_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "wizardhat",
@@ -15460,13 +15460,13 @@
       "abr": "wizardhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Wizard_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "wizardqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Wizard_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "wolfmeat",
@@ -15490,37 +15490,37 @@
       "abr": "woodlanddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Woodland_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "woodlandhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Woodland_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "woodlandqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Woodland_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "woolydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Wooly_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "woolyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Wooly_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "woolyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Wooly_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "workgloves",
@@ -15611,7 +15611,13 @@
       "category": "Leathers",
       "defname": "RttR_ZipplebackDragonScales",
       "price": 4
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 2602
+  "total": 2603
 }
