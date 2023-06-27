@@ -30,6 +30,36 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
@@ -102,16 +132,40 @@
     "version": "1.4"
   },
   {
+    "author": "SirVan",
+    "name": "Dark Ages : Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
     "version": null
   },
   {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.4.0"
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "ISOREX, Turnovus and community contributors.",
+    "name": "Community Framework",
+    "steamId": "2585162118",
+    "version": "1.3.0"
   },
   {
     "author": "jecrell and contributors",
@@ -124,6 +178,48 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Folia Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.4.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NoSleep",
+    "name": "Hemofungus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Уверен?",
+    "name": "Hemogen Extractor",
+    "steamId": "2903919607",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Edge Crescent",
@@ -144,22 +240,28 @@
     "version": "1.4.2"
   },
   {
+    "author": "DaLLaN",
+    "name": "Jelly Farm 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kikohi",
     "name": "Jewelry",
     "steamId": "2020964421",
     "version": "1.4.3.0"
   },
   {
+    "author": "Aranmaho",
+    "name": "MakaiTech - Psycast",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "WexMan",
-    "name": "Mines",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Zaljerem",
@@ -192,8 +294,20 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Vitamin Cera",
+    "name": "Oops all BUGPARTS",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Peppsen",
     "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Prestige Mechlord Armor",
     "steamId": null,
     "version": null
   },
@@ -216,6 +330,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Race to the Rim",
+    "steamId": "2325478123",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dakk Passerida",
     "name": "Replantable Anima Trees",
     "steamId": null,
@@ -228,28 +348,52 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Augurr",
     "name": "RimFridge Updated",
     "steamId": "2878183338",
     "version": "1.2.1.0"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.0.7"
-  },
-  {
-    "author": "Anonymous",
-    "name": "RoM Genes",
+    "author": "Steve Wohlwend",
+    "name": "Rimlord Armor",
     "steamId": null,
     "version": null
   },
   {
-    "author": "DeeMainiac",
-    "name": "Secure Contain Rimworld",
+    "author": "Rooboid",
+    "name": "Roo's Painting Expansion",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SheiFoxy",
+    "name": "SF Comfy Meditation",
+    "steamId": "2593876906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Steve Wohlwend",
+    "name": "Sanguine Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Kentington, Thain, SonicTHI and Owlchemist",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -264,10 +408,10 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.3.1"
+    "author": "Hodlhodl and Saschahi",
+    "name": "ToolkitExt",
+    "steamId": "2824222570",
+    "version": "1.1.1.3"
   },
   {
     "author": "SirRandoo",
@@ -360,12 +504,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Kikohi and Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Expanded - Ideology Patches",
     "steamId": null,
@@ -439,21 +577,9 @@
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Helixien Gas Expanded",
-    "steamId": "2877699803",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and xrushha",
@@ -522,15 +648,15 @@
     "version": null
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
     "version": "1.0.0.0"
   },
   {
@@ -564,6 +690,12 @@
     "version": null
   },
   {
+    "author": "小面包",
+    "name": "Victorian decorations",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -582,10 +714,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Race to the Rim",
-    "steamId": "2325478123",
-    "version": "1.0.0.0"
+    "author": "bradson",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.0.0"
   },
   {
     "author": "MG_Atwood",
@@ -594,129 +726,21 @@
     "version": null
   },
   {
-    "author": "小面包",
-    "name": "Victorian decorations",
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "OdysseyLotus",
+    "name": "[Alien/Race] Seren, from Stardust",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Hodlhodl and Saschahi",
-    "name": "ToolkitExt",
-    "steamId": "2824222570",
-    "version": "1.1.1.3"
-  },
-  {
-    "author": "SheiFoxy",
-    "name": "SF Comfy Meditation",
-    "steamId": "2593876906",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid",
-    "name": "Roo's Painting Expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vitamin Cera",
-    "name": "Oops all BUGPARTS",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DaLLaN",
-    "name": "Jelly Farm 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Battle Mounts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg and Owlchemist",
-    "name": "Giddy-Up! Add-on: Animal Saddles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bradson",
-    "name": "Xenotype Spawn Control",
-    "steamId": "2891975564",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Gemstones",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Erin",
-    "name": "Vanilla Races Expanded - Sanguophage",
-    "steamId": "2963116383",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NoSleep",
-    "name": "Hemofungus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Steve Wohlwend",
-    "name": "Sanguine Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Steve Wohlwend",
-    "name": "Rimlord Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Steve Wohlwend",
-    "name": "Prestige Mechlord Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Уверен?",
-    "name": "Hemogen Extractor",
-    "steamId": "2903919607",
-    "version": "1.0.0.0"
+    "author": "Fluffy",
+    "name": "Research Tree",
+    "steamId": "2608058938",
+    "version": "3.17.533"
   }
 ]

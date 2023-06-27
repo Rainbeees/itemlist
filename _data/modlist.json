@@ -48,6 +48,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.0.9.0"
+  },
+  {
     "author": "Allie and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
@@ -58,6 +64,12 @@
     "name": "Alpha Mechs",
     "steamId": "2973169158",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tweaks Galore",
+    "steamId": "2695164414",
+    "version": "2.0.8551.17665"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -81,6 +93,12 @@
     "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
     "name": "Alpha Memes",
     "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
     "version": "1.0.0.0"
   },
   {
@@ -126,6 +144,24 @@
     "version": "1.4.1240.0"
   },
   {
+    "author": "neronix17",
+    "name": "Clutter Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "neronix17",
+    "name": "Clutter Structures",
+    "steamId": "2008681009",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ISOREX, Turnovus and community contributors.",
+    "name": "Community Framework",
+    "steamId": "2585162118",
+    "version": "1.3.0"
+  },
+  {
     "author": "miyamiya and twsta",
     "name": "Compressed Raid",
     "steamId": "2927368319",
@@ -162,26 +198,26 @@
     "version": "1.7.7368"
   },
   {
-    "author": "ISOREX, Turnovus and community contributors.",
-    "name": "Community Framework",
-    "steamId": "2585162118",
-    "version": "1.3.0"
+    "author": "Bean",
+    "name": "Dwarves of the Rim",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
+    "author": "Bean",
+    "name": "Elves of the Rim",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Zaljerem",
-    "name": "Folia Race (Continued)",
+    "author": "Sam_",
+    "name": "Furnace",
     "steamId": null,
     "version": null
   },
@@ -192,10 +228,16 @@
     "version": "1.6.4.0"
   },
   {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mythology",
-    "steamId": "1821617793",
-    "version": "1.0.0.0"
+    "author": "Neronix17",
+    "name": "Geothermal Coolers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
   },
   {
     "author": "NoSleep",
@@ -218,6 +260,30 @@
   {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Spa",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
     "steamId": null,
     "version": null
   },
@@ -252,22 +318,10 @@
     "version": "1.4.3.0"
   },
   {
-    "author": "Aranmaho",
-    "name": "MakaiTech - Psycast",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Moonjelly Race (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "[KOR]Bichang",
@@ -298,6 +352,30 @@
     "name": "Oops all BUGPARTS",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Orks of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.0.8555.25696"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Genetics",
+    "steamId": "2910172297",
+    "version": "1.0.8548.39385"
   },
   {
     "author": "Peppsen",
@@ -342,6 +420,12 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Research Tree",
+    "steamId": "2608058938",
+    "version": "3.17.533"
+  },
+  {
     "author": "InfinitySamurai",
     "name": "RimConnect",
     "steamId": "1880784338",
@@ -366,6 +450,18 @@
     "version": null
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.7"
+  },
+  {
+    "author": "Anonymous",
+    "name": "RoM Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rooboid",
     "name": "Roo's Painting Expansion",
     "steamId": null,
@@ -384,28 +480,16 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Kikohi and Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
+    "author": "Longman",
+    "name": "Smaller radius for Anima Trees, Shrines and Animus Stones",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Kentington, Thain, SonicTHI and Owlchemist",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "author": "Bean",
+    "name": "Terrors of the Rim",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hodlhodl and Saschahi",
@@ -414,10 +498,22 @@
     "version": "1.1.1.3"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.3.2"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
@@ -726,14 +822,8 @@
     "version": null
   },
   {
-    "author": "Roolo and Owlchemist",
-    "name": "Giddy-Up 2",
-    "steamId": "2934245647",
-    "version": "1.4"
-  },
-  {
-    "author": "OdysseyLotus",
-    "name": "[Alien/Race] Seren, from Stardust",
+    "author": "JF",
+    "name": "[JF] Royal Carpets",
     "steamId": null,
     "version": null
   }
