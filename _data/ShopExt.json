@@ -2143,7 +2143,7 @@
       "name": "unaffectedbydeath"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 9000,
       "removePrice": 1500,

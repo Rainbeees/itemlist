@@ -4342,7 +4342,7 @@
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "VME_AncientLockerBank",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
@@ -20236,7 +20236,7 @@
       "abr": "blindtetra",
       "category": "Raw fish",
       "defname": "BMT_BlindTetra",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "bloodoranges",
@@ -20704,19 +20704,19 @@
       "abr": "cattledrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Cattle_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "cattlehoneycomb",
       "category": "Honey combs",
       "defname": "RB_Cattle_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "cattlequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Cattle_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "catwolf",
@@ -21202,19 +21202,19 @@
       "abr": "cluckingdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Clucking_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "cluckinghoneycomb",
       "category": "Honey combs",
       "defname": "RB_Clucking_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "cluckingqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Clucking_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "cluttercrab",
@@ -21664,7 +21664,7 @@
       "abr": "devilspupfish",
       "category": "Raw fish",
       "defname": "BMT_DevilsPupfish",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "dilophosaurus",
@@ -22078,19 +22078,19 @@
       "abr": "explodingdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Exploding_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "explodinghoneycomb",
       "category": "Honey combs",
       "defname": "RB_Exploding_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "explodingqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Exploding_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "facetmoth",
@@ -22522,7 +22522,7 @@
       "abr": "ghostshrimp",
       "category": "Raw fish",
       "defname": "BMT_GhostShrimp",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ghoulxenogerm",
@@ -22942,13 +22942,13 @@
       "abr": "horneddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Horned_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hornedhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Horned_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hornedlance",
@@ -22960,25 +22960,25 @@
       "abr": "hornedqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Horned_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hounddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hound_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "houndhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Hound_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "houndqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hound_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hugebearpelt",
@@ -23182,19 +23182,19 @@
       "abr": "hybernatingdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hybernating_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hybernatinghoneycomb",
       "category": "Honey combs",
       "defname": "RB_Hybernating_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hybernatingqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Hybernating_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "hybridchitin",
@@ -24130,19 +24130,19 @@
       "abr": "megaspiderydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Megaspidery_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "megaspideryhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Megaspidery_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "megaspideryqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Megaspidery_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "metallosnailegg(fert.)",
@@ -24274,19 +24274,19 @@
       "abr": "mousydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mousy_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "mousyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Mousy_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "mousyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mousy_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "muckfrill",
@@ -24676,7 +24676,7 @@
       "abr": "organichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Organic_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "organicleg",
@@ -25186,19 +25186,19 @@
       "abr": "purringdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Purring_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "purringhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Purring_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "purringqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Purring_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "quetzal",
@@ -25240,7 +25240,7 @@
       "abr": "randomcustomxenogerm",
       "category": "Items",
       "defname": "Xenogerm_AG_RandomCustom",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "raptortoise",
@@ -25420,7 +25420,7 @@
       "abr": "rocktooth",
       "category": "Raw fish",
       "defname": "BMT_Rocktooth",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "rodentparagon",
@@ -25642,19 +25642,19 @@
       "abr": "scalydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Scaly_Drone",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "scalyhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Scaly_Honeycomb",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "scalyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Scaly_Queen",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "scarab",
@@ -27365,7 +27365,37 @@
       "category": "Eggs (fert.)",
       "defname": "BMT_YutyrannusEggFertilized",
       "price": 105
+    },
+    {
+      "abr": "guestquiltedbed",
+      "category": "Furniture",
+      "defname": "CCol_QuiltedBedGuest",
+      "price": 255
+    },
+    {
+      "abr": "guestquilteddoublebed",
+      "category": "Furniture",
+      "defname": "CCol_QuiltedDoubleBedGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestprimitivebedroll",
+      "category": "Furniture",
+      "defname": "RR_BedrollGuest",
+      "price": 70
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "RR_FurBedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestfurdoublebed",
+      "category": "Furniture",
+      "defname": "RR_FurDoubleBedGuest",
+      "price": 226
     }
   ],
-  "total": 4561
+  "total": 4566
 }
