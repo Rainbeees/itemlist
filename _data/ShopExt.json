@@ -1816,6 +1816,94 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "shellcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
       "conflicts": [],
@@ -1890,50 +1978,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A strict principle of nonviolence which applies to all living things.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Memes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AM_Ahimsa",
-      "name": "vowofnonviolence"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
-      "degree": 0,
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
       "stats": [],
       "conflicts": [
@@ -1959,8 +2003,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has an increased resistance to the ebb and flow of mana which allows him to hold an additional 40 mana, but reduces his mana regeneration by 20%.",
       "stats": [],
@@ -1987,8 +2031,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, his talent has fostered an arrogant attitude that reduces his experience gain by 25% and causes other fighters to dislike him.",
       "stats": [],
@@ -2015,8 +2059,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a descendant of fae folk and has a natural connection to the arcane. his arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%.",
       "stats": [],
@@ -2041,8 +2085,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a descendant of giants - endowed with with great strength and stamina, though slow to recover. his max stamina is increased by 80%, but stamina regeneration is reduced by 40%. Any attack made while using a melee weapon, or unarmed, deals an additional 25% damage.",
       "stats": [],
@@ -2067,8 +2111,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is blessed by magic, able to harness its power without suffering the full side-effects. Psychic sensitivity is increased by 50% and any magic ability used only incurs half the normal arcane weakness.",
       "stats": [
@@ -2097,8 +2141,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is cursed by magic - tormented by the constant, burning rush of power through his being, and can only gain relief by expending arcane energy. Timmy will slowly accumulate arcane weakness up until he would become catatonic, and may become catatonic at any point while at this threshold. Using magical abilities that would normally incur arcane weakness will instead proportionally reduce arcane weakness, as well as the effects of the curse.",
       "stats": [],
@@ -2123,8 +2167,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
       "stats": [],
@@ -2143,10 +2187,10 @@
       "name": "unaffectedbydeath"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has been reanimated as an undead.",
       "stats": [
@@ -2283,8 +2327,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a magical gift. he can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
       "stats": [
@@ -2419,8 +2463,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is an empath, able to feel and manipulate the emotions of those around him. his's abilities are tied to magic, but have affected him on a more innate level. However, with training, Timmy can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses.",
       "stats": [
@@ -2695,8 +2739,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. his carefree personality has kept his from developing class abilities. Instead, he has learned to improve on a vast number of utility abilities that allow him to adapt to any situation.\n\t\t\nWanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.",
       "stats": [
@@ -2851,8 +2895,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the elements of fire.",
       "stats": [
@@ -3009,8 +3053,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the elements of water.",
       "stats": [
@@ -3165,8 +3209,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the elements of lightning.",
       "stats": [
@@ -3317,8 +3361,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
       "stats": [
@@ -3477,8 +3521,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the forces of nature.",
       "stats": [
@@ -3635,8 +3679,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has been bestowed with divine might and has sworn to uphold justice wherever he stands.",
       "stats": [
@@ -3789,8 +3833,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is able to summon beings and materialize objects from other planes of existence.",
       "stats": [
@@ -3941,8 +3985,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the forces of death.",
       "stats": [
@@ -4099,8 +4143,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has transformed into a lich, forsaking life in exchange for an power and an immortal existence. he disdains menial taks, choosing to employ undead for trivial matters.",
       "stats": [
@@ -4281,8 +4325,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the forces of life and healing and has taken a vow against harming others.",
       "stats": [
@@ -4443,8 +4487,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a natural entertainer, able to lighten the mood and lift the spirits of everyone around him.",
       "stats": [
@@ -4591,8 +4635,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy is a performer; expanding on natural talent, he has begun to take an conscious role to improve the mood of other colonists.",
       "stats": [
@@ -4739,8 +4783,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Everyone loves being around Timmy. he has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.",
       "stats": [
@@ -4887,8 +4931,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3,
       "description": "Timmy is a master entertainer. Sharp wit, deft hands, and dry humor are his weapons, and he is a master of all his weapons.",
       "stats": [
@@ -5035,8 +5079,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. his succubus charm has its disadvantages and can cause some to become jealous and even despise him.",
       "stats": [
@@ -5203,8 +5247,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, he is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
       "stats": [
@@ -5371,8 +5415,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. he is capable of reinforcing physical elements, and bending them, as he needs.",
       "stats": [
@@ -5535,8 +5579,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. he is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve his goals, but has difficulty interacting with biological systems.",
       "stats": [
@@ -5703,8 +5747,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing his power.\n\nAs a blood mage, Timmy has learned to control the life force within and command it to his will. his connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
       "stats": [
@@ -5861,8 +5905,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is an enchanter, attuned to the composition of matter and materials. he can manipulate matter to his will, frequently in unnatural ways, and his powers of transmutation can be permanent when sufficient effort is applied.",
       "stats": [
@@ -6021,8 +6065,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a chronomancer. Through arcane sight, he is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
       "stats": [
@@ -6173,8 +6217,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has rejected all predefined magic paths and refuses to attribute objective reality in his search for power; there are no truths, all magic is permitted. This tradition has enabled Timmy to learn any type of magic, although he will never master any.",
       "stats": [
@@ -6325,8 +6369,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a half-breed demon with an affinity for shadow magic. he has developed his unique talents through combat training and physical conditioning making him the perfect assassin.",
       "stats": [
@@ -6607,8 +6651,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a brightmage, able to harness the powers of light to purge evil. he approaches any task with an unrivaled fervor that usually places him at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, Timmy has developed an intense hatred for shadowy and dark caricatures.",
       "stats": [
@@ -6887,8 +6931,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. Timmy is kin to the spirit realm and more attuned to nature and its elements.",
       "stats": [
@@ -7165,8 +7209,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundane material into life-like, monstrous creatures. Golemancers are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancers tend to find rocks more interesting than people and have little concern for cleanliness.",
       "stats": [
@@ -7439,8 +7483,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "The body of Timmy is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption.",
       "stats": [],
@@ -7599,8 +7643,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "The body of Timmy is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption.",
       "stats": [],
@@ -7859,8 +7903,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is physically adept and has potential to learn special combat forms.",
       "stats": [
@@ -7995,8 +8039,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. his carefree personality has kept him from developing class abilities. Instead, he has learned to improve a vast number of utility abilities that allow him to adapt to any situation.\n\nWayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.",
       "stats": [
@@ -8151,8 +8195,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. his profession exhibits strict discipline and dedication, and he has learned to apply his discipline to more generic, physical skills. With training, he can become capable in many combat techniques to augment his skill in herbs.",
       "stats": [
@@ -8433,8 +8477,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has learned how to train the Gladiator combat style.",
       "stats": [
@@ -8601,8 +8645,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, he is prepared to defend his land from invaders.",
       "stats": [
@@ -8761,8 +8805,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy is a hunter; he employs field-craft, cunning, and skill with a bow to defend his land from invaders.",
       "stats": [
@@ -8921,8 +8965,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. he employs expertise in field-craft, cunning, and the bow to defend his land from invaders.",
       "stats": [
@@ -9081,8 +9125,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3,
       "description": "Timmy is a ranger; master of the wilds.  he is a master of his craft and defender of his land.",
       "stats": [
@@ -9241,8 +9285,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around him, not that he cares.",
       "stats": [
@@ -9391,8 +9435,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused him to become distanced from other colonists and somewhat unapproachable, not that he cares.",
       "stats": [
@@ -9541,8 +9585,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made him avoid other colonists, not that they care.",
       "stats": [
@@ -9691,8 +9735,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3,
       "description": "Timmy is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous he is and that suits him just fine.",
       "stats": [
@@ -9841,8 +9885,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is training to become a master of the blade and excels at fighting in melee combat.",
       "stats": [
@@ -9989,8 +10033,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has trained to become a sword master, dangerously skilled in melee combat.",
       "stats": [
@@ -10137,8 +10181,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is a blade dancer, highly skilled in melee combat.  Watching him fight is like watching a dance, every action precise and flawless as it flows from one form into another.",
       "stats": [
@@ -10287,8 +10331,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3,
       "description": "Timmy has become a legend, his skill in melee combat is is known across the world. his skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts his victory.",
       "stats": [
@@ -10437,8 +10481,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
       "stats": [
@@ -10599,8 +10643,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. he is able to project psionic energy but finds it easier and more efficient to apply it as an extension of his body. For this reason, he prefers to be free of encumbering weapons when manifesting psionic energy.\n\nTimmy has become less social since developing psionic powers, preferring to be unhindered by other pawns.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
       "stats": [
@@ -10757,8 +10801,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. his solemn attitude makes most pawns uneasy and even fewer approve of his methods.",
       "stats": [
@@ -10909,8 +10953,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. he harnesses Chi to create magical effects and exceed his physical capabilities. Timmy is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
       "stats": [
@@ -11067,8 +11111,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "As a Commander, Timmy exhibits a charismatic personality and stalwart presence that makes other pawns want to follow his lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because Timmy is used to everyone doing his bidding, he considers menial tasks beneath his status, and is generally a lackluster worker.",
       "stats": [
@@ -11219,8 +11263,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 9000,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
       "stats": [
@@ -12859,50 +12903,6 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket"
     },
     {
       "canAdd": true,
