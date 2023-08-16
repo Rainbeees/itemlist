@@ -195,7 +195,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1241.0"
+    "version": "1.4.1242.0"
   },
   {
     "author": "test",
@@ -678,9 +678,9 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "steamId": "3013877477",
     "version": "1.0.0.0"
   },
   {
@@ -690,16 +690,16 @@
     "version": "1.0.3.2"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "Twitch Toolkit",
-    "steamId": "1718525787",
+    "steamId": "3013874066",
     "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
+    "version": "6.3.0.0"
   },
   {
     "author": "InertialMage",

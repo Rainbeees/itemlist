@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 20000,
 		"karmatype": "Bad"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 2917,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
