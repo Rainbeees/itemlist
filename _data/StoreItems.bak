@@ -382,7 +382,7 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "butchertable",
@@ -19780,7 +19780,7 @@
       "abr": "jerky",
       "category": "Meat",
       "defname": "VFEC_Jerky",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "jesterhat",
@@ -23717,7 +23717,193 @@
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ZweihandersHat",
       "price": -10
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestancienthospitalbed",
+      "category": "Furniture",
+      "defname": "AG_RuinedHospitalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "gueststone-framedbedroll",
+      "category": "Furniture",
+      "defname": "AM_StoneBedrollGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestrestoredancientbed",
+      "category": "Furniture",
+      "defname": "AM_AncientBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestrestoredancientdoublebed",
+      "category": "Furniture",
+      "defname": "AM_AncientDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestrestoredancientoperatingtable",
+      "category": "Furniture",
+      "defname": "AM_AncientOperatingTableGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestlogslabbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedLogGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestwickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublewickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "gueststrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublestrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestroyaltudorbed",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTudorBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestquiltedbed",
+      "category": "Furniture",
+      "defname": "CCol_QuiltedBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestquilteddoublebed",
+      "category": "Furniture",
+      "defname": "CCol_QuiltedDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestprimitivebedroll",
+      "category": "Furniture",
+      "defname": "RR_BedrollGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "RR_FurBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestfurdoublebed",
+      "category": "Furniture",
+      "defname": "RR_FurDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guesttent",
+      "category": "Furniture",
+      "defname": "VFEC_TentGuest",
+      "price": -10
     }
   ],
-  "total": 3953
+  "total": 3984
 }

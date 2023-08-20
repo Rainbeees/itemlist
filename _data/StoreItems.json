@@ -382,7 +382,7 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "butchertable",
@@ -1414,7 +1414,7 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "highsubcore",
@@ -2926,7 +2926,7 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "stelliccrown",
@@ -23728,181 +23728,181 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": 288
+      "price": -10
     },
     {
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "guestancienthospitalbed",
       "category": "Furniture",
       "defname": "AG_RuinedHospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "VME_AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "gueststone-framedbedroll",
       "category": "Furniture",
       "defname": "AM_StoneBedrollGuest",
-      "price": 159
+      "price": -10
     },
     {
       "abr": "guestrestoredancientbed",
       "category": "Furniture",
       "defname": "AM_AncientBedGuest",
-      "price": 105
+      "price": -10
     },
     {
       "abr": "guestrestoredancientdoublebed",
       "category": "Furniture",
       "defname": "AM_AncientDoubleBedGuest",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "guestrestoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTableGuest",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "guestlogslabbed",
       "category": "Furniture",
       "defname": "DankPyon_BedLogGuest",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "guestwickerbed",
       "category": "Furniture",
       "defname": "DankPyon_BedWickerGuest",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "guestdoublewickerbed",
       "category": "Furniture",
       "defname": "DankPyon_BedWickerDoubleGuest",
-      "price": 289
+      "price": -10
     },
     {
       "abr": "gueststrawbed",
       "category": "Furniture",
       "defname": "DankPyon_StrawBedGuest",
-      "price": 171
+      "price": -10
     },
     {
       "abr": "guestdoublestrawbed",
       "category": "Furniture",
       "defname": "DankPyon_StrawBedDoubleGuest",
-      "price": 326
+      "price": -10
     },
     {
       "abr": "guestfurbed",
       "category": "Furniture",
       "defname": "DankPyon_BedFurGuest",
-      "price": 145
+      "price": -10
     },
     {
       "abr": "guestdoublefurbed",
       "category": "Furniture",
       "defname": "DankPyon_BedFurDoubleGuest",
-      "price": 279
+      "price": -10
     },
     {
       "abr": "guestroyaltudorbed",
       "category": "Furniture",
       "defname": "DankPyon_RoyalTudorBedGuest",
-      "price": 3592
+      "price": -10
     },
     {
       "abr": "guestquiltedbed",
       "category": "Furniture",
       "defname": "CCol_QuiltedBedGuest",
-      "price": 255
+      "price": -10
     },
     {
       "abr": "guestquilteddoublebed",
       "category": "Furniture",
       "defname": "CCol_QuiltedDoubleBedGuest",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "guestprimitivebedroll",
       "category": "Furniture",
       "defname": "RR_BedrollGuest",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "guestfurbed",
       "category": "Furniture",
       "defname": "RR_FurBedGuest",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "guestfurdoublebed",
       "category": "Furniture",
       "defname": "RR_FurDoubleBedGuest",
-      "price": 226
+      "price": -10
     },
     {
       "abr": "guesttent",
       "category": "Furniture",
       "defname": "VFEC_TentGuest",
-      "price": 207
+      "price": -10
     }
   ],
   "total": 3984
