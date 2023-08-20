@@ -1793,6 +1793,58 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
@@ -1831,6 +1883,28 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
     },
     {
       "canAdd": true,
@@ -12770,7 +12844,95 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
+      "stats": [
+        "+2.0 shooting accuracy",
+        "-15% aiming time",
+        "+4.0 melee hit chance",
+        "+6.0 melee dodge chance",
+        "-10% incoming damage multiplier",
+        "-10% trap spring chance",
+        "-90% mental break threshold",
+        "+10% pain shock threshold",
+        "x5% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2.0 shooting accuracy",
+          "-15% aiming time",
+          "+4.0 melee hit chance",
+          "+6.0 melee dodge chance",
+          "-10% incoming damage multiplier",
+          "-10% trap spring chance",
+          "-90% mental break threshold",
+          "+10% pain shock threshold",
+          "x5% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DankPyon_Fighter",
+      "name": "fighter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man. ",
+      "stats": [
+        "+6.0 shooting accuracy",
+        "-25% aiming time",
+        "+8.0 melee hit chance",
+        "+12.0 melee dodge chance",
+        "+10% medical tend quality",
+        "-30% incoming damage multiplier",
+        "+0.30 move speed",
+        "-20% trap spring chance",
+        "-15% mental break threshold",
+        "+30% pain shock threshold",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6.0 shooting accuracy",
+          "-25% aiming time",
+          "+8.0 melee hit chance",
+          "+12.0 melee dodge chance",
+          "+10% medical tend quality",
+          "-30% incoming damage multiplier",
+          "+0.30 move speed",
+          "-20% trap spring chance",
+          "-15% mental break threshold",
+          "+30% pain shock threshold",
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DankPyon_Veteran",
+      "name": "veteran"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is Herculean, and can use heavy weapons.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -12780,11 +12942,43 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
+        "mod": "Roo's Minotaur Xenotype",
         "karmaTypeForAdding": null
       },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
+      "defName": "RBM_Herculean_Trait",
+      "name": "herculean"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's vulgar jokes, lack of manners and sleazy demeanor tend to drive others away. Thankfully, Timmy doesn't let rejection get them down.",
+      "stats": [],
+      "conflicts": [
+        "kind",
+        "asexual",
+        "prude",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind",
+          "asexual",
+          "prude",
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Roo's Satyr Xenotype",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RBSF_Uncouth",
+      "name": "uncouth"
     },
     {
       "canAdd": true,
@@ -12792,25 +12986,65 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
-      "stats": [
-        "+3.0 beauty"
-      ],
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "+3.0 beauty"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
     },
     {
       "canAdd": true,
@@ -12818,33 +13052,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
-      "stats": [
-        "-3.0 beauty"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-3.0 beauty"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A strict principle of nonviolence which applies to all living things.",
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -12854,77 +13062,11 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Memes",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null
       },
-      "defName": "AM_Ahimsa",
-      "name": "vowofnonviolence"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Unknown",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait_Mech",
-      "name": "mechwarcasket"
+      "defName": "Hygienic",
+      "name": "slob"
     }
   ],
   "races": [
@@ -12948,7 +13090,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 6000
     }
   ]
 }

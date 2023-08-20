@@ -1793,6 +1793,58 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
@@ -1831,6 +1883,28 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
     },
     {
       "canAdd": true,
@@ -12851,6 +12925,148 @@
       },
       "defName": "DankPyon_Veteran",
       "name": "veteran"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is Herculean, and can use heavy weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Roo's Minotaur Xenotype",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RBM_Herculean_Trait",
+      "name": "herculean"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's vulgar jokes, lack of manners and sleazy demeanor tend to drive others away. Thankfully, Timmy doesn't let rejection get them down.",
+      "stats": [],
+      "conflicts": [
+        "kind",
+        "asexual",
+        "prude",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind",
+          "asexual",
+          "prude",
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Roo's Satyr Xenotype",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RBSF_Uncouth",
+      "name": "uncouth"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
     }
   ],
   "races": [
@@ -12874,7 +13090,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 750
     }
   ]
 }
