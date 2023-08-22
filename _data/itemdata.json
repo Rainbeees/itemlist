@@ -73100,7 +73100,7 @@
     "KarmaType": null
   },
   "DankPyon_BowlSilver": {
-    "CustomName": null,
+    "CustomName": "silverbowl2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -76580,7 +76580,7 @@
     "KarmaType": null
   },
   "DankPyon_Building_BowlSilver": {
-    "CustomName": null,
+    "CustomName": "silverbowl1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -79057,6 +79057,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Alpha Bees",
+    "KarmaType": null
+  },
+  "MechSerumYouth": {
+    "CustomName": null,
+    "HasQuantityLimit": true,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Age Reversing Mech Serum",
     "KarmaType": null
   }
 }

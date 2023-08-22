@@ -52,7 +52,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": 25
+      "price": 50
     },
     {
       "abr": "animalbed",
@@ -1264,7 +1264,7 @@
       "abr": "grandsculpture",
       "category": "Art",
       "defname": "SculptureGrand",
-      "price": -10
+      "price": 3934
     },
     {
       "abr": "graniteblocks",
@@ -1366,7 +1366,7 @@
       "abr": "heart",
       "category": "Natural",
       "defname": "Heart",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "heater",
@@ -1696,7 +1696,7 @@
       "abr": "kidney",
       "category": "Natural",
       "defname": "Kidney",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "kneelpillow",
@@ -1744,7 +1744,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "lavishmeal",
@@ -1780,7 +1780,7 @@
       "abr": "liver",
       "category": "Natural",
       "defname": "Liver",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "lizardskin",
@@ -1828,7 +1828,7 @@
       "abr": "lung",
       "category": "Natural",
       "defname": "Lung",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "lynx",
@@ -2686,73 +2686,73 @@
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skull",
@@ -2818,7 +2818,7 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "smallshelf",
@@ -3100,7 +3100,7 @@
       "abr": "terrorsculpture",
       "category": "Art",
       "defname": "SculptureTerror",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "thrumbo",
@@ -4444,7 +4444,7 @@
       "abr": "arcalleum",
       "category": "Raw resources",
       "defname": "TM_Arcalleum",
-      "price": -10
+      "price": 60
     },
     {
       "abr": "arcanegemofacceleration",
@@ -4504,7 +4504,7 @@
       "abr": "arcanescript:???",
       "category": "Skill books",
       "defname": "BookOfQuestion",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanespell:gateway",
@@ -6748,7 +6748,7 @@
       "abr": "classicalpainting",
       "category": "Art",
       "defname": "RBPPaintingClassical",
-      "price": -10
+      "price": 332
     },
     {
       "abr": "cloakofsupremacy",
@@ -7996,19 +7996,19 @@
       "abr": "dragonstatueritual",
       "category": "Art",
       "defname": "DD_DragonStatueRitual_Grand",
-      "price": -10
+      "price": 3016
     },
     {
       "abr": "dragonstatueritual",
       "category": "Art",
       "defname": "DD_DragonStatueRitual_Large",
-      "price": -10
+      "price": 2084
     },
     {
       "abr": "dragonstatueritual",
       "category": "Art",
       "defname": "DD_DragonStatueRitual_Small",
-      "price": -10
+      "price": 1666
     },
     {
       "abr": "dragonfirelauncher",
@@ -8512,13 +8512,13 @@
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": -10
+      "price": 1200
     },
     {
       "abr": "essenceofmight",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MightEssence",
-      "price": -10
+      "price": 1200
     },
     {
       "abr": "euglenaegg",
@@ -9112,13 +9112,13 @@
       "abr": "fluffyroundrug",
       "category": "Art",
       "defname": "RR_FluffyRoundRug",
-      "price": -10
+      "price": 302
     },
     {
       "abr": "fluffyrug",
       "category": "Art",
       "defname": "RR_FluffyRug",
-      "price": -10
+      "price": 302
     },
     {
       "abr": "flyingfish(adeptcatch)",
@@ -9430,13 +9430,13 @@
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": -10
+      "price": 30000
     },
     {
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": -10
+      "price": 30000
     },
     {
       "abr": "gemscorpion",
@@ -9982,7 +9982,7 @@
       "abr": "grandimperialsculpture",
       "category": "Art",
       "defname": "VFEE_RoyalSculptureGrand",
-      "price": -10
+      "price": 3934
     },
     {
       "abr": "grandroyalrug",
@@ -10042,7 +10042,7 @@
       "abr": "greatpyramid",
       "category": "Misc",
       "defname": "AM_GreatPyramid",
-      "price": -10
+      "price": 32400
     },
     {
       "abr": "greattreesap",
@@ -10222,7 +10222,7 @@
       "abr": "hangingoilpainting",
       "category": "Art",
       "defname": "VD_HangingOilPainting",
-      "price": -10
+      "price": 404
     },
     {
       "abr": "harddragonscale",
@@ -11416,7 +11416,7 @@
       "abr": "largeimperialsculpture",
       "category": "Art",
       "defname": "VFEE_RoyalSculptureLarge",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "largerat",
@@ -11524,7 +11524,7 @@
       "abr": "leatherroundrug",
       "category": "Art",
       "defname": "RR_LeatherRoundRug",
-      "price": -10
+      "price": 302
     },
     {
       "abr": "leatherbackturtle",
@@ -12706,7 +12706,7 @@
       "abr": "modernpainting",
       "category": "Art",
       "defname": "RBPPaintingModern",
-      "price": -10
+      "price": 332
     },
     {
       "abr": "mole",
@@ -12832,13 +12832,13 @@
       "abr": "mummified",
       "category": "Art",
       "defname": "AM_MummyMale",
-      "price": -10
+      "price": 394
     },
     {
       "abr": "mummified",
       "category": "Art",
       "defname": "AM_MummyFemale",
-      "price": -10
+      "price": 394
     },
     {
       "abr": "munchkincat",
@@ -13258,7 +13258,7 @@
       "abr": "oilpainting",
       "category": "Art",
       "defname": "VD_OilPainting",
-      "price": -10
+      "price": 414
     },
     {
       "abr": "oilydrone",
@@ -13720,7 +13720,7 @@
       "abr": "pendulumclock",
       "category": "Art",
       "defname": "VD_PendulumClock",
-      "price": -10
+      "price": 254
     },
     {
       "abr": "penguin",
@@ -13822,7 +13822,7 @@
       "abr": "phonograph",
       "category": "Art",
       "defname": "VD_Phonograph",
-      "price": -10
+      "price": 238
     },
     {
       "abr": "pigskinegg",
@@ -14314,7 +14314,7 @@
       "abr": "pyramid",
       "category": "Art",
       "defname": "AM_Pyramid",
-      "price": -10
+      "price": 9600
     },
     {
       "abr": "pyramid",
@@ -14524,13 +14524,13 @@
       "abr": "rectanglerug",
       "category": "Art",
       "defname": "RR_RectRugOne",
-      "price": -10
+      "price": 368
     },
     {
       "abr": "rectanglerug",
       "category": "Art",
       "defname": "RR_RectRugTwo",
-      "price": -10
+      "price": 368
     },
     {
       "abr": "redbeeswax",
@@ -14740,7 +14740,7 @@
       "abr": "roundrug",
       "category": "Art",
       "defname": "RR_RoundRug",
-      "price": -10
+      "price": 502
     },
     {
       "abr": "royalave",
@@ -14962,7 +14962,7 @@
       "abr": "sandglass",
       "category": "Art",
       "defname": "VD_Sandglass",
-      "price": -10
+      "price": 234
     },
     {
       "abr": "sandstonegolem",
@@ -15490,7 +15490,7 @@
       "abr": "skeletonstatue",
       "category": "Art",
       "defname": "DA_SkeletonStatue",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "skip",
@@ -15634,7 +15634,7 @@
       "abr": "smallimperialsculpture",
       "category": "Art",
       "defname": "VFEE_RoyalSculptureSmall",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "smock",
@@ -17188,7 +17188,7 @@
       "abr": "ancientbrazier",
       "category": "Art",
       "defname": "DankPyon_Brazier1x1c",
-      "price": -10
+      "price": 1384
     },
     {
       "abr": "ancientcodex",
@@ -17206,13 +17206,13 @@
       "abr": "ancientcolumn",
       "category": "Art",
       "defname": "DankPyon_Ancient_Column",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "ancientcolumn",
       "category": "Art",
       "defname": "DankPyon_Ruined_AncientColumn",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "ancientgoldenchalice",
@@ -17230,13 +17230,13 @@
       "abr": "ancientobeliskbrazier",
       "category": "Art",
       "defname": "DankPyon_Brazier2x2c",
-      "price": -10
+      "price": 8466
     },
     {
       "abr": "ancientreliquary",
       "category": "Art",
       "defname": "DankPyon_AncientReliquaryEmpty",
-      "price": -10
+      "price": 2484
     },
     {
       "abr": "ancienttimber",
@@ -17350,7 +17350,7 @@
       "abr": "armorstatue",
       "category": "Art",
       "defname": "DankPyon_ArmorStatue",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "artist'slegacy",
@@ -17740,7 +17740,7 @@
       "abr": "bust",
       "category": "Art",
       "defname": "DankPyon_Bust",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "butcher'sblock",
@@ -19072,37 +19072,37 @@
       "abr": "grandarchonobelisksculpture",
       "category": "Art",
       "defname": "DankPyon_ArchonObeliskSculpture2x2c",
-      "price": -10
+      "price": 5134
     },
     {
       "abr": "grandarchonsculpture",
       "category": "Art",
       "defname": "DankPyon_ArchonSculpture2x2c",
-      "price": -10
+      "price": 5134
     },
     {
       "abr": "grandcolumn",
       "category": "Art",
       "defname": "EEG_GrandColumn",
-      "price": -10
+      "price": 1034
     },
     {
       "abr": "granddicegodobelisksculpture",
       "category": "Art",
       "defname": "DankPyon_RNG2x2c",
-      "price": -10
+      "price": 5134
     },
     {
       "abr": "granddicegodsculpture",
       "category": "Art",
       "defname": "DankPyon_RNGLarge2x2c",
-      "price": -10
+      "price": 5134
     },
     {
       "abr": "grandobelisk",
       "category": "Art",
       "defname": "DankPyon_Obelisk2x2c",
-      "price": -10
+      "price": 5134
     },
     {
       "abr": "grapemust",
@@ -19120,7 +19120,7 @@
       "abr": "grapes",
       "category": "Vegetarian",
       "defname": "VFEM_RawGrapes",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "grapes",
@@ -20626,13 +20626,13 @@
       "abr": "packagedmacci",
       "category": "Meals",
       "defname": "DankPyon_MealRationsVegetarian",
-      "price": -10
+      "price": 60
     },
     {
       "abr": "packagedrations",
       "category": "Meals",
       "defname": "DankPyon_MealRations",
-      "price": -10
+      "price": 60
     },
     {
       "abr": "paddedarmor",
@@ -20710,7 +20710,7 @@
       "abr": "pedestal",
       "category": "Art",
       "defname": "DankPyon_Pedestal",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "pelekys",
@@ -21544,7 +21544,7 @@
       "abr": "sacredtabletpedestal",
       "category": "Art",
       "defname": "BotchJob_SacredTabletPedestal",
-      "price": -10
+      "price": 4366
     },
     {
       "abr": "salt",
@@ -22618,7 +22618,7 @@
       "abr": "unfinishedmartialbook",
       "category": "Skill books",
       "defname": "UnfinishedMartial",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "unfinishedtornscript",
@@ -23903,7 +23903,13 @@
       "category": "Furniture",
       "defname": "VFEC_TentGuest",
       "price": -10
+    },
+    {
+      "abr": "agereversingmechserum",
+      "category": "Misc",
+      "defname": "MechSerumYouth",
+      "price": 4167
     }
   ],
-  "total": 3984
+  "total": 3985
 }
