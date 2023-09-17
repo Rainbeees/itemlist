@@ -12,12 +12,6 @@
     "version": "10.0.1"
   },
   {
-    "author": "Luca De Petrillo",
-    "name": "(NWN) Real Fog of War",
-    "steamId": "2560931731",
-    "version": "1.1.8.1"
-  },
-  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
@@ -26,12 +20,6 @@
   {
     "author": "LegendaryMinuteman",
     "name": "Age Reversing Mech Serum",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
@@ -132,24 +120,6 @@
     "version": "1.7"
   },
   {
-    "author": "Machine",
-    "name": "Better Infestations 1.4",
-    "steamId": "1319614331",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.5.0"
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Biome Transitions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -168,6 +138,12 @@
     "version": "1.4.0.0"
   },
   {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.5.0"
+  },
+  {
     "author": "The Biomes Mod Team",
     "name": "Biomes! Caverns",
     "steamId": null,
@@ -180,58 +156,10 @@
     "version": null
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Prehistoric",
-    "steamId": "2860715703",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "22、昏暗",
     "name": "Biotech xenotype expanded - Rotfish",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Zeitloser and Erin",
-    "name": "Birds Beyond: Temperate Forest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "Blood and stains",
-    "steamId": "2075683887",
-    "version": "1.0.8328.27847"
-  },
-  {
-    "author": "Techmago",
-    "name": "Boots and Stuff",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.4.0.1"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cults",
-    "steamId": "815039373",
-    "version": "1.0.24.1"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Factions",
-    "steamId": "764375772",
-    "version": "1.0.4.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -244,18 +172,6 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.4.1242.0"
-  },
-  {
-    "author": "neronix17",
-    "name": "Clutter Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "neronix17",
-    "name": "Clutter Structures",
-    "steamId": "2008681009",
-    "version": "1.0.0.0"
   },
   {
     "author": "Mort Strudel",
@@ -272,12 +188,6 @@
   {
     "author": "SirVan",
     "name": "Dark Ages : Crypts and Tombs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Diseases+",
     "steamId": null,
     "version": null
   },
@@ -309,7 +219,7 @@
     "author": "Saakra",
     "name": "Empire 1_4 (Continued)",
     "steamId": "3017452577",
-    "version": "0.42.1"
+    "version": "0.42.2"
   },
   {
     "author": "Erin",
@@ -348,8 +258,8 @@
     "version": null
   },
   {
-    "author": "jecrell",
-    "name": "H.P. Lovecraft Storyteller",
+    "author": "Yamazaki and OfGreyHairWaifu",
+    "name": "Giant Toads",
     "steamId": null,
     "version": null
   },
@@ -360,22 +270,16 @@
     "version": null
   },
   {
-    "author": "Уверен?",
-    "name": "Hemogen Extractor",
-    "steamId": "2903919607",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Edge Crescent",
     "name": "HousekeeperAssistanceCat",
     "steamId": "1541620640",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "BlackMarket420",
+    "name": "Hunterphage Xenotype",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Netrve",
@@ -418,6 +322,12 @@
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Seanggag",
+    "name": "Moonjelly Xenotype",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "[KOR]Bichang",
@@ -474,24 +384,6 @@
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.0.8612.19583"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Genetics",
-    "steamId": "2910172297",
-    "version": "1.0.8611.41474"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - More Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "澄香",
     "name": "OverflowingFlowers",
     "steamId": null,
@@ -502,6 +394,18 @@
     "name": "P-Music",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "ShadowX99",
@@ -540,12 +444,6 @@
     "version": null
   },
   {
-    "author": "busted_bunny",
-    "name": "Prisoners Are Not Swines",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
@@ -558,52 +456,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Lucifer",
-    "name": "Realistic Rooms Rewritten",
-    "steamId": "2558042766",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "avilmask",
     "name": "Research Whatever",
     "steamId": "2552092060",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sihv",
-    "name": "Rim of Madness - Bones",
-    "steamId": "1180573408",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Jecrell and contributors",
-    "name": "Rim of Madness - Vampires",
-    "steamId": "1187010034",
-    "version": "1.28.0.2"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Rim of Madness - Werewolves",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "VexedTrees",
-    "name": "Rim-Shek",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "VexedTrees",
-    "name": "Rim-Skeletons",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "InfinitySamurai",
@@ -646,6 +502,12 @@
     "name": "Scorchlanders",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -750,12 +612,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.1.1"
-  },
-  {
     "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
     "name": "Vanilla Factions Expanded - Classical",
     "steamId": "2787850474",
@@ -816,6 +672,30 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded - Puppeteer",
+    "steamId": "3033779606",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
@@ -850,12 +730,6 @@
     "name": "Wheelchairs",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "bradson",
-    "name": "Xenotype Spawn Control",
-    "steamId": "2891975564",
-    "version": "1.0.0"
   },
   {
     "author": "Gege",

@@ -309,7 +309,7 @@
     "author": "Saakra",
     "name": "Empire 1_4 (Continued)",
     "steamId": "3017452577",
-    "version": "0.42.1"
+    "version": "0.42.2"
   },
   {
     "author": "Erin",
@@ -477,7 +477,7 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.0.8612.19583"
+    "version": "1.0.8628.15310"
   },
   {
     "author": "Neronix17",
@@ -648,6 +648,12 @@
     "version": null
   },
   {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -676,6 +682,12 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.1"
+  },
+  {
+    "author": "Caaz",
+    "name": "Typhon",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
