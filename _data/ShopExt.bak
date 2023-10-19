@@ -1913,7 +1913,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -1930,7 +1932,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2363,7 +2367,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2372,7 +2378,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2389,7 +2397,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2398,7 +2408,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2415,7 +2427,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2424,7 +2438,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2641,7 +2657,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2654,7 +2672,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2671,7 +2691,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2682,7 +2704,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2932,7 +2956,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3026,10 +3050,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -3103,7 +3131,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -3112,7 +3142,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3164,10 +3196,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -3428,204 +3464,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has made an unbreakable contract. he will return from the dead to serve the King in Yellow that rules the lost city of Carcosa.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Cults_OathtakerHastur",
-      "name": "oathtaker"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has risen from the dead to serve once again.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Call of Cthulhu - Cults",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Cults_OathtakerHastur2",
-      "name": "reanimated"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy could be a shapeshifter that blends forms between man and wolf. When a special moon rises, he may have his first horrific transformation, or something else may happen...",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(?)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is unknowingly a shapeshifter that blends forms between man and wolf. When a special moon rises, he will have his first horrific transformation.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(unblooded)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is a shapeshifter that blends its form with that of a wolf.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Having sworn a blood oath to their clan in good faith, Timmy is a shapeshifter that blends his form with that of a wolf, and cannot be recruited.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(sworn)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 3,
-      "description": "Timmy is a genetic abberation known as the Metis. Somewhere in his genetic line, a werewolf mated with a werewolf and forever corrupted their werewolf line. This Werewolf can only transform into the Metis form.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(metis)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
       "stats": [],
       "conflicts": [],
@@ -3663,6 +3501,84 @@
       },
       "defName": "VFEP_Shellcasket",
       "name": "shellcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     }
   ],
   "races": [
@@ -3687,107 +3603,6 @@
       "enabled": true,
       "name": "human",
       "price": 750
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$0 Market value",
-          "+3.50 Move speed",
-          "+0% Psychic sensitivity",
-          "-10.0% Armor - Blunt",
-          "-15.0% Armor - Sharp",
-          "-100.0C Minimum comfortable temperature",
-          "+100.0C Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+0 Meat amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.",
-      "defName": "ReanimatedCorpse",
-      "enabled": true,
-      "name": "reanimated corpse",
-      "price": 1
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+85% Flammability",
-          "+90% Psychic sensitivity",
-          "+80% Fertility",
-          "+10% Toxic environment resistance",
-          "+19.0C Minimum comfortable temperature",
-          "+28.0C Maximum comfortable temperature",
-          "+1 Honor value",
-          "+1.2 Melee dodge chance",
-          "+$1500 Market value",
-          "+4.30 Move speed",
-          "+85 Carrying capacity",
-          "+30% Mental break threshold",
-          "+80% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+80% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+20.0% Armor - Blunt",
-          "+30.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A baseline shek; a closely related subrace of humans, thought to have been genetically engineered for combat during the mechanoid wars - sporting large horns from their heads, and bone plating on their chest and limbs; the latter of which aids them with protection.",
-      "defName": "Shek_",
-      "enabled": true,
-      "name": "shek",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+0% Fertility",
-          "+50% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+99900% Immunity gain speed",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+4 Honor value",
-          "+0.5 Melee dodge chance",
-          "+$5800 Market value",
-          "+4.25 Move speed",
-          "+90 Carrying capacity",
-          "+20% Mental break threshold",
-          "+50% Pain shock threshold",
-          "+130% Research speed",
-          "+90% Mining speed",
-          "+50.00% Social impact",
-          "+50% Plant work speed",
-          "+70% Plant harvest yield",
-          "+100% Construction speed",
-          "+12.0% Armor - Blunt",
-          "+40.0% Armor - Sharp",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona.\n\nBeing mechanical in nature - 'skeletons' do not need to rest or eat. However, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic.",
-      "defName": "Skeleton_",
-      "enabled": true,
-      "name": "skeleton",
-      "price": 9667
     }
   ]
 }

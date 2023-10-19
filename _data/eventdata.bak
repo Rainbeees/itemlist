@@ -409,10 +409,10 @@
   },
   "manhunterpack": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 1000,
+    "LocalCooldown": 1000,
     "Mod": "Twitch Toolkit"
   },
   "predators": {

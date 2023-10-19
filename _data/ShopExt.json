@@ -1913,7 +1913,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -1930,7 +1932,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2363,7 +2367,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2372,7 +2378,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2389,7 +2397,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2398,7 +2408,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2415,7 +2427,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2424,7 +2438,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2641,7 +2657,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2654,7 +2672,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2671,7 +2691,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2682,7 +2704,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2932,7 +2956,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3026,10 +3050,14 @@
       "stats": [
         "+0.2 foraged food amount"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 foraged food amount"
         ],
@@ -3103,7 +3131,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -3112,7 +3142,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3164,10 +3196,14 @@
         "+4 medical",
         "+20% medical tend quality"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -3543,6 +3579,398 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small + Prerequisites Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is large enough to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small + Prerequisites Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "giant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has granite-like skin. he is quite durable and skilled with guns.",
+      "stats": [
+        "+4 shooting",
+        "+50% rest rate multiplier",
+        "x50% incoming damage multiplier",
+        "x50% stagger time multiplier"
+      ],
+      "conflicts": [
+        "wimp",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp",
+          "brawler"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+50% rest rate multiplier",
+          "x50% incoming damage multiplier",
+          "x50% stagger time multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Secure Contain Rimworld",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SCR_SCP011R",
+      "name": "scp-011"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x95% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x95% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider tham as prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
     }
   ],
   "races": [
