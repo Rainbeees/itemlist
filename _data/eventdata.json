@@ -363,39 +363,39 @@
     "EventType": "Default",
     "HasGlobalCooldown": true,
     "HasLocalCooldown": true,
-    "GlobalCooldown": 2,
+    "GlobalCooldown": 120,
     "LocalCooldown": 30,
     "Mod": "Twitch Toolkit"
   },
   "dropraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "sapperraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "siegeraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "mechanoidraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -417,9 +417,9 @@
   },
   "predators": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 120,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },

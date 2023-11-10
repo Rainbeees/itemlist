@@ -30,6 +30,12 @@
     "version": null
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "The Biomes Mod Team",
     "name": "Biomes! Caverns",
     "steamId": null,
@@ -54,12 +60,6 @@
     "version": null
   },
   {
-    "author": "neronix17",
-    "name": "Clutter Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mort Strudel",
     "name": "Conservationist and Polluter - Mort's Ideologies: Memes and Precepts",
     "steamId": null,
@@ -78,14 +78,14 @@
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Divine Order",
+    "author": "DimonSever000",
+    "name": "Diseases+",
     "steamId": null,
     "version": null
   },
   {
-    "author": "telardo",
-    "name": "DragSelect",
+    "author": "BotchJob",
+    "name": "Divine Order",
     "steamId": null,
     "version": null
   },
@@ -128,24 +128,6 @@
   {
     "author": "Yamazaki and OfGreyHairWaifu",
     "name": "Giant Toads",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jecrell",
-    "name": "H.P. Lovecraft Storyteller",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrus",
-    "name": "Healer Mech Serum Choice",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Baskerville",
-    "name": "Hellsing Hairstyles",
     "steamId": null,
     "version": null
   },
@@ -210,12 +192,6 @@
     "version": null
   },
   {
-    "author": "Bean",
-    "name": "Orks of the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "澄香",
     "name": "OverflowingFlowers",
     "steamId": null,
@@ -236,18 +212,6 @@
   {
     "author": "GHOST",
     "name": "Poleepkwa Xenotype",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Prisoner Arena (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "busted_bunny",
-    "name": "Prisoners Are Not Swines",
     "steamId": null,
     "version": null
   },
@@ -282,62 +246,14 @@
     "version": null
   },
   {
-    "author": "DeeMainiac",
-    "name": "Secure Contain Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SoulfulPumpkin",
-    "name": "Tabletop Trove - Additional Joy Objects and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BlackMarket420",
-    "name": "The Army Of Fetid Corpses",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Arquebus and Woffleman",
     "name": "Thrumbo Plushie",
     "steamId": null,
     "version": null
   },
   {
-    "author": "hana_asagi",
-    "name": "HalloweenParade(continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Witching Hour (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "KinKade and Neronix17",
-    "name": "[O21] Halloween on the Rim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TurtleShroom",
-    "name": "TurtleShroom Productions Proudly Presents: Halloweenie Integration Patch",
+    "author": "Gorlath",
+    "name": "Twitch Toolkit Patches",
     "steamId": null,
     "version": null
   },
@@ -348,14 +264,8 @@
     "version": null
   },
   {
-    "author": "RedMattis",
-    "name": "Big and Small Genes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Vampires, Demons, and the Undead",
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
@@ -414,12 +324,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
@@ -440,6 +344,18 @@
   {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
     "version": null
   },
@@ -480,6 +396,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Plants Expanded - More Plants",
     "steamId": null,
@@ -504,12 +426,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "小面包",
     "name": "Victorian decorations",
     "steamId": null,
@@ -530,12 +446,6 @@
   {
     "author": "MG_Atwood",
     "name": "[ATW] House Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
   },
