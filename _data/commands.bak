@@ -456,8 +456,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 30,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -564,8 +564,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 30,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -1222,41 +1222,5 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbilityLevel"
   }
 ]
