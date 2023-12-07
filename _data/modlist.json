@@ -1,31 +1,7 @@
 [
   {
-    "author": "bradson",
-    "name": "Fishery - Modding Library",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "klvlt",
-    "name": "Almost Impassable Tables",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haecriver",
-    "name": "Assignment Copy",
     "steamId": null,
     "version": null
   },
@@ -36,38 +12,14 @@
     "version": null
   },
   {
-    "author": "YAYO",
-    "name": "Better Jump Pack (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": null,
     "version": null
   },
   {
-    "author": "m00nl1ght-dev",
-    "name": "Biome Transitions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Bulk Smelting (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Trojan - Troopersmith1 - Linq - deathrat",
-    "name": "Death Rattle [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
     "steamId": null,
     "version": null
   },
@@ -84,20 +36,14 @@
     "version": null
   },
   {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Core",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Advanced Shields",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrus",
-    "name": "Healer Mech Serum Choice",
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
     "steamId": null,
     "version": null
   },
@@ -108,56 +54,14 @@
     "version": null
   },
   {
-    "author": "CaptainGeorge",
-    "name": "Malnutrition Reworked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Chiss Ascendancy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Furniture and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Old Republic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Soundtrack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Buildings",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Doors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OptimusPrimordial Ported by Kobo",
+    "name": "Simple Algae - 'VPE More Plants' Addon",
     "steamId": null,
     "version": null
   },
@@ -168,56 +72,8 @@
     "version": null
   },
   {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Beasstmann",
-    "name": "Star Wars Animal Collection (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Weapons and Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Droids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MajesticMadman",
-    "name": "Madman's Star Wars Ships (Aerocraft)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ConanTheCivilian",
-    "name": "Star Wars Retheme: MadMan's Star Wars Ships",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Rebel Alliance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ConanTheCivilian",
-    "name": "Star Wars Retheme: Vanilla Factions Expanded - Empire",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ConanTheCivilian",
-    "name": "Star Wars Retheme: Vanilla Factions Expanded - Deserters",
+    "author": "DetVisor",
+    "name": "Stoneborn - Delights",
     "steamId": null,
     "version": null
   },
@@ -228,20 +84,20 @@
     "version": null
   },
   {
-    "author": "busted_bunny",
-    "name": "Throw Them (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Arquebus and Woffleman",
     "name": "Thrumbo Plushie",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Underground Power Conduits",
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
     "steamId": null,
     "version": null
   },
@@ -254,6 +110,12 @@
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
     "steamId": null,
     "version": null
   },
@@ -300,50 +162,20 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Plants Expanded - Mushrooms",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Ancient Complex Loot",
+    "author": "Eagle0600",
+    "name": "Dress Patients (1.4)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Camp Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson, Chowder and Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
+    "author": "Lilscoot + Bustedbunny (Updated by SL4VP0WER)",
+    "name": "Wheelchairs",
     "steamId": null,
     "version": null
   },
@@ -354,26 +186,14 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] More Quests",
+    "author": "ELUN982697019",
+    "name": "[MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture",
     "steamId": null,
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Simply Soil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Furnishing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker and Taranchuk",
-    "name": "[RH2] CPERS: Arrest Here!",
+    "author": "elun982697019",
+    "name": "[MUS]捕鱼装饰 FishingDecorative",
     "steamId": null,
     "version": null
   },
