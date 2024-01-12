@@ -18,12 +18,6 @@
     "version": null
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Islands",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Door Clearance",
     "steamId": null,
@@ -32,6 +26,30 @@
   {
     "author": "telardo",
     "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Expanded - Euglena Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Expanded - Implantor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Expanded - Slime Printer",
     "steamId": null,
     "version": null
   },
@@ -48,8 +66,32 @@
     "version": null
   },
   {
+    "author": "j.downey",
+    "name": "JDsmeleexenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "rswallen",
     "name": "Linked Planters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AgentBlac",
+    "name": "Luciferium Rain (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vaniat",
+    "name": "Polarisbloc - Core LAB",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vaniat",
+    "name": "Polarisbloc - Security Force",
     "steamId": null,
     "version": null
   },
@@ -150,6 +192,12 @@
     "version": null
   },
   {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and legodude17",
     "name": "Vanilla Ideology Expanded - Relics and Artifacts",
     "steamId": null,
@@ -164,6 +212,12 @@
   {
     "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Plants Expanded - Mushrooms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
   },

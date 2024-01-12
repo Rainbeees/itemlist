@@ -316,11 +316,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -424,12 +419,7 @@
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 84
 }
