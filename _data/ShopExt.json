@@ -2059,7 +2059,7 @@
       "name": "boundless"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -11477,6 +11477,1156 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is now a natural hunter.",
+      "stats": [
+        "+1 shooting",
+        "+1 animals"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
+      "stats": [],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PM_PridefulTrait",
+      "name": "prideful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a biotic god.",
+      "stats": [
+        "x50 biotic energy limit",
+        "x50 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x50 biotic energy limit",
+          "x50 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticGod",
+      "name": "bioticgod"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
+      "stats": [
+        "-0.8 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.8 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydeaf"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
+      "stats": [
+        "-0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.5 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydull"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
+      "stats": [
+        "+0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.5 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallyskilled"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallytalented"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "shellcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has plenty of experience dealing with slaves, and knows well what makes them tick. Timmy also doesn't really care if something... unfortunate happens to one.",
+      "stats": [
+        "+10% suppression power"
+      ],
+      "conflicts": [
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "+10% suppression power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "ESCP - Race Tools",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ESCP_Slaver",
+      "name": "slaver"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "This pawn is a Woodcutter, a master lumberjack who has become extremely adept at using hatchets as weapons.",
+      "stats": [
+        "+1.00 move speed",
+        "+7.5 melee hit chance",
+        "+5% pain shock threshold",
+        "+50% plant work speed",
+        "+5% mental break threshold",
+        "-10% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1.00 move speed",
+          "+7.5 melee hit chance",
+          "+5% pain shock threshold",
+          "+50% plant work speed",
+          "+5% mental break threshold",
+          "-10% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Woodcutter",
+      "name": "woodcutter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "I've spend years training amongst the bean threaders, and yet even now I feel as if I have only scratched the surface.",
+      "stats": [
+        "+4 cooking",
+        "+50% bean affinity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 cooking",
+          "+50% bean affinity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BeanThreading",
+      "name": "beanthreadingnovice"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "The master gives me the beans, and I thread them. I think I've finally started to get the hang of it, and it's only been 10 years!",
+      "stats": [
+        "+6 cooking",
+        "+80% bean affinity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6 cooking",
+          "+80% bean affinity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BeanThreading",
+      "name": "beanthreadingjourneyman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "I graduated top of my class from the bean threading school, after 12 years of training. I've been working on my own for a few years since then, so I'm considered a bit of a veteran. And yet... the true masters can do such wonders!",
+      "stats": [
+        "+8 cooking",
+        "+110% bean affinity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+8 cooking",
+          "+110% bean affinity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BeanThreading",
+      "name": "beanthreadingveteran"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "To a true master, bean threading is more than a job. More than an art, even. It's a way of communing with the fundamental forces of the universe, a path to enlightenment. That is what separates the master bean threader from the rest.",
+      "stats": [
+        "+12 cooking",
+        "+250% bean affinity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+12 cooking",
+          "+250% bean affinity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BeanThreading",
+      "name": "beanthreadingmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a talent for languages, giving his a major edge when dealing with the many cultures of the Rim.",
+      "stats": [
+        "+20.00% trade price improvement",
+        "+30.00% negotiation ability",
+        "+15.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20.00% trade price improvement",
+          "+30.00% negotiation ability",
+          "+15.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Multilingual",
+      "name": "multilingual"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the cold and is well adjusted to it. he will never complain about it being too cold. Watch out for hypothermia, though.",
+      "stats": [
+        "-12.0C Minimum comfortable temperature",
+        "-6.0C Maximum comfortable temperature"
+      ],
+      "conflicts": [
+        "heatlover"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heatlover"
+        ],
+        "stats": [
+          "-12.0C Minimum comfortable temperature",
+          "-6.0C Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ColdLover",
+      "name": "coldlover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the heat and is well adjusted to it. he will never complain about it being too hot. Watch out for heatstroke, though.",
+      "stats": [
+        "+12.0C Maximum comfortable temperature",
+        "+6.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "coldlover"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coldlover"
+        ],
+        "stats": [
+          "+12.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HeatLover",
+      "name": "heatlover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is constantly changing beliefs and loyalties. Most would call him unreliable.",
+      "stats": [
+        "x85% social impact",
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x85% social impact",
+          "x200% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Stubbornness",
+      "name": "fickle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy refuses to change his beliefs. It can get a bit annoying.",
+      "stats": [
+        "x85% social impact",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x85% social impact",
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Stubbornness",
+      "name": "stubborn"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A poet of later times wrote of Timmy:\n\t\t\t\t\nTimmy's mighty name hangs proudly on the upper sphere;\nStern and grand, the royal liege man's likeness claims respect.\nIn the tri-part world below he spun deep schemes.\nIn the age-old realm of cloud, one single plume unites our gaze.\nWho rank his peers? Yi Yin and Jiang Ziya.\nIn command he was more sure than Xiao or Cao.\nBut the stars had turned, he could not save Han's Reign.\nToiling to the end, body broken, will unbroke.\n\t\t\t\t\n\t\t\t\t",
+      "stats": [
+        "+25.00% social impact",
+        "+50% hunting stealth",
+        "x150% research speed",
+        "x200% global learning factor",
+        "x0% trap spring chance",
+        "x33% aiming time"
+      ],
+      "conflicts": [
+        "stupid",
+        "savant",
+        "semi-feral",
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "stupid",
+          "savant",
+          "semi-feral",
+          "slowlearner"
+        ],
+        "stats": [
+          "+25.00% social impact",
+          "+50% hunting stealth",
+          "x150% research speed",
+          "x200% global learning factor",
+          "x0% trap spring chance",
+          "x33% aiming time"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RareGenius",
+      "name": "raregenius"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Bunga.",
+      "stats": [
+        "Natural meditation focus type allowed.",
+        "-3 intellectual",
+        "-5 social",
+        "-50% research speed",
+        "-50.00% trade price improvement",
+        "+15% global work speed"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "rich",
+        "toosmart"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fastlearner",
+          "rich",
+          "toosmart"
+        ],
+        "stats": [
+          "Natural meditation focus type allowed.",
+          "-3 intellectual",
+          "-5 social",
+          "-50% research speed",
+          "-50.00% trade price improvement",
+          "+15% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_SemiFeral",
+      "name": "semi-feral"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "I know everything there is to know about rocks (and minerals too).",
+      "stats": [
+        "+4 mining",
+        "+30% mining yield"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 mining",
+          "+30% mining yield"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_RockExpert",
+      "name": "rockexpert"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally gifted at research, but almost completely incapable of socializing.",
+      "stats": [
+        "+8 intellectual",
+        "-12 social",
+        "+200% research speed",
+        "-80.00% trade price improvement"
+      ],
+      "conflicts": [
+        "stupid",
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "stupid",
+          "slowlearner"
+        ],
+        "stats": [
+          "+8 intellectual",
+          "-12 social",
+          "+200% research speed",
+          "-80.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Savant",
+      "name": "savant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a passion for medical work. Unfortunately, his enthusiasm is not matched by skill. As a result he can tend wounds quickly, but not effectively.",
+      "stats": [
+        "+4 medical",
+        "-150% medical tend quality",
+        "+150% medical tend speed",
+        "+150% medical operation speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 medical",
+          "-150% medical tend quality",
+          "+150% medical tend speed",
+          "+150% medical operation speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Surgeon",
+      "name": "maddoctor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "For some reason, Timmy's morphic field is extremely weak and he is more vulnerable than most to polymorphing.",
+      "stats": [
+        "x200% polymorph sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x200% polymorph sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PolymorphResistance",
+      "name": "polymorphvulnerability"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has an extremely strong morphic field. Attacks that cause polymorphing will nave no effect.",
+      "stats": [
+        "x0% polymorph sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x0% polymorph sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PolymorphResistance",
+      "name": "polymorphimmunity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "I'm rich you know",
+      "stats": [
+        "+4 social",
+        "+30.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+30.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Rich",
+      "name": "rich"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "wuh?",
+      "stats": [
+        "-4 intellectual",
+        "-25% global learning factor",
+        "-50% research speed",
+        "-20.00% trade price improvement",
+        "-10% global work speed"
+      ],
+      "conflicts": [
+        "toosmart",
+        "fastlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "toosmart",
+          "fastlearner"
+        ],
+        "stats": [
+          "-4 intellectual",
+          "-25% global learning factor",
+          "-50% research speed",
+          "-20.00% trade price improvement",
+          "-10% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Stupid",
+      "name": "stupid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "\"Dead is only for once, but running away is for ever.\" \n\t\t-Noted Runner",
+      "stats": [
+        "+0.50 move speed"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "stats": [
+          "+0.50 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Rincewind",
+      "name": "runner"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves the taste of bug meat, a fact which normal people find vile.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Buglover",
+      "name": "buglover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is completely devoid of magical or psionic abilities.",
+      "stats": [
+        "x0% psychic sensitivity"
+      ],
+      "conflicts": [
+        "psychicallyhypersensitive",
+        "psychicallysensitive",
+        "psychicallydull",
+        "psychicallydeaf",
+        "magicallygifted",
+        "empath",
+        "apothecary",
+        "icemage",
+        "arcanemage",
+        "lightningmage",
+        "firemage",
+        "paladin",
+        "physicallyadept",
+        "summoner",
+        "druid",
+        "necromancer",
+        "priest",
+        "lich",
+        "entertainer",
+        "performer",
+        "minstrel",
+        "bard",
+        "faceless",
+        "psionic",
+        "succubus",
+        "warlock",
+        "geomancer",
+        "technomancer",
+        "deathknight",
+        "enchanter",
+        "bloodmage",
+        "chronomancer",
+        "wanderer",
+        "wayfarer",
+        "chaosmage",
+        "shadow",
+        "brightmage",
+        "shaman",
+        "golemancer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "psychicallyhypersensitive",
+          "psychicallysensitive",
+          "psychicallydull",
+          "psychicallydeaf",
+          "magicallygifted",
+          "empath",
+          "apothecary",
+          "icemage",
+          "arcanemage",
+          "lightningmage",
+          "firemage",
+          "paladin",
+          "physicallyadept",
+          "summoner",
+          "druid",
+          "necromancer",
+          "priest",
+          "lich",
+          "entertainer",
+          "performer",
+          "minstrel",
+          "bard",
+          "faceless",
+          "psionic",
+          "succubus",
+          "warlock",
+          "geomancer",
+          "technomancer",
+          "deathknight",
+          "enchanter",
+          "bloodmage",
+          "chronomancer",
+          "wanderer",
+          "wayfarer",
+          "chaosmage",
+          "shadow",
+          "brightmage",
+          "shaman",
+          "golemancer"
+        ],
+        "stats": [
+          "x0% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_Squib",
+      "name": "squib"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "I can't believe you would do this to me, master bean man! I've been your loyal bean threading apprentice for the last twelve years! I don't care if you disappove of me fucking the beans, I can still stretch them into threads better than all my peers. I haven't ruined a batch of bean threads for over 9 years, and this is the thanks I get from you?! I'm going to open my own bean threading shop and run you out of town old man!",
+      "stats": [
+        "+10 cooking",
+        "-5 social",
+        "+130% bean affinity",
+        "+30% fertility"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10 cooking",
+          "-5 social",
+          "+130% bean affinity",
+          "+30% fertility"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Storytime Official Mod",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ST_BeanFucker",
+      "name": "beanfucker"
     }
   ],
   "races": [
@@ -11501,6 +12651,155 @@
       "enabled": true,
       "name": "human",
       "price": 500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+26.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An omnivorous, reptile-like race that was rescued from their dying homeworld by the hanar. Since then, the drell have remained loyal to them for their camaraderie and have fit comfortably into galactic civilization. Their culture allows Drell to separate their mind from their body, helping them through hard times and work. They are predisposed to Kepral's syndrome, a lethal condition which can develop if Drell stays in cold temperatures too long.",
+      "defName": "RE_Drell",
+      "enabled": true,
+      "name": "drell",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+110% Flammability",
+          "+$500 Market value",
+          "+4.50 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A large, green person with tusks. Unclear whether friendly or not.",
+      "defName": "Alien_Beet",
+      "enabled": true,
+      "name": "beet",
+      "price": 833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+150% Flammability",
+          "+$500 Market value",
+          "+4.00 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+90% Psychic sensitivity",
+          "+50% Fertility"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "What a strange creature.",
+      "defName": "Alien_BeanMan",
+      "enabled": true,
+      "name": "bean man",
+      "price": 833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+100% Flammability",
+          "+$500 Market value",
+          "+5.75 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+50% Psychic sensitivity",
+          "+40% Toxic environment resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "the rimworld goblin.",
+      "defName": "Alien_Goblin",
+      "enabled": true,
+      "name": "Goblin",
+      "price": 833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+110% Flammability",
+          "+$500 Market value",
+          "+6.25 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+50% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "This jeub seems smarter and less insane than the rest. Perhaps it is from the royal family?",
+      "defName": "Alien_Jeub",
+      "enabled": true,
+      "name": "royal jeub",
+      "price": 833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+110% Flammability",
+          "+$500 Market value",
+          "+4.50 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Half frog, half person. Powerful.",
+      "defName": "Alien_FrogPerson",
+      "enabled": true,
+      "name": "frog person",
+      "price": 833
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+40.00 Mass",
+          "+110% Flammability",
+          "+$500 Market value",
+          "+4.50 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+40 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Like a mini man!",
+      "defName": "Alien_Gnome",
+      "enabled": true,
+      "name": "gnome",
+      "price": 833
     }
   ]
 }
