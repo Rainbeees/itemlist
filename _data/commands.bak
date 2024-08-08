@@ -544,9 +544,9 @@
       "isShortcut": true,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
+      "hasGlobalCooldown": true,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
+      "hasLocalCooldown": true,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },

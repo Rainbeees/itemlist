@@ -6,15 +6,51 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
+  },
+  {
+    "author": "Edge Crescent",
+    "name": "HousekeeperAssistanceCat",
+    "steamId": "1541620640",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
+    "name": "Vanilla Animals Expanded — Waste Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SamBucher",
+    "name": "A Dog Said... Animal Prosthetics 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LegendaryMinuteman",
+    "name": "Age Reversing Mech Serum",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg",
     "name": "Alpha Biomes",
     "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Implants",
+    "steamId": "3275091331",
     "version": "1.0.0.0"
   },
   {
@@ -26,6 +62,30 @@
   {
     "author": "Sarg Bjornson",
     "name": "Alpha Props - Parks and Gardens",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dninemfive",
+    "name": "Ambrosial Longevity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LegendaryMinuteman",
+    "name": "Ball and Chain Slave Body Strap",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Cats of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Dragons of the Rim",
     "steamId": null,
     "version": null
   },
@@ -42,10 +102,28 @@
     "version": "1.0.0"
   },
   {
+    "author": "Bean",
+    "name": "Dwarves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Elves of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Erin",
     "name": "Erin's Cottage Collection",
     "steamId": "2977561141",
     "version": "1.0.8866.27181"
+  },
+  {
+    "author": "Verdiss",
+    "name": "Faster Aging",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Meng De",
@@ -54,10 +132,40 @@
     "version": null
   },
   {
-    "author": "Edge Crescent",
-    "name": "HousekeeperAssistanceCat",
-    "steamId": "1541620640",
-    "version": "1.0.0.0"
+    "author": "Zylle",
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "themoistestwhale",
+    "name": "GiTS Cyberbrains",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bean",
+    "name": "Goblins of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lewkah0",
+    "name": "I Miss My Limbs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ZreX",
+    "name": "I'm Proud of it!",
+    "steamId": "3305125244",
+    "version": "1.0.0"
+  },
+  {
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirMashedPotato",
@@ -66,10 +174,34 @@
     "version": null
   },
   {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "3226161877",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Bean",
+    "name": "Orks of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Bean",
+    "name": "Terrors of the Rim",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",
@@ -90,10 +222,22 @@
     "version": "7.0.3.0-beta+a805c319a49af0ec62edf20a182bb3a911869b36"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
-    "name": "Vanilla Animals Expanded — Waste Animals",
+    "author": "Captolamia",
+    "name": "Toolkit - Channel Points (ressurected) 1.5",
+    "steamId": "3240408211",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Kost",
+    "name": "True Golden Floors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ushanka",
+    "name": "Ushankas Luciferium Expansion",
+    "steamId": "3227008885",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -148,5 +292,11 @@
     "name": "Vanilla Recycling Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "gguake",
+    "name": "Vivi Race",
+    "steamId": "3241577976",
+    "version": "1.0.0.0"
   }
 ]
